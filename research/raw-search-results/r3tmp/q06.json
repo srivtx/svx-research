@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://softwareengineering.stackexchange.com/questions/375342/what-are-the-barriers-that-prevent-widespread-adoption-of-formal-methods",
+    "name": "What are the barriers that prevent widespread adoption of formal",
+    "snippet": "Jul 17, 2018 · Resource constraints, budget constraints, time constraints, they are all important. Developing software using formal methods is usually ...",
+    "host_name": "softwareengineering.stackexchange.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+    "name": "Prediction: AI will make formal verification go mainstream",
+    "snippet": "AI will bring formal verification, which for decades has been a bit of a fringe pursuit, into the software engineering mainstream. is both very difficult … and ...",
+    "host_name": "martin.kleppmann.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://conf.researchr.org/home/Formalise-2025",
+    "name": "FormaliSE 2025 - Research Track",
+    "snippet": "The FormaliSE conference series promotes work at the intersection of the formal methods and software engineering communities, providing a venue to exchange ...",
+    "host_name": "conf.researchr.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/269393704_Study_on_the_Barriers_to_the_Industrial_Adoption_of_Formal_Methods",
+    "name": "Study on the Barriers to the Industrial Adoption of Formal Methods",
+    "snippet": "Commonly cited challenges include an unfavorable learning curve, concerns over cost-effectiveness, difficulties in integrating FM into existing development ...",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.darpa.mil/research/research-spotlights/formal-methods/examples",
+    "name": "Formal Methods Examples - DARPA",
+    "snippet": "Formal methods are mathematically rigorous techniques that create mathematical proofs for developing software that eliminate virtually all exploitable ...",
+    "host_name": "www.darpa.mil",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ranjitjhala.github.io/static/oopsla25-formal.pdf",
+    "name": "[PDF] On the Impact of Formal Verification on Software Development",
+    "snippet": "Some participants felt that sometimes formal proof was unnecessary, and testing was sufficient. Publication date: October 2025.",
+    "host_name": "ranjitjhala.github.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/programming/comments/1u5v9pd/formal_methods_and_the_future_of_programming",
+    "name": "Formal methods and the future of programming - Reddit",
+    "snippet": "Jun 14, 2026 · Businesses already invest in formal methods because they have sensitive components, like cryptography and because it can save them massive ...",
+    "host_name": "www.reddit.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=42656433",
+    "name": "Formal Methods: Just Good Engineering Practice? (2024)",
+    "snippet": "Jan 10, 2025 · The sheer scale of available software and how incredibly reliable it is, has made formal methods irrelevant to mainstream software development.",
+    "host_name": "news.ycombinator.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2507.14330v1",
+    "name": "Leveraging LLMs for Formal Software Requirements - arXiv",
+    "snippet": "Jul 18, 2025 · The VERIFAI project Beg et al. (2025) aims to address a central challenge of formal software engineering: translating informal, natural-language ...",
+    "host_name": "arxiv.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bertrandmeyer.com/2025/02/13/software-engineering-as-a-domain-to-formalize",
+    "name": "New preprint: Software engineering as a domain to formalize",
+    "snippet": "Feb 13, 2025 · Software engineering research has developed formal techniques of specification and verification as an application of mathematics to specify and ...",
+    "host_name": "bertrandmeyer.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

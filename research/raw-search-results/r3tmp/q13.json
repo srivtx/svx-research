@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arxiv.org/html/2602.00180v1",
+    "name": "Spec-Driven Development:From Code to Contract in the Age of AI",
+    "snippet": "Jan 30, 2026 · Code is reviewed against both spec and plan to verify alignment. Unit tests are written to encode spec requirements as executable assertions.",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.jamasoftware.com/blog/what-is-spec-driven-development-sdd-for-ai-powered-engineering",
+    "name": "Spec-Driven Development (SDD) for AI-Powered Engineering",
+    "snippet": "May 29, 2026 · AI coding agents need structured specs to produce traceable, audit-ready code. See how spec-driven development (SDD) closes the gap.",
+    "host_name": "www.jamasoftware.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.augmentcode.com/guides/what-is-spec-driven-development",
+    "name": "What Is Spec-Driven Development? A Complete Guide",
+    "snippet": "Apr 23, 2026 · Spec-driven development is a methodology that treats specifications as executable contracts from which AI agents derive code, preventing ...",
+    "host_name": "www.augmentcode.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+    "name": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
+    "snippet": "Oct 15, 2025 · Spec-driven development means writing a “spec” before writing code with AI (“documentation first”). The spec becomes the source of truth for ...",
+    "host_name": "martinfowler.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1rg0b9i/has_anyone_tried_the_spec_driven_development",
+    "name": "Has anyone tried the Spec Driven Development : r/ClaudeCode",
+    "snippet": "Feb 27, 2026 · The AI will now update your code according to the spec changes. SDD just means, that you go from spec to code, instead of writing code first an ...",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://thoughtworks.medium.com/spec-driven-development-d85995a81387",
+    "name": "Spec-driven development - Thoughtworks - Medium",
+    "snippet": "Dec 9, 2025 · Unpacking one of 2025's key new AI-assisted engineering practices. By Liu Shangqi. Spec-driven development may not have the visibility of a ...",
+    "host_name": "thoughtworks.medium.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://club.ministryoftesting.com/t/spec-driven-development-with-ai-is-anyone-using-this/86684",
+    "name": "Spec-driven development with AI - is anyone using this? - Discussions",
+    "snippet": "Sep 23, 2025 · So you have specifications, AI then creates unit tests, from the unit tests it creates product code, from the product code it creates acceptance ...",
+    "host_name": "club.ministryoftesting.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cTJorhnxrFI&vl=en",
+    "name": "Spec-Driven Development with AI Agents From High  - YouTube",
+    "snippet": "Feb 27, 2026 · Spec-Driven Development with AI Agents: From High-Level Requirements to Working Software AI coding agents are powerful, but they often feel ...",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bug0.com/blog/spec-driven-development-testing-gap",
+    "name": "What is spec-driven development? The missing testing layer | Bug0",
+    "snippet": "Rating 5.0 (5) · $2,500.00 Jul 13, 2026 · Spec-driven development needs a testing layer. Here's what most teams skip. Spec-driven development turns a written spec into AI-generated code.",
+    "host_name": "bug0.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://addyosmani.com/blog/good-spec",
+    "name": "How to write a good spec for AI agents | AddyOsmani.com",
+    "snippet": "Jan 13, 2026 · Learn how to write effective specifications for AI coding agents to improve clarity, focus, and productivity in your AI-driven development ...",
+    "host_name": "addyosmani.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

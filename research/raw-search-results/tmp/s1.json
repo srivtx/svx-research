@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://deviniti.com",
+    "name": "5 reasons why people say they hate using Jira",
+    "snippet": "Apr 13, 2023 — 1. Is Jira lacking features ? · 2. Slower, and slower… · 3. Not-so-intuitive configuration · 4. Too complex · 5. No idea management features to keep ... Read more",
+    "host_name": "deviniti.com",
+    "rank": 0,
+    "date": "Apr 13, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Why Developers Hate Jira (and What We're Doing About It)",
+    "snippet": "Nov 14, 2025 — They contorted their behavior to make the tickets look good . They gamed velocity metrics. They spent hours feeding the beast instead of shipping ... Read more",
+    "host_name": "dev.to",
+    "rank": 1,
+    "date": "Nov 14, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "I feel like hating on Jira is the pastime that is now passed",
+    "snippet": "I feel like hating on Jira is the pastime that is now passed down from each generation of programmers to the next. I'm going to stick up for Jira . Read more",
+    "host_name": "news.ycombinator.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://community.atlassian.com",
+    "name": "Feedback about degraded user experience and usabil",
+    "snippet": "The new navigation interface (rolling out May 2025 ) has been heavily criticized for being chaotic, reducing efficiency, and forcing more clicks to perform ...",
+    "host_name": "community.atlassian.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://club.ministryoftesting.com",
+    "name": "I hate JIRA, do you? - Discussions",
+    "snippet": "Feb 20, 2025 — My biggest problem is not Jira itself, but how people are using it . Using it for command & control sucks. Having trustful relations with people ... Read more",
+    "host_name": "club.ministryoftesting.com",
+    "rank": 4,
+    "date": "Feb 20, 2025",
+    "favicon": ""
+  }
+]

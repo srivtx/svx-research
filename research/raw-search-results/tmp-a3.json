@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://arxiv.org",
+    "name": "Portable Agent Memory: A Protocol for Provenance",
+    "snippet": "May 10, 2026 — Mem0's memory is stored in their cloud infrastructure , creating a new form of vendor lock-in. Zep (Rasmussen et al., 2025)",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "May 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.devgenius.io",
+    "name": "AI Agent Memory Systems in 2026: Mem0, Zep, Hindsight",
+    "snippet": "Mar 20, 2026 — Mem0 is probably the most widely known memory library in the agentic space right now. The Mem0 research paper (published April 2025 on ArXiv)",
+    "host_name": "blog.devgenius.io",
+    "rank": 1,
+    "date": "Mar 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.spheron.network",
+    "name": "Agent Memory Infrastructure on GPU Cloud: Deploy Mem0",
+    "snippet": "Apr 24, 2026 — This post focuses on the memory tier specifically: what Mem0 , Zep , and Letta actually need from your GPU, and how to deploy them on Spheron.",
+    "host_name": "www.spheron.network",
+    "rank": 2,
+    "date": "Apr 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://agility-at-scale.com",
+    "name": "Enterprise AI Agent Memory and State Management",
+    "snippet": "Through 2025 and into 2026, memory moved out of the demo tier, it functions as durable infrastructure",
+    "host_name": "agility-at-scale.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.puppyone.ai",
+    "name": "Best AI Agent Memory Platforms 2026: Mem0 vs Zep vs Letta",
+    "snippet": "Apr 21, 2026 — Mem0 when you want a memory API for an existing app, Avoids copied memories and vendor lock-in Does. Robust memory helps an organization ...",
+    "host_name": "www.puppyone.ai",
+    "rank": 4,
+    "date": "Apr 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://mem0.ai",
+    "name": "State of AI Agent Memory 2026: Benchmarks & Trends",
+    "snippet": "Apr 1, 2026 — The Mem0 research paper published at ECAI 2025 . Zep on the LoCoMo benchmark. vs Zep comparison, portable memory across tools",
+    "host_name": "mem0.ai",
+    "rank": 5,
+    "date": "Apr 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://vectorize.io",
+    "name": "Mem0 vs Zep (Graphiti): AI Agent Memory Compared (2026)",
+    "snippet": "Mar 15, 2026 — Zep Cloud abstracts the infrastructure . ... For teams with strict data residency requirements or those who want to avoid vendor lock-in , Mem0's ... Read more",
+    "host_name": "vectorize.io",
+    "rank": 6,
+    "date": "Mar 15, 2026",
+    "favicon": ""
+  }
+]

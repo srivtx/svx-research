@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://github.blog",
+    "name": "Demonstrating end-to-end traceability with pull requests",
+    "snippet": "Jul 12, 2023 — Committed code is discussed, reviewed, tested, analyzed for security issues, approved, and deployed within the context of a pull request,",
+    "host_name": "github.blog",
+    "rank": 0,
+    "date": "Jul 12, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://learn.microsoft.com",
+    "name": "End-to-end traceability - Azure DevOps",
+    "snippet": "Mar 3, 2026 — DevOps supports end-to-end traceability by linking various objects in your development process, such as work items, branches, commits , pull ...",
+    "host_name": "learn.microsoft.com",
+    "rank": 1,
+    "date": "Mar 3, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://nhimg.org",
+    "name": "Why does end-to-end traceability reduce software supply",
+    "snippet": "2 days ago — Why does end-to-end traceability reduce software supply chain risk in DevSecOps?",
+    "host_name": "nhimg.org",
+    "rank": 2,
+    "date": "Sep 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.augmentcode.com",
+    "name": "Best Incident Management Software (2026)",
+    "snippet": "May 18, 2026 — Compare the best incident management software for 2026, including PagerDuty and Opsgenie alternatives, with pricing and feature breakdowns.",
+    "host_name": "www.augmentcode.com",
+    "rank": 3,
+    "date": "May 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.kinto-technologies.com",
+    "name": "Efforts to Improve Deploy Traceability to Multiple",
+    "snippet": "Oct 10, 2024 — Efforts to enhance traceability by leveraging JIRA and GitHub Actions to visualize deployments and automatically generate release notes.",
+    "host_name": "blog.kinto-technologies.com",
+    "rank": 4,
+    "date": "Oct 10, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.jamasoftware.com",
+    "name": "The Benefits of End-to-End Traceability",
+    "snippet": "Through end-to-end traceability , teams can see if a product is on track, as well as view any and all of the history and context associated.",
+    "host_name": "www.jamasoftware.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://help.vanta.com",
+    "name": "Tracking Incident Management and Resolution Tickets in",
+    "snippet": "Oct 16, 2025 — Vanta can track tickets you use during and after incidents to help provide evidence of your incident management process. Read more",
+    "host_name": "help.vanta.com",
+    "rank": 6,
+    "date": "Oct 16, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://deviniti.com",
+    "name": "Jira incident management. Effective and secure best",
+    "snippet": "Jul 8, 2025 — In this article, you will find everything you need to know about Jira incident management and how to plan it in Jira Service Management.",
+    "host_name": "deviniti.com",
+    "rank": 7,
+    "date": "Jul 8, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.atlassian.com",
+    "name": "Learn how to manage incidents in Jira Service Management",
+    "snippet": "Everything you need to know about incident management in Jira Service Management. Best practices, step-by-step guides, and tutorials for getting started.",
+    "host_name": "www.atlassian.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://trusted-services.readthedocs.io",
+    "name": "Test Executables — Trusted Services 1.0.0 documentation",
+    "snippet": "The CppUtest test framework is used for running tests and capturing results. The component- test executable may be built and run very quickly to obtain a first ... Read more",
+    "host_name": "trusted-services.readthedocs.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Runtime Verification Based on Executable Models",
+    "snippet": "Runtime verification is checking whether a system execution satisfies or violates a given correctness property. A procedure that automatically, and typically on ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com",
+    "name": "Runtime Verification in Real-Time with the Copilot Language",
+    "snippet": "by I Perez · 2024 · Cited by 12 — Runtime verification is a dynamic software analysis technique that detects if a formally specified property is violated during an execution of a ... Read more",
+    "host_name": "link.springer.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://runtimeverification.com",
+    "name": "FAQ | Runtime Verification Inc",
+    "snippet": "Runtime verification is a computing system analysis and execution approach where data is collected. Runtime verification is not just testing. It can find bugs ...",
+    "host_name": "runtimeverification.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.diva-portal.org",
+    "name": "Test-inspired runtime verification",
+    "snippet": "by A RENBERG · 2014 · Cited by 5 — This work investigates how testing , and specifically unit testing , can be combined with runtime verification . It shows how the syntax of unit tests, written in ... Read more",
+    "host_name": "www.diva-portal.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.kernel.org",
+    "name": "Runtime Verification",
+    "snippet": "Runtime Verification (RV) is a lightweight (yet rigorous) method that complements classical exhaustive verification techniques (such as model checking and ...",
+    "host_name": "docs.kernel.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://repo.valu3s.eu",
+    "name": "Runtime Verification Based on Formal Specification",
+    "snippet": "Formally specify monitors to capture properties of runtime observations and verify them during the execution of the system. Runtime Verification (RV) ...",
+    "host_name": "repo.valu3s.eu",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ayakayorihiro.github.io",
+    "name": "What is Runtime Verification?",
+    "snippet": "Jun 27, 2025 — Runtime Verification (RV ) is a dynamic program analysis that checks program executions, often against formally specified properties. In other ... Read more",
+    "host_name": "ayakayorihiro.github.io",
+    "rank": 7,
+    "date": "Jun 27, 2025",
+    "favicon": ""
+  }
+]

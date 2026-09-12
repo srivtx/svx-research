@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://dev.to",
+    "name": "A Practical Framework for Testing Non-Deterministic AI",
+    "snippet": "Jun 3, 2026 — Documented AI incidents rose to 362 in 2025 from 233 in 2024, while hallucination rates across 26 leading models ranged from 22% to 94%. Read more",
+    "host_name": "dev.to",
+    "rank": 0,
+    "date": "Jun 3, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sitepoint.com",
+    "name": "Testing AI Agents: Validating Non-Deterministic Behavior",
+    "snippet": "Mar 2, 2026 — Comprehensive guide covering Testing AI Agents: Deterministic Evaluation in a Non - Deterministic World with practical implementation details.",
+    "host_name": "www.sitepoint.com",
+    "rank": 1,
+    "date": "Mar 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://kig.re",
+    "name": "Evals: The Unit Tests for the Non-Deterministic Parts of Your App",
+    "snippet": "Jun 22, 2026 — Building an app on top of a language model means part of your code now returns a different answer every time you run it.",
+    "host_name": "kig.re",
+    "rank": 2,
+    "date": "Jun 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://cresta.com",
+    "name": "The New World of Non-Deterministic Testing and Evaluation",
+    "snippet": "Oct 9, 2025 — LLM-powered agents can give infinite valid answers , breaking traditional testing. Learn why non-deterministic AI agents need a layered ...",
+    "host_name": "cresta.com",
+    "rank": 3,
+    "date": "Oct 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://getautonoma.com",
+    "name": "How to Test Non-Deterministic AI Outputs",
+    "snippet": "A flaky AI test means your assertion is too strict, or your prompt is too ambiguous. It is almost never a third thing. Telling those two apart doesn't require ... Read more",
+    "host_name": "getautonoma.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://buildpulse.io",
+    "name": "Flaky LLM Evals in CI",
+    "snippet": "Jul 31, 2026 — Non - deterministic LLM evals wreck your CI signal. Here's how to test LLM applications with evals that fail for real reasons, not model ...",
+    "host_name": "buildpulse.io",
+    "rank": 5,
+    "date": "Jul 31, 2026",
+    "favicon": ""
+  }
+]

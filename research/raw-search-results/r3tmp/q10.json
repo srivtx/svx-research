@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://devops.com",
+    "name": "Growing Adoption of Compliance as Code and Policy as Code",
+    "snippet": "As DevOps has matured, we are seeing compliance as code and policy as code being adopted by many organizations.",
+    "host_name": "devops.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://platformengineering.org",
+    "name": "Policy as code: The platform engineer's guide to automated",
+    "snippet": "Jan 21, 2026 — While this data was originally reported in 2017, looking at the improvements in 2025 shows only a 5-10% decrease, indicating that this issue is ... Read more",
+    "host_name": "platformengineering.org",
+    "rank": 1,
+    "date": "Jan 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "An Empirical Study of Policy-as-Code Adoption in Open-",
+    "snippet": "Jan 9, 2026 — This gap opens promising directions for research on how PaC frameworks could evolve to support trustworthiness, compliance , and lifecycle ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Jan 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://regscale.com",
+    "name": "Exploring Continuous Compliance Automation in 2025",
+    "snippet": "Aug 6, 2025 — This blog unpacks the need for CCA, explores the challenges and drivers behind its adoption , Compliance -as- Code into your CI/CD pipeline. ...",
+    "host_name": "regscale.com",
+    "rank": 3,
+    "date": "Aug 6, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://drata.com",
+    "name": "Policy as Code: Best Practices + Examples",
+    "snippet": "Compliance as code leverages code to define and enforce regulatory requirements by automating compliance checks against industry standards such as HIPAA, NIST, ...",
+    "host_name": "drata.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reged.com",
+    "name": "Regulatory Activity Update: Key Trends Shaping 2025-2026",
+    "snippet": "Federal regulatory actions began slowly in early 2025 but are expected to accelerate during the remainder of the year, cascading down to states and amplifying ... Read more",
+    "host_name": "www.reged.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://primesecured.com",
+    "name": "Understanding IT Compliance: Key Regulations for 2026",
+    "snippet": "Going into 2026, compliance has evolved into a strategic imperative that influences everything from AI adoption to vendor risk.",
+    "host_name": "primesecured.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://biztechmagazine.com",
+    "name": "What Is Policy as Code? How Can It Help Businesses?",
+    "snippet": "Feb 22, 2024 — “By 2026, 80 percent of large software organizations will establish platform engineering teams as internal providers,” according to Gartner. Read more",
+    "host_name": "biztechmagazine.com",
+    "rank": 7,
+    "date": "Feb 22, 2024",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.sonarsource.com",
+    "name": "The AI trust gap: Why code verification matters | Sonar",
+    "snippet": "Jan 22, 2026 — 96% of developers do not fully trust AI-generated code , only 48% always verify it before committing.",
+    "host_name": "www.sonarsource.com",
+    "rank": 0,
+    "date": "Jan 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://tfir.io",
+    "name": "AI Coding Has a Trust Problem: Sonar Data Shows",
+    "snippet": "Jan 9, 2026 — 96% of developers say they do not fully trust AI-generated code to be functionally correct. Despite that skepticism, only 48% say they always  ...",
+    "host_name": "tfir.io",
+    "rank": 1,
+    "date": "Jan 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.theregister.com",
+    "name": "Devs doubt AI-written code, but don't always check it",
+    "snippet": "Jan 9, 2026 — Ninety-six percent of software developers believe AI - generated code isn't functionally correct, yet only 48 percent say they always check code ... Read more",
+    "host_name": "www.theregister.com",
+    "rank": 2,
+    "date": "Jan 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://shiftmag.dev",
+    "name": "42% of Code Is AI-Assisted - But 96% Don't Fully Trust It",
+    "snippet": "Feb 12, 2026 — 96 % of developers , according to this Sonar research, say they don't fully trust AI - generated code . yet 46% don't trust the output.",
+    "host_name": "shiftmag.dev",
+    "rank": 3,
+    "date": "Feb 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://thenewstack.io",
+    "name": "96% of developers don't trust AI code: Here's a step toward",
+    "snippet": "Feb 20, 2026 — According to Sonar's 2026 State of Code: Developer Survey, 96% of developers do not fully trust AI-generated code without manual intervention. Read more",
+    "host_name": "thenewstack.io",
+    "rank": 4,
+    "date": "Feb 20, 2026",
+    "favicon": ""
+  }
+]

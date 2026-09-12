@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.ketryx.com",
+    "name": "Best Practices for Maintaining a Requirement Traceability",
+    "snippet": "In Agile , the Requirement Traceability Matrix (RTM) plays a crucial role in maintaining transparency and ensuring that all requirements are met during each ... Read more",
+    "host_name": "www.ketryx.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.modernrequirements.com",
+    "name": "The Art of Agile Requirements Management",
+    "snippet": "Jan 29, 2025 — Traceability in Agile helps a team maintain a clear line from requirements to delivery, which leads to higher team performance and fewer errors.",
+    "host_name": "www.modernrequirements.com",
+    "rank": 1,
+    "date": "Jan 29, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://club.ministryoftesting.com",
+    "name": "Has anyone used any tools (not excel) be",
+    "snippet": "Feb 28, 2024 — The client would me to create Requirements Traceability Matrix (RTM) tool to achieve the following: Mapping requirements to test cases; Mapping ... Read more",
+    "host_name": "club.ministryoftesting.com",
+    "rank": 2,
+    "date": "Feb 28, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.perforce.com",
+    "name": "Agile Requirements and Traceability",
+    "snippet": "Feb 23, 2023 — To get requirements traceability in Agile , you need an automated tool . In a solution like Perforce ALM, you perform high-level requirements ... Read more",
+    "host_name": "www.perforce.com",
+    "rank": 3,
+    "date": "Feb 23, 2023",
+    "favicon": ""
+  }
+]

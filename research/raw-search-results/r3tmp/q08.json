@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.designsystemscollective.com/the-missing-piece-in-mobile-development-tokens-to-code-chapter-2-cd386259ce40",
+    "name": "The Missing Piece in Mobile Development: Tokens to Code",
+    "snippet": "Dec 5, 2024 · Design tokens are great way to share design elements with development team and make sure app stays consistent with the design changes. iOS and ...",
+    "host_name": "www.designsystemscollective.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dbanks.design/blog/multi-platform",
+    "name": "An Introduction to Multi-Platform Design Systems - dbanks design",
+    "snippet": "Sep 1, 2020 · Let's take a look at how to build cohesion across applications on different platforms. Let's say you have web, android, and iOS applications.",
+    "host_name": "dbanks.design",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/design-systems-cross-platform-consistency-mobile-web-6olpe",
+    "name": "Design Systems for Cross-Platform Consistency: Mobile, Web, VR",
+    "snippet": "Sep 18, 2025 · Using a central set of design tokens. Tools like Style Dictionary or Figma Tokens allow teams to sync these values across platforms. a Swift ...",
+    "host_name": "www.linkedin.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/FigmaDesign/comments/ztbpxr/multiplatform_design_system",
+    "name": "Multi-Platform Design System : r/FigmaDesign - Reddit",
+    "snippet": "Dec 23, 2022 · Hey, what is the best way to keep the design system for a few platforms; web, iOS, and android?It's good practice to have one library with ...",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.figma.com/resource-library/design-tokens",
+    "name": "Design Tokens: How to Sync Design and Code in Figma",
+    "snippet": "A four-step guide to building, theming, and syncing variables. Your brand stays visually coherent across Web, iOS, Android, and any new surface you build for.",
+    "host_name": "www.figma.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developerux.com/2025/06/18/cross-platform-consistency-with-design-systems",
+    "name": "Cross-Platform Consistency with Design Systems - DeveloperUX",
+    "snippet": "Jun 18, 2025 · Learn how design systems create cross-platform consistency, enhance collaboration, and streamline development for a seamless user ...",
+    "host_name": "developerux.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/feconf/cross-platform-design-system-a-15-year-journey-part-1-4e4d",
+    "name": "Cross-Platform Design System: A 1.5-Year Journey (Part 1)",
+    "snippet": "Jun 15, 2025 · Part 1 explores design systems and design tokens, and examines component composition to solve communication issues between designers and ...",
+    "host_name": "dev.to",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bencallahan.com/multi-platform-design-systems",
+    "name": "Multi-platform Design Systems - bencallahan.com",
+    "snippet": "Jan 10, 2024 · Implementing design tokens for consistency across platforms has been successful for many. It helps maintain design integrity while allowing ...",
+    "host_name": "bencallahan.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ititans.com/blog/cross-platform-mobile-ui-with-design-tokens",
+    "name": "Design Tokens & Cross-Platform Consistency in Mobile UI | iTitans",
+    "snippet": "Aug 27, 2025 · In this blog, we'll explore how design tokens solve the problem of design inconsistency, why they're crucial for modern mobile UI, and how to ...",
+    "host_name": "ititans.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@nathanacurtis/managing-design-systems-that-make-many-core-libraries-28b80444865e",
+    "name": "Managing Design Systems with Many Core Libraries - Medium",
+    "snippet": "Oct 28, 2024 · How you align design and engineering and synchronize releases depends on the frameworks, platforms and teams involved.",
+    "host_name": "medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

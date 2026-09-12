@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.accountingseed.com",
+    "name": "4 Ways to Avoid Integration Hell",
+    "snippet": "Aug 22, 2026 — When integrations are implemented for siloed apps, the integration usually must undergo periodic maintenance to keep it working.",
+    "host_name": "www.accountingseed.com",
+    "rank": 0,
+    "date": "Aug 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.devopsdigest.com",
+    "name": "6 Tips to Avoid \"Integration Hell\"",
+    "snippet": "Aug 26, 2016 — 6 Tips to Avoid \"Integration Hell\" · 1. Commit Code Frequently · 2. Fix Broken Builds Immediately · 3. Split the Code: Feature Branches · 4. Rely on ...",
+    "host_name": "www.devopsdigest.com",
+    "rank": 1,
+    "date": "Aug 26, 2016",
+    "favicon": ""
+  },
+  {
+    "url": "https://coasty.ai",
+    "name": "The API Integration Nightmare That's Killing Your Budget",
+    "snippet": "Jun 20, 2026 — Stop burning cash on broken computer use API integrations . The real costs and how to fix them.",
+    "host_name": "coasty.ai",
+    "rank": 2,
+    "date": "Jun 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.apica.io",
+    "name": "Continuous Integration: 5 Tips to Avoid Integration Hell",
+    "snippet": "Here are five actionable tips to help developers create a better experience working with continuous integration and avoid integration hell. Learn more!",
+    "host_name": "www.apica.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.liquibase.com",
+    "name": "Avoid “Integration Hell” Using Continuous Integration",
+    "snippet": "Oct 12, 2015 — It is used to prevent integration problems, to improve the quality of software and to reduce the time taken to deliver. Continuous Integration ...",
+    "host_name": "www.liquibase.com",
+    "rank": 4,
+    "date": "Oct 12, 2015",
+    "favicon": ""
+  }
+]

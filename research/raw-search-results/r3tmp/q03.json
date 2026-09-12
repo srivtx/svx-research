@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://zuplo.com",
+    "name": "A Guide to Contract Testing for API Reliability",
+    "snippet": "Apr 1, 2025 — Contract testing creates a “handshake agreement” between API providers and consumers, defining exactly what data gets sent and what comes back. Read more",
+    "host_name": "zuplo.com",
+    "rank": 0,
+    "date": "Apr 1, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gravitee.io",
+    "name": "Contract Testing: The Missing Link in Your Microservices",
+    "snippet": "May 6, 2025 — Adopting contract testing means shifting how teams think about collaboration and ownership. ... How much does API Management cost in 2025 ? AI ... Read more",
+    "host_name": "www.gravitee.io",
+    "rank": 1,
+    "date": "May 6, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://dataintelo.com",
+    "name": "Contract Testing as a Service Market Research Report 2034",
+    "snippet": "The contract testing as a service market was valued at $2.8 billion in 2025 and is projected to reach $9.6 billion by 2034, growing at a CAGR of 14.7%.",
+    "host_name": "dataintelo.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://totalshiftleft.ai",
+    "name": "API Contract Testing: What It Is & How It Works (2026)",
+    "snippet": "Mar 26, 2026 — The World Quality Report 2025 found that 71% of organizations now run more than 100 internal APIs , and the DevOps Research and Assessment (DORA) ... Read more",
+    "host_name": "totalshiftleft.ai",
+    "rank": 3,
+    "date": "Mar 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://innovation.ebayinc.com",
+    "name": "API Evolution Is a Challenge. Could Contract Testing Be the",
+    "snippet": "The traditional way of due to external dependencies, which makes end-to-end testing brittle and less efficient. This is quite common in real-world scenarios.",
+    "host_name": "innovation.ebayinc.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://club.ministryoftesting.com",
+    "name": "Contract testing: is it something only for complex high",
+    "snippet": "Jun 13, 2024 — Contract testing isn't primarily about replacing API testing - it's about shifting left the discovery of integration problems.",
+    "host_name": "club.ministryoftesting.com",
+    "rank": 5,
+    "date": "Jun 13, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://pactflow.io",
+    "name": "The Case for Contract Testing: Cutting Through API  - PactFlow",
+    "snippet": "Sep 25, 2024 — Contract testing involves multiple layers and requires teamwork between API consumers and providers. It can replace existing tests, affecting ... Read more",
+    "host_name": "pactflow.io",
+    "rank": 6,
+    "date": "Sep 25, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://pflb.us",
+    "name": "Contract Testing : What Is It, Benefits & Use Cases",
+    "snippet": "Jun 5, 2025 — Contract testing is a method used to ensure that services (like APIs or microservices) can communicate correctly with each other, ... Read more",
+    "host_name": "pflb.us",
+    "rank": 7,
+    "date": "Jun 5, 2025",
+    "favicon": ""
+  }
+]

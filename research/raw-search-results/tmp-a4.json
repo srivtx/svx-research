@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.affinidi.com",
+    "name": "Escape Vendor Lock-In, and Build for the Long Run with",
+    "snippet": "Nov 14, 2025 — Learn how DIDs, DIDComm, and open protocols give you freedom from vendor lock -in in the age of autonomous AI agents .",
+    "host_name": "www.affinidi.com",
+    "rank": 0,
+    "date": "Nov 14, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://konghq.com",
+    "name": "Vendor Lock-In in the Age of AI: Risks and How to Avoid",
+    "snippet": "Jun 30, 2026 — Vendor lock -in happens when an ChatGPT outage in January 2025 disrupted workflows for enterprises relying on OpenAI as their sole LLM provider .",
+    "host_name": "konghq.com",
+    "rank": 1,
+    "date": "Jun 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://itea.org",
+    "name": "Avoiding Vendor Lock-In in AI Procurement",
+    "snippet": "by S Bright · Cited by 2 — Modular contracting breaks complex AI projects into interoperable increments, reducing vendor lock-in by enabling multiple vendor engagement. Read more",
+    "host_name": "itea.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://fifthrow.com",
+    "name": "AI Agent Orchestration Goes Enterprise: The April 2026",
+    "snippet": "To reduce vendor lock -in, enterprises adopt open standards like MCP and A2A, leverage hybrid orchestration stacks that support cross- vendor integration,",
+    "host_name": "fifthrow.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.avepoint.com",
+    "name": "Avoid AI Vendor Lock-In: A Multi Model AI Strategy (2026)",
+    "snippet": "Jul 17, 2026 — AI vendor lock-in is the dependency an organization creates when its workflows, agents, and integrations are built around a single AI model or ... Read more",
+    "host_name": "www.avepoint.com",
+    "rank": 4,
+    "date": "Jul 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://masterofcode.com",
+    "name": "How to Avoid AI Vendor Lock-In: A Practical Guide",
+    "snippet": "3 days ago — Avoid AI vendor lock-in by auditing depende ncies, using gateways and MCP, and building a tested plan to switch providers fast.",
+    "host_name": "masterofcode.com",
+    "rank": 5,
+    "date": "Sep 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.truefoundry.com",
+    "name": "Vendor Lock-In Prevention with TrueFoundry's AI Gateway",
+    "snippet": "May 29, 2026 — Vendor lock-in occurs when your system becomes so tied to one provider that switching to another is impractical or costly. In AI /ML, this often ... Read more",
+    "host_name": "www.truefoundry.com",
+    "rank": 6,
+    "date": "May 29, 2026",
+    "favicon": ""
+  }
+]

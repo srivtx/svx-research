@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://launchdarkly.com",
+    "name": "Reducing technical debt from feature flags",
+    "snippet": "Focusing too much on decreasing your stale flag percentage can lead to bad practices in your flag health processes.",
+    "host_name": "launchdarkly.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.growthbook.io",
+    "name": "The Engineer's Guide To Feature Flag Technical Debt [2026]",
+    "snippet": "Jun 9, 2026 — Feature flag technical debt slows down your team and increases risk . Learn how to detect stale flags and prevent technical debt. Feature flag ...",
+    "host_name": "www.growthbook.io",
+    "rank": 1,
+    "date": "Jun 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://flagshark.com",
+    "name": "The Complete Guide to Managing Feature Flag Technical",
+    "snippet": "Jun 4, 2025 — Learn to identify, prevent, and eliminate feature flag technical debt . Practical strategies to save your team $125k+ annually.",
+    "host_name": "flagshark.com",
+    "rank": 2,
+    "date": "Jun 4, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.statsig.com",
+    "name": "Managing feature flag technical debt",
+    "snippet": "Jun 23, 2025 — Learn how to manage feature flags effectively to prevent technical debt. Discover best practices and actionable tips now!",
+    "host_name": "www.statsig.com",
+    "rank": 3,
+    "date": "Jun 23, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.getunleash.io",
+    "name": "Managing Feature Flag Technical Debt",
+    "snippet": "Feature flag technical debt accumulates when flags are not managed or retired after their intended use, leading to increased complexity and risk.",
+    "host_name": "docs.getunleash.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gitar.ai",
+    "name": "More Feature Flags, Less Tech Debt | Gitar Blog",
+    "snippet": "May 15, 2024 — These “ stale flags ” pollute your code with dead paths, which have negative consequences: code becomes harder to understand, test, and debug; ... Read more",
+    "host_name": "gitar.ai",
+    "rank": 5,
+    "date": "May 15, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://mixpanel.com",
+    "name": "Feature flag cleanup: how to manage technical debt before",
+    "snippet": "Aug 12, 2026 — This article shows engineers when a flag is no longer useful, how to build an easy auditing process to remove stale flags regularly, and how to ...",
+    "host_name": "mixpanel.com",
+    "rank": 6,
+    "date": "Aug 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://reflag.com",
+    "name": "Best Solutions for Automated Feature Flag Cleanup",
+    "snippet": "Oct 24, 2025 — Reflag offers self-cleaning flags . It's an AI-based solution to flag cleanup that uses LLMs to refactor code to remove stale flags and outdated ... Read more",
+    "host_name": "reflag.com",
+    "rank": 7,
+    "date": "Oct 24, 2025",
+    "favicon": ""
+  }
+]

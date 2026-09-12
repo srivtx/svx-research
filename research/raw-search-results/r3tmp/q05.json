@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://stackoverflow.blog",
+    "name": "Mind the gap: Closing the AI trust gap for developers",
+    "snippet": "Feb 18, 2026 — Only 29% of 2025 respondents said they trust AI , down 11 percentage points from 2024. In 2025 , we saw usage rise to 84% even as trust dropped ...",
+    "host_name": "stackoverflow.blog",
+    "rank": 0,
+    "date": "Feb 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://interclypse.com",
+    "name": "The AI Trust Gap: What Developers Actually Believe About",
+    "snippet": "Aug 24, 2026 — The 2025 survey results page reports that 46% of developers actively distrust the accuracy of AI tools while 33% trust them, with 3% saying they ... Read more",
+    "host_name": "interclypse.com",
+    "rank": 1,
+    "date": "Aug 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sonarsource.com",
+    "name": "The AI trust gap: Why code verification matters | Sonar",
+    "snippet": "Jan 22, 2026 — A critical trust gap exists in AI -assisted development: while 96% of developers do not fully trust AI - generated code , only 48% always verify it ...",
+    "host_name": "www.sonarsource.com",
+    "rank": 2,
+    "date": "Jan 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.augmentcode.com",
+    "name": "Reviewing AI-Generated Code: A Verification Discipline for",
+    "snippet": "Jul 24, 2026 — Sonar's survey adds a sharper behavioral gap : 96% of developers do not fully trust AI - generated code , yet only 48% always verify it before ... Read more",
+    "host_name": "www.augmentcode.com",
+    "rank": 3,
+    "date": "Jul 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://stepto.net",
+    "name": "The AI Trust Gap: 84% Use It, 33% Trust It | StepTo",
+    "snippet": "Mar 31, 2026 — 84% of developers now use or plan to use AI coding tools (Stack Overflow 2025), but only 32.7% trust AI-generated output while 45.7% actively ... Read more",
+    "host_name": "stepto.net",
+    "rank": 4,
+    "date": "Mar 31, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://futurumgroup.com",
+    "name": "Why AI Coding Agents Need an Independent Review",
+    "snippet": "Jul 1, 2026 — AI coding tools have shifted the engineering bottleneck from writing code to verifying it, exposing a critical trust gap that independent ... Read more",
+    "host_name": "futurumgroup.com",
+    "rank": 5,
+    "date": "Jul 1, 2026",
+    "favicon": ""
+  }
+]

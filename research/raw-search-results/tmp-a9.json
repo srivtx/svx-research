@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.braintrust.dev",
+    "name": "Best Prompt Versioning Tools for Production Teams (2026)",
+    "snippet": "Jun 21, 2026 — Comparing the leading prompt versioning platforms across deployment workflows, evaluation integration, and team collaboration.",
+    "host_name": "www.braintrust.dev",
+    "rank": 0,
+    "date": "Jun 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://tianpan.co",
+    "name": "Prompt Versioning and Change Management in",
+    "snippet": "Mar 13, 2026 — Rollback speed is a concrete readiness criterion. If rolling back a prompt change takes more than 15 minutes, the system isn't production -ready. Read more",
+    "host_name": "tianpan.co",
+    "rank": 1,
+    "date": "Mar 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://launchdarkly.com",
+    "name": "Prompt Versioning & Management Guide for Building AI",
+    "snippet": "Mar 28, 2025 — Good prompt versioning includes: Version history that captures what changed and why The ability to roll back to previous versions if needed ...",
+    "host_name": "launchdarkly.com",
+    "rank": 2,
+    "date": "Mar 28, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://montecarlo.ai",
+    "name": "Prompt Versioning: Why Your AI Prompts Need The Same",
+    "snippet": "Prompt versioning is the practice of tracking every change made to a prompt over time, along with metadata about who made the change, when, and why.",
+    "host_name": "montecarlo.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.getmaxim.ai",
+    "name": "Prompt versioning and its best practices 2025",
+    "snippet": "Oct 3, 2025 — This guide covers actionable strategies and technical recommendations for effective prompt management in modern AI workflows.",
+    "host_name": "www.getmaxim.ai",
+    "rank": 4,
+    "date": "Oct 3, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://langwatch.ai",
+    "name": "Prompt Management: Version & Deploy Prompts in",
+    "snippet": "Feb 10, 2026 — Learn how prompt management lets teams version, review, and deploy LLM prompts in production safely, with instant rollback and evaluation ...",
+    "host_name": "langwatch.ai",
+    "rank": 5,
+    "date": "Feb 10, 2026",
+    "favicon": ""
+  }
+]

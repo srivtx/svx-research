@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://interclypse.com/happenings/the-ai-trust-gap-what-developers-actually-believe-about-ai-code",
+    "name": "The AI Trust Gap: What Developers Actually Believe About AI Code",
+    "snippet": "Aug 24, 2026 · The 2025 survey results page reports that 46% of developers actively distrust the accuracy of AI tools while 33% trust them, with 3% saying they ...",
+    "host_name": "interclypse.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sonarsource.com/blog/ai-coding-trust-gap",
+    "name": "The AI trust gap: Why code verification matters | Sonar - SonarSource",
+    "snippet": "Jan 22, 2026 · A critical trust gap exists in AI-assisted development: while 96% of developers do not fully trust AI-generated code, only 48% always verify it ...",
+    "host_name": "www.sonarsource.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://clutch.co/resources/devs-use-ai-generated-code-they-dont-understand",
+    "name": "Most Devs Use AI-Generated Code They Don't Understand | Clutch.co",
+    "snippet": "May 26, 2026 · Overreliance on AI hurts coding and development. Learn these best practices on responsibly integrating AI to build reliable and safe ...",
+    "host_name": "clutch.co",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1ub3uct/over_reliance_on_ai",
+    "name": "Over reliance on AI : r/ExperiencedDevs - Reddit",
+    "snippet": "Jun 20, 2026 · In other words, I can't just stop overseeing what it's doing, and have to study and verify and fix its code to make sure that it's high quality.",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com/thenewstack/posts/as-ai-generated-code-breaks-traditional-review-intent-driven-verification-saves-/1963002518465266",
+    "name": "As AI-generated code breaks traditional review, intent - Facebook",
+    "snippet": "Aug 19, 2026 · As AI-generated code breaks traditional review, intent-driven verification saves team knowledge sharing and prevents cognitive debt.",
+    "host_name": "www.facebook.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/dave-farley-a67927_ai-programmings-worrying-stat-70-of-developers-activity-7382373086538526720-Jvyk",
+    "name": "AI programming's worrying stat: 70% of developers trust the output.",
+    "snippet": "Oct 10, 2025 · External research shows AI systems routinely make unsupported or fabricated claims, with failure rates ranging from 30% to 95%. from 30% to 95% ...",
+    "host_name": "www.linkedin.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://techtalks.qima.com/ai-and-software-development-risks-of-over-reliance-and-how-to-mitigate-them",
+    "name": "AI and Software Development: Risks of Over-Reliance and How to",
+    "snippet": "Apr 5, 2025 · AI is revolutionizing development workflows—but over-reliance could erode critical coding skills. Here's how to strike the right balance.",
+    "host_name": "techtalks.qima.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2bQc4VCXzcs",
+    "name": "Most Developers Don't Trust AI Code. Here's Why They Should Now",
+    "snippet": "Jan 27, 2026 · Sponsored by Atoms → https://tinyurl.com/2eyzjw25 AI can write code fast. But most developers don't trust it. The real problem isn't the ...",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.danvega.dev/blog/can-you-trust-ai-generated-code",
+    "name": "Can You Trust AI-Generated Code? - Dan Vega",
+    "snippet": "Jul 31, 2026 · Can you trust AI-generated code? It depends on what you already know. A look at why AI code feels great in unfamiliar stacks and how to ...",
+    "host_name": "www.danvega.dev",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tech-insider.org/ie/ai-code-quality-crisis-2026",
+    "name": "AI Code Has 70% More Bugs, Trust Falls to 33% [2026] - Tech Insider",
+    "snippet": "Jul 10, 2026 · AI-generated code carries 70% more bugs than human code, and developer trust has fallen to 33% in 2026. Here's what the new data shows.",
+    "host_name": "tech-insider.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.armorcode.com",
+    "name": "Inside the September 2025 NPM Supply Chain Attack",
+    "snippet": "Sep 11, 2025 — On September 8, 2025 , the JavaScript ecosystem experienced one of its most significant supply chain attacks —the NPM supply chain attack — ... Read more",
+    "host_name": "www.armorcode.com",
+    "rank": 0,
+    "date": "Sep 11, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.endorlabs.com",
+    "name": "How to Defend Against NPM Software Supply Chain Attacks",
+    "snippet": "Sep 16, 2025 — Practical steps security teams and developers can take to reduce risks from software supply chain attacks targeting the npm registry.",
+    "host_name": "www.endorlabs.com",
+    "rank": 1,
+    "date": "Sep 16, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cisa.gov",
+    "name": "Widespread Supply Chain Compromise Impacting npm",
+    "snippet": "Sep 23, 2025 — Leveraged an automated process to rapidly spread by authenticating to the npm registry as the compromised developer, injecting code into other ... Read more",
+    "host_name": "www.cisa.gov",
+    "rank": 2,
+    "date": "Sep 23, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://unit42.paloaltonetworks.com",
+    "name": "The npm Threat Landscape: Attack Surface and Mitigations",
+    "snippet": "Jul 15, 2026 — Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more.",
+    "host_name": "unit42.paloaltonetworks.com",
+    "rank": 3,
+    "date": "Jul 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.backslash.security",
+    "name": "Shai-Hulud Strikes Again: Massive npm Attack Exposes",
+    "snippet": "Dec 3, 2025 — A major npm supply - chain incident surfaced last week. Over 800 packages were poisoned, leading to more than 25000 GitHub repositories being ...",
+    "host_name": "www.backslash.security",
+    "rank": 4,
+    "date": "Dec 3, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcticwolf.com",
+    "name": "Wormable Malware Causing Supply Chain Compromise of",
+    "snippet": "Sep 16, 2025 — On 15 September 2025 , reports surfaced that the widely used npm package @ctrl/tinycolor had been compromised by malware as part of a broader ... Read more",
+    "host_name": "arcticwolf.com",
+    "rank": 5,
+    "date": "Sep 16, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.splunk.com",
+    "name": "Defending Against npm Supply Chain Attacks",
+    "snippet": "Jan 15, 2026 — Protect your software supply chain from npm attacks . Learn to use Package -Inferno and npm -threat-emulation for deep analysis and detection ...",
+    "host_name": "www.splunk.com",
+    "rank": 6,
+    "date": "Jan 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.stepsecurity.io",
+    "name": "Self-Replicating Worm Compromises 500+ NPM Packages",
+    "snippet": "Sep 15, 2025 — The Shai-Hulud worm has infected over 500 NPM packages including @ctrl/tinycolor in an unprecedented self-propagating supply chain attack .",
+    "host_name": "www.stepsecurity.io",
+    "rank": 7,
+    "date": "Sep 15, 2025",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.salesforce.com",
+    "name": "What is Data Seeding? How It Works, Methods, and Best",
+    "snippet": "Data seeding involves inserting sample data into dev systems . Learn how to implement it using Salesforce tools like Sandboxes and Data Mask & Seed.",
+    "host_name": "www.salesforce.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://getautonoma.com",
+    "name": "Test Data Management: The Complete Guide",
+    "snippet": "Test data management explained: the 4-stage maturity model, generation vs masking vs synthetic data , and how to stop spending 30-40% of time on data prep.",
+    "host_name": "getautonoma.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://seedfa.st",
+    "name": "Data Seeding Tools for Regulated Teams (2026)",
+    "snippet": "Apr 10, 2026 — Every development team needs a populated database . For most teams, the answer is a seed script or a Faker-based fixture. Read more",
+    "host_name": "seedfa.st",
+    "rank": 2,
+    "date": "Apr 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.tonic.ai",
+    "name": "Best Synthetic Data Tools Compared 2026",
+    "snippet": "Jul 17, 2026 — Compare the best synthetic data generation tools for 2026 , from AI-powered platforms to open-source libraries, and find the right fit.",
+    "host_name": "www.tonic.ai",
+    "rank": 3,
+    "date": "Jul 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.synthesized.io",
+    "name": "Transforming TDM: How AI and Big Data are shaping",
+    "snippet": "May 15, 2024 — Explore how AI and Big Data are revolutionizing Test Data Management ( TDM ), enhancing data quality and compliance in software testing .",
+    "host_name": "www.synthesized.io",
+    "rank": 4,
+    "date": "May 15, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://mostly.ai",
+    "name": "The Complete Guide to Synthetic Test Data Generation for",
+    "snippet": "Jul 4, 2022 — What is synthetic test data and how can AI -powered synthetic test data generators help improve different types of testing ?",
+    "host_name": "mostly.ai",
+    "rank": 5,
+    "date": "Jul 4, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://platformengineering.org",
+    "name": "Solving data bottlenecks with Agentic AI: Automate your",
+    "snippet": "Dec 4, 2025 — Production data is restricted, masking is slow, and manual dataset creation becomes a bottleneck across development , testing , and AI workflows. Read more",
+    "host_name": "platformengineering.org",
+    "rank": 6,
+    "date": "Dec 4, 2025",
+    "favicon": ""
+  }
+]

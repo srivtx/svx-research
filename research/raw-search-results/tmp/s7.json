@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.actual.ai",
+    "name": "The Rise and Fall of Code Review",
+    "snippet": "Mar 14, 2026 — Developers wrote code , maybe a colleague glanced at a pull request , Microsoft Research reported about 6 hours per week, around 15% of a 40- hour ...",
+    "host_name": "www.actual.ai",
+    "rank": 0,
+    "date": "Mar 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Automated Code Review In Practice",
+    "snippet": "Dec 28, 2024 — the overall average pull request closure duration increased from five hours 52 minutes to eight hours 20 minutes, with varying trends observed",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "Dec 28, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.codacy.com",
+    "name": "AI Is Breaking Code Review: How Engineering Teams Fix",
+    "snippet": "Jun 8, 2026 — See how AI -generated code impacts pull request reviews , creating bottlenecks and changing team dynamics. Learn how to maintain code quality ...",
+    "host_name": "blog.codacy.com",
+    "rank": 2,
+    "date": "Jun 8, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "How to Reduce Code Review Time by 50%",
+    "snippet": "Mar 20, 2026 — Data-backed strategies to cut code review cycle time in half. Covers PR sizing, automation, async workflows, stacked PRs, and AI review ...",
+    "host_name": "dev.to",
+    "rank": 3,
+    "date": "Mar 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cio.com",
+    "name": "The code review crisis and how you should rebuild  - CIO",
+    "snippet": "Aug 11, 2026 — The trust developers are ready to give AI has dropped from 40% a year earlier to 29%, according to Stack Overflow's 2025 Developer Survey .",
+    "host_name": "www.cio.com",
+    "rank": 4,
+    "date": "Aug 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://graphite.com",
+    "name": "How AI code review reduces review cycles to improve",
+    "snippet": "Sep 24, 2024 — According to the State of code review 2024, the median engineer at a large company takes around 13 hours to merge a pull request, spending a ...",
+    "host_name": "graphite.com",
+    "rank": 5,
+    "date": "Sep 24, 2024",
+    "favicon": ""
+  }
+]

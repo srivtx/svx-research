@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.superblocks.com/blog/vendor-lock",
+    "name": "What is Vendor Lock-In? 5 Strategies & Tools To Avoid It | Superblocks",
+    "snippet": "Mar 21, 2025 · Cloud vendors may also charge significant egress fees (data transfer out costs), which discourages moving data to a competitor.",
+    "host_name": "www.superblocks.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aerospike.com/blog/vendor-lock-in",
+    "name": "Understanding Vendor Lock-in for Databases - Aerospike",
+    "snippet": "Jul 28, 2025 · Learn what database vendor lock-in is, why it limits flexibility and increases costs, and how to avoid it through open standards and ...",
+    "host_name": "aerospike.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.outsystems.com/application-development/vendor-lock-in-challenges-and-concerns",
+    "name": "Vendor lock-in: Understanding risks and how to avoid it - OutSystems",
+    "snippet": "Jun 11, 2026 · Vendor lock-in is a common challenge faced by businesses. It potentially leads to dependency, reduced flexibility, and increased costs.",
+    "host_name": "www.outsystems.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/AskProgramming/comments/1jkn8yq/why_do_companies_ignore_vendor_lockin_risks_with",
+    "name": "Why Do Companies Ignore Vendor Lock-In Risks with AWS  - Reddit",
+    "snippet": "Mar 26, 2025 · Why do companies ignore this risk? Is it just short-term convenience, or do they assume they'll never need to switch? Have any businesses ...",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://konghq.com/blog/learning-center/vendor-lock-in",
+    "name": "Vendor Lock-In in the Age of AI: Risks and How to Avoid Them",
+    "snippet": "Jun 30, 2026 · Vendor lock-in costs enterprises an average of $315K per migration. Learn why it's worse in the AI era and how to avoid it with open ...",
+    "host_name": "konghq.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://brcci.org/blog/critical-analysis-of-vendor-lock-in-and-its-impact-on-cloud-computing-migration-a-business-perspective",
+    "name": "Critical analysis of vendor lock-in and its impact on cloud computing",
+    "snippet": "Feb 16, 2024 · The vendor lock-in problem in cloud computing is the situation where customers are dependent (i.e. locked-in) on a single cloud provider ...",
+    "host_name": "brcci.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2jPdPuegE9I",
+    "name": "The Enterprise Guide to Egress Free Migrations - YouTube",
+    "snippet": "Sep 18, 2025 · Regulators are intensifying their scrutiny of cloud pricing, focusing on egress fees and switching friction that keep customers locked in.",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.qovery.com/blog/the-high-cost-of-vendor-lock-in-in-cloud-computing",
+    "name": "How to Avoid Vendor Lock-In When Adopting Cloud PaaS - Qovery",
+    "snippet": "Nov 4, 2025 · What cloud vendor lock-in really costs, from egress fees to contractual traps, and five strategies for keeping your architecture portable.",
+    "host_name": "www.qovery.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.belcloud.net/blog/index.php/2026/06/23/vendor-lock-in-egress-costs-and-the-migration-project",
+    "name": "Vendor Lock-In: Egress Costs and the Migration Project - Belcloud",
+    "snippet": "Jun 23, 2026 · In short, egress costs don't just charge for data movement, they discourage it entirely, reinforcing dependency on a single cloud provider. How ...",
+    "host_name": "www.belcloud.net",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://myitforum.substack.com/p/vendor-lock-in-how-companies-get",
+    "name": "Vendor Lock-In: How Companies Get Trapped and What IT Pros",
+    "snippet": "Oct 2, 2025 · Egress fees alone can turn a simple data migration into a financial burden, discouraging moves to more cost-effective providers. Long-term ...",
+    "host_name": "myitforum.substack.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

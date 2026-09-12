@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://en.wikipedia.org",
+    "name": "Link rot",
+    "snippet": "Link rot is the phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource ... Read more",
+    "host_name": "en.wikipedia.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://clp.law.harvard.edu",
+    "name": "Pausing the Internet",
+    "snippet": "Link rot refers to instances where a cited URL no longer produces any content. The authors propose a solution: Perma.cc, a webpage-preservation tool for ...",
+    "host_name": "clp.law.harvard.edu",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://deepblue.lib.umich.edu",
+    "name": "Solutions for Link Rot on the Modern Web",
+    "snippet": "by J Zhu · 2025 · Cited by 1 — This thesis presents a set of solutions to cope with link rot on the modern web. My work aims to mitigate the various limitations of web archives.",
+    "host_name": "deepblue.lib.umich.edu",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://broken-links-checker.com",
+    "name": "Link Rot in 2026: How Fast Web Citations Die (New Research)",
+    "snippet": "Apr 25, 2026 — The Sadatmoosavi 2026 study shows permanent link rot tripling from 5% in 2012 to 15% in 2025 , with each new cohort of articles decaying faster ... Read more",
+    "host_name": "broken-links-checker.com",
+    "rank": 3,
+    "date": "Apr 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Measuring data rot: An analysis of the continued availability of",
+    "snippet": "by KA Briney · 2024 · Cited by 19 — Abstract. To determine where data is shared and what data is no longer available, this study analyzed data shared by researchers at a single university. Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.infotoday.com",
+    "name": "Rotting Research: A Challenge for Academic Scholarship",
+    "snippet": "May 4, 2024 — Link rot is the phenomenon of resources becoming inaccessible across time when their originally cited location is relocated or permanently ... Read more",
+    "host_name": "www.infotoday.com",
+    "rank": 5,
+    "date": "May 4, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ncbar.org",
+    "name": "404 File Not Found: How to Combat Link Rot",
+    "snippet": "Mar 10, 2025 — This is the essence of link rot . It occurs when a URL , once active and accessible, begins to deteriorate. As you depend increasingly on digital ... Read more",
+    "host_name": "www.ncbar.org",
+    "rank": 6,
+    "date": "Mar 10, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://casrai.org",
+    "name": "Link Rot in Citations: How to Prevent It",
+    "snippet": "Aug 24, 2026 — What link rot and reference rot are, how common they are, and how to archive cited URLs (Perma.cc, Wayback Machine) so citations stay valid.",
+    "host_name": "casrai.org",
+    "rank": 7,
+    "date": "Aug 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://journal.code4lib.org",
+    "name": "Robustifying Links To Combat Reference Rot",
+    "snippet": "by S Jones · 2021 · Cited by 10 — In this paper, we highlight the significance of reference rot , provide an overview of existing techniques and their characteristics to address ... Read more",
+    "host_name": "journal.code4lib.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://learn.microsoft.com/en-us/defender-cloud-apps/data-protection-policies",
+    "name": "File policies in Microsoft Defender for Cloud Apps",
+    "snippet": "Jul 3, 2026 · Configure file policies in Microsoft Defender for Cloud Apps to monitor files across cloud apps and automate actions for compliance, DLP, ...",
+    "host_name": "learn.microsoft.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=m0P-6qFe2-w",
+    "name": "How to fix broken links after a cloud to cloud migration? - YouTube",
+    "snippet": "Apr 21, 2025 · Contact us: https://is.gd/l4wPQY Migrating files between Google Drive, Dropbox, SharePoint, or OneDrive — and suddenly your links don't work ...",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://practical365.com/use-the-defender-for-cloud-apps-policy-to-prevent-information-leakage",
+    "name": "Prevent Information Leakage with Defender for Cloud Apps",
+    "snippet": "Dec 21, 2022 · In this article, James Yip explains how to prevent information leakage using Microsoft's Defender for Cloud apps.",
+    "host_name": "practical365.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.replacemagic.com/FixBrokenLinksOffice365.aspx",
+    "name": "Fix Broken Links in Office 365 After Migration - ReplaceMagic",
+    "snippet": "This guide covers how ReplaceMagic repairs them across all Microsoft 365 applications. All Microsoft 365 apps covered: SharePoint Online, Teams, OneDrive for ...",
+    "host_name": "www.replacemagic.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coreview.com/blog/detect-high-risk-files-sharing",
+    "name": "How to Detect High-Risk Files & Sharing in M365 - Step by Step",
+    "snippet": "Oct 22, 2025 · This guide explains how to detect and manage high-risk files and high-risk file sharing in M365 using native tools like Microsoft Purview, ...",
+    "host_name": "www.coreview.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ooqau_7ibvA",
+    "name": "Defender for Cloud Apps - Lock Down Your Cloud Apps & Protect Data",
+    "snippet": "Aug 30, 2024 · In this video, we dive into the essential features of Defender for Cloud Apps and how it can help you secure your cloud environment.",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.2tolead.com/insights/cloud-migration-broken-internal-links",
+    "name": "Broken Internal Links After Cloud Migration: Why They  - 2toLead",
+    "snippet": "Aug 19, 2025 · Broken internal links after a cloud migration cause lost productivity. Learn root causes, a checklist to prevent breakage, step-by-step ...",
+    "host_name": "www.2tolead.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/DefenderATP/comments/1h842pi/phasing_out_the_files_page_from_microsoft",
+    "name": "Phasing out the Files page from Microsoft Defender for Cloud Apps",
+    "snippet": "Dec 6, 2024 · This article describes the procedure for setting up a data policy to monitor and control the data and files in your organization's cloud app ...",
+    "host_name": "www.reddit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nd.service-now.com/kb_view.do?sysparm_article=KB0015561",
+    "name": "Identifying and Fixing Broken Links in Microsoft PowerPoint & other",
+    "snippet": "The first step to fixing a broken link is to figure out the new location of the file that the broken link pointed to. Locations of files and folders are ...",
+    "host_name": "nd.service-now.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/itpinoynz/posts/3522509197892668",
+    "name": "How to fix broken links in cloud migration of linked worksheets?",
+    "snippet": "Jan 27, 2025 · When we migrate their files the cell reference to the file path no longer exists. So every file that has these references will break. They ... Other Posts · I Have . Xlsm File Saved On... · Link Repaired",
+    "host_name": "www.facebook.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

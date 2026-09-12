@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.reddit.com/r/Notion/comments/1ugtofk/rip_to_notion_mail",
+    "name": "Notion Mail is being sunset",
+    "snippet": "The Notion Mail inbox is shutting down on September 22, 2026. I also had to fix a bunch of Notion Agents that were connected to it (annoying!).",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://techcrunch.com",
+    "name": "Notion Mail shuts down amid agent takeover",
+    "snippet": "Jun 25, 2026 — The company said it is discontinuing its email inbox in favor of its AI agent offering. It noted that users were increasingly handing over the ... Read more",
+    "host_name": "techcrunch.com",
+    "rank": 1,
+    "date": "Jun 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.notion.com",
+    "name": "Notion Mail inbox is going away: what to do next",
+    "snippet": "Notion Mail is shutting down on September 22, 2026 . Most of your data (like emails in your inbox) will stay in Gmail, but a few things live only in Notion Mail. Read more",
+    "host_name": "www.notion.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://enterprisedna.co",
+    "name": "Notion Mail Is Shutting Down Because AI Agents Replaced It",
+    "snippet": "Jun 28, 2026 — The reason is worth paying attention to: the company says more than half of its email users never actually opened their inbox .",
+    "host_name": "enterprisedna.co",
+    "rank": 3,
+    "date": "Jun 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://quicktion.io",
+    "name": "Notion Mail Shuts Down Sept 22: Your Database Sync",
+    "snippet": "Aug 20, 2026 — Notion is winding down Notion Mail . On September 22, 2026, the Notion Mail inbox stops working across web, desktop, and iOS. Read more",
+    "host_name": "quicktion.io",
+    "rank": 4,
+    "date": "Aug 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.neowin.net",
+    "name": "Notion is shutting down its email client one year after launch",
+    "snippet": "Jun 25, 2026 — Notion Mail is shutting down on September 22 as the company shifts focus to AI agents, giving users until September 21 to export their data. Read more",
+    "host_name": "www.neowin.net",
+    "rank": 5,
+    "date": "Jun 25, 2026",
+    "favicon": ""
+  }
+]

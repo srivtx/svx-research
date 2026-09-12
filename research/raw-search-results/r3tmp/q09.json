@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://playerzero.ai",
+    "name": "What Are Support Escalations in Software?",
+    "snippet": "Apr 22, 2026 — A support escalation occurs when a customer issue can't be resolved by frontline support and gets passed to a more technical team — typically ... Read more",
+    "host_name": "playerzero.ai",
+    "rank": 0,
+    "date": "Apr 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://engineering.salesforce.com",
+    "name": "How AI Tools Cut Customer Escalation Time",
+    "snippet": "Sep 29, 2025 — CCE is dedicated to resolving customer escalations when individual customers face issues that prevent them from completing their business ... Read more",
+    "host_name": "engineering.salesforce.com",
+    "rank": 1,
+    "date": "Sep 29, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://irisagent.com",
+    "name": "Engineering Escalations From Support: A Playbook",
+    "snippet": "Jun 28, 2021 — In customer support , an engineering escalation refers to a process where complex or critical customer issues are transferred from frontline  ...",
+    "host_name": "irisagent.com",
+    "rank": 2,
+    "date": "Jun 28, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://ido50.net",
+    "name": "How to Handle Customer Escalations as a Software Engineer",
+    "snippet": "Oct 1, 2022 — An escalation usually originates in a support ticket (or a phone call) opened by the customer . These are first handled by the company's ... Read more",
+    "host_name": "ido50.net",
+    "rank": 3,
+    "date": "Oct 1, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://chronexa.io",
+    "name": "AI Customer Support Engine — Resolves Tickets",
+    "snippet": "The Debug Agent checks live system status — API latency, error rates, active incident log — in real time before responding.",
+    "host_name": "chronexa.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://exalate.com",
+    "name": "Why Support, Dev, and Scrum Teams Get Stuck Chasing",
+    "snippet": "May 28, 2026 — TL;DR: Support engineers chase statuses. Developers lose context . Scrum masters relay updates between tools. Read more",
+    "host_name": "exalate.com",
+    "rank": 5,
+    "date": "May 28, 2026",
+    "favicon": ""
+  }
+]

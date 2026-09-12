@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.w3.org",
+    "name": "Notes from the first roundtable | Design Tokens Community",
+    "snippet": "Jun 14, 2021 — To make a first step to a wider adoption of design tokens , the W3C Design Tokens Community Group held a roundtable in March. Read more",
+    "host_name": "www.w3.org",
+    "rank": 0,
+    "date": "Jun 14, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.designtokens.org",
+    "name": "Design Tokens Format Module 2025.10",
+    "snippet": "This document describes the technical specification for a file format to exchange design tokens between different tools.",
+    "host_name": "www.designtokens.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.digitalapplied.com",
+    "name": "Design Systems in 2026: Scale UI Without the Chaos",
+    "snippet": "Jun 15, 2026 — The W3C Design Tokens Community Group shipped its first stable Design Tokens Format Module ( v2025 .10) on October 28, 2025 , backed by 24+ ... Read more",
+    "host_name": "www.digitalapplied.com",
+    "rank": 2,
+    "date": "Jun 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://zeroheight.com",
+    "name": "What's new in the Design Tokens spec: From static to living",
+    "snippet": "Nov 13, 2025 — The Design Tokens spec reaches its first stable version, introducing modern color spaces, groups/aliases, and token resolvers to make design ...",
+    "host_name": "zeroheight.com",
+    "rank": 3,
+    "date": "Nov 13, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://uxdesign.cc",
+    "name": "Design tokens with confidence",
+    "snippet": "Jan 19, 2026 — The adoption of the W3C Design Token Standard marks a shift from proprietary, high-maintenance pipelines to a stable, universal ecosystem. By ... Read more",
+    "host_name": "uxdesign.cc",
+    "rank": 4,
+    "date": "Jan 19, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "design-tokens/community-group: This is the official DTCG",
+    "snippet": "Design Tokens Community Group. This is the official DTCG repository for the design tokens specification ( W3C community group page). Design tokens . Read more",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

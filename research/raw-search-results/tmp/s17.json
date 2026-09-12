@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://bluepes.com/blog/the-hidden-costs-of-poor-integration",
+    "name": "Cost of poor integration: what businesses actually lose - Bluepes",
+    "snippet": "Apr 2, 2025 · Integration debt is the accumulation of technical compromises in how systems communicate — point-to-point connections built under time pressure ...",
+    "host_name": "bluepes.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ezintegrations.ai/integration-debt-enterprise",
+    "name": "Enterprise Integration Crisis: Why IT Teams Are Rebuilding",
+    "snippet": "Jun 11, 2026 · Integration debt is the accumulated cost of deferred integration architecture decisions: custom point-to-point connections, outdated iPaaS ...",
+    "host_name": "ezintegrations.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://amiseq.com/resources/blog/integration-debt-engineering-velocity-hidden-cost-siloed-systems",
+    "name": "Integration Debt & Engineering Velocity: Hidden Cost of Siloed",
+    "snippet": "Siloed systems quietly drain engineering velocity. Learn how to quantify the true cost of integration debt and fix it with an API-first architecture.",
+    "host_name": "amiseq.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://logisolve.com/integration-debt-is-the-new-technical-debt-in-healthcare-it",
+    "name": "Integration Debt in Healthcare IT | What Leaders Should Know",
+    "snippet": "Explore the hidden costs of integration debt in healthcare IT & practical ways to simplify integrations, reduce technical complexity, & modernize systems.",
+    "host_name": "logisolve.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0164121225002687",
+    "name": "The Evolution of Technical Debt from DevOps to Generative AI",
+    "snippet": "This study aims to explore how Technical Debt Management (TDM) must adapt in the context of AI-enhanced software development.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/fragility-point-to-point-integration-why-matters-your-gabe-veach-dt23c",
+    "name": "The Fragility of Point-to-Point Integration & Why It Matters  - LinkedIn",
+    "snippet": "Apr 20, 2026 · 40% of enterprise applications will be integrated with task-specific AI agents by the end of 2026, up from less than 5% in 2025. Architecture  ...",
+    "host_name": "www.linkedin.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.awsquality.com/how-to-reduce-data-engineering-technical-debt",
+    "name": "How to Reduce Data Engineering Technical Debt | AwsQuality",
+    "snippet": "Aug 22, 2026 · 7. Integration Debt. What it is: Point-to-point data integrations where each source system has a custom extraction script built independently, ...",
+    "host_name": "www.awsquality.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blogs.opentext.com/technical-debt-slows-modernization-why-integration-complexity-drives-hidden-costs-and-ai-risk",
+    "name": "Technical debt slows modernization: Why integration complexity",
+    "snippet": "Sep 1, 2026 · Technical debt and integration complexity can increase costs, delay ERP projects, slow partner onboarding, and limit AI success.",
+    "host_name": "blogs.opentext.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zigiwave.com/resources/system-integration-challenges-2025",
+    "name": "Top 7 system integration challenges in 2025 | ZigiOps - ZigiWave",
+    "snippet": "May 18, 2025 · Increased technical debt from poorly designed or improvised integrations; High onboarding costs for new tools or platforms; Fragile systems ...",
+    "host_name": "zigiwave.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://teamcomputers.com/blog/integration-debt-enterprises",
+    "name": "What Is Integration Debt in Enterprises? - Team Computers",
+    "snippet": "Mar 23, 2026 · Integration debt builds when systems are connected quickly to meet immediate needs, without a long-term architectural approach. A new ...",
+    "host_name": "teamcomputers.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.atlassian.com",
+    "name": "How to run a blameless postmortem",
+    "snippet": "Blameless postmortems enable teams to achieve growth without the fear of making mistakes. Learn about this approach and how it can be done effectively.",
+    "host_name": "www.atlassian.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://devops.stackexchange.com",
+    "name": "Should we name names in a blameless post-mortem",
+    "snippet": "Jul 25, 2018 — NAME caused the CD system to be mistakenly recycled stopping all deploy pipelines for six hours. Which is clearly blamey.",
+    "host_name": "devops.stackexchange.com",
+    "rank": 1,
+    "date": "Jul 25, 2018",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bigpanda.io",
+    "name": "Incident Postmortem: Definition & How It Works",
+    "snippet": "Aug 11, 2026 — An incident postmortem is a structured, blameless review conducted after an incident is resolved to identify root causes , document lessons ... Read more",
+    "host_name": "www.bigpanda.io",
+    "rank": 2,
+    "date": "Aug 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperping.com",
+    "name": "Incident post-mortems: the complete, blameless guide",
+    "snippet": "Apr 1, 2026 — Most companies run post-mortems like autopsies. They dissect the corpse, assign blame , and file it away. The body count keeps rising. Read more",
+    "host_name": "hyperping.com",
+    "rank": 3,
+    "date": "Apr 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://incident.io",
+    "name": "Whose fault was it anyway? On blameless post-mortems",
+    "snippet": "Oct 4, 2023 — The idea behind blameless post-mortems is that incidents should be free of finger-pointing and scapegoating.",
+    "host_name": "incident.io",
+    "rank": 4,
+    "date": "Oct 4, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://postmortems.pagerduty.com",
+    "name": "The Blameless Postmortem",
+    "snippet": "A blameless postmortem stays focused on how a mistake was made instead of who. Fundamental attribution error is the tendency to believe that what people do ...",
+    "host_name": "postmortems.pagerduty.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ioanyt.com",
+    "name": "Incident Postmortems That Actually Prevent Recurrence",
+    "snippet": "May 1, 2026 — Most postmortems fail to prevent recurrence. They focus on blame or bureaucracy instead of systemic improvement.",
+    "host_name": "ioanyt.com",
+    "rank": 6,
+    "date": "May 1, 2026",
+    "favicon": ""
+  }
+]

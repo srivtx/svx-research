@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://dosu.dev",
+    "name": "How to Catch Documentation Drift with Claude Code and",
+    "snippet": "Mar 6, 2026 — A 2025 GetDX study found that new hires take two to three months longer to become productive when documentation is not current, and that ... Read more",
+    "host_name": "dosu.dev",
+    "rank": 0,
+    "date": "Mar 6, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hackernoon.com",
+    "name": "When Documentation Lies: Detecting Drift Between Code",
+    "snippet": "Nov 27, 2025 — Discovering the problem of outdated documentation and considering modern tools to works with it.",
+    "host_name": "hackernoon.com",
+    "rank": 1,
+    "date": "Nov 27, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.docsie.io",
+    "name": "Documentation Drift: Definition, Examples & Best Practices",
+    "snippet": "Learn how Documentation Drift causes outdated docs to misalign with your codebase . Discover causes, real examples, and fixes to keep docs accurate.",
+    "host_name": "www.docsie.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mintlify.com",
+    "name": "How to Stop Documentation Drift: Keeping Docs in Sync as",
+    "snippet": "Jun 18, 2026 — Documentation drift happens when code changes ship faster than doc updates . This guide explains where drift comes from, which code surfaces ... Read more",
+    "host_name": "www.mintlify.com",
+    "rank": 3,
+    "date": "Jun 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://moxiedocs.com",
+    "name": "What Is Documentation Drift? Causes, Signs, and How to Fix It",
+    "snippet": "Documentation drift is when docs stop matching the code . Documentation drift is the gap that opens when code changes and the docs that describe it do not. be  ...",
+    "host_name": "moxiedocs.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pageloop.ai",
+    "name": "What Is Documentation Drift and How to Fix It",
+    "snippet": "Jul 24, 2026 — Documentation drift is the gap between what your help center says and what your product does. Learn why it happens, what it costs, and how ...",
+    "host_name": "www.pageloop.ai",
+    "rank": 5,
+    "date": "Jul 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://ferndesk.com",
+    "name": "Documentation Drift: What It Is and How to Prevent It",
+    "snippet": "Jan 20, 2026 — Documentation drift happens when your help center falls out of sync with your product . Learn why it occurs, what it costs you, and how to stop ... Read more",
+    "host_name": "ferndesk.com",
+    "rank": 6,
+    "date": "Jan 20, 2026",
+    "favicon": ""
+  }
+]

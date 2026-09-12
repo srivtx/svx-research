@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.tinybird.co",
+    "name": "The 10 Best Apache Kafka Alternatives for 2026",
+    "snippet": "Aug 11, 2026 — These are the best Apache Kafka alternatives depending on your use case: Tinybird ; Amazon Kinesis Data Streams; Google Cloud Pub/Sub ... Read more",
+    "host_name": "www.tinybird.co",
+    "rank": 0,
+    "date": "Aug 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.domo.com",
+    "name": "Top 10 Kafka Alternatives for 2026: Best Options Compared",
+    "snippet": "Jul 27, 2026 — Kafka alternatives compared for 2026: Redpanda, Pulsar, Kinesis, RabbitMQ , and more. Find the best fit based on ops capacity, cost, ...",
+    "host_name": "www.domo.com",
+    "rank": 1,
+    "date": "Jul 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://inteca.com",
+    "name": "Top 5 Apache Kafka Alternatives for Event Streaming in 2025",
+    "snippet": "May 6, 2025 — 5 Apache Kafka alternatives for 2025 event streaming ! Kafka is overkill for simple task queues, 1. Apache Pulsar – run multi- team or multi-app ...",
+    "host_name": "inteca.com",
+    "rank": 2,
+    "date": "May 6, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.inngest.com",
+    "name": "Simplify your queues with Inngest, the modern Kafka",
+    "snippet": "Nov 26, 2024 — Inngest brings simplicity and focus to building event -driven workflows, providing a streamlined alternative to Kafka's complex infrastructure.",
+    "host_name": "www.inngest.com",
+    "rank": 3,
+    "date": "Nov 26, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://vercel.com",
+    "name": "7 Kafka alternatives compared for 2026",
+    "snippet": "Aug 23, 2026 — Learn how 7 Kafka alternatives compare on delivery model, protocol compatibility, ops burden, and billing, plus when Kafka is still the ...",
+    "host_name": "vercel.com",
+    "rank": 4,
+    "date": "Aug 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.automq.com",
+    "name": "Kafka Alternatives for Teams That Are Tired of Broker Cost",
+    "snippet": "Jun 1, 2026 — Compare Kafka alternatives through the problems teams actually face: broker cost, storage growth, rebalancing delays, scaling limits, ...",
+    "host_name": "www.automq.com",
+    "rank": 5,
+    "date": "Jun 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://redisson.pro",
+    "name": "Apache Kafka Alternatives: 7 Options Compared | Redisson",
+    "snippet": "Jul 22, 2026 — Most teams evaluating Kafka alternatives don't need event streaming . Compare 7 options by the job you're doing, with Java trade-offs.",
+    "host_name": "redisson.pro",
+    "rank": 6,
+    "date": "Jul 22, 2026",
+    "favicon": ""
+  }
+]

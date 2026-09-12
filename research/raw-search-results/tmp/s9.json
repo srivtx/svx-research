@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://blog.localstack.cloud",
+    "name": "LocalStack and AWS Parity Explained",
+    "snippet": "Aug 4, 2022 — Parity for LocalStack means that when you, as a cloud developer , make an AWS API call to LocalStack's cloud emulator, it behaves the same ... Read more",
+    "host_name": "blog.localstack.cloud",
+    "rank": 0,
+    "date": "Aug 4, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "LocalStack and AWS Parity Explained",
+    "snippet": "Aug 4, 2022 — Localstack is super useful for local (or CI build) development of tech that would be deployed into the cloud. I would definitely not recommend ... Read more",
+    "host_name": "news.ycombinator.com",
+    "rank": 1,
+    "date": "Aug 4, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://careersatdoordash.com",
+    "name": "How to Speed up Local Development of a Docker Application",
+    "snippet": "Mar 7, 2023 — Building a local development environment can speed up innovation. Learn DoorDash's process in this technical guide and demo example.",
+    "host_name": "careersatdoordash.com",
+    "rank": 2,
+    "date": "Mar 7, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.lastweekinaws.com",
+    "name": "LocalStack: Why Local Development for Cloud Workloads",
+    "snippet": "Apr 12, 2023 — The premise of LocalStack is simply to emulate AWS APIs and their responses for local development . It's an idea that always struck me as a ... Read more",
+    "host_name": "www.lastweekinaws.com",
+    "rank": 3,
+    "date": "Apr 12, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.efficientlyconnected.com",
+    "name": "LocalStack Hits Record Adoption as Local-First Dev Surges",
+    "snippet": "LocalStack reports massive growth as local -first cloud development rises, enabling AWS app testing without cost or compliance barriers.",
+    "host_name": "www.efficientlyconnected.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aws.amazon.com",
+    "name": "Optimizing AWS development costs for .NET applications",
+    "snippet": "Oct 13, 2025 — LocalStack helps reduce AWS costs by running emulated AWS services locally , while also eliminating connectivity issues. In this blog post, we ... Read more",
+    "host_name": "aws.amazon.com",
+    "rank": 5,
+    "date": "Oct 13, 2025",
+    "favicon": ""
+  }
+]

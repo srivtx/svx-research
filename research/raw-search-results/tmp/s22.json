@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.atlassian.com",
+    "name": "Jira vs. Linear: Compare Linear Alternatives",
+    "snippet": "Linear is quick to set up for a single team , while Jira is built to support frontier teams, platform teams, ops teams, and business teams as an organization ...",
+    "host_name": "www.atlassian.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tech-insider.org",
+    "name": "Linear vs Jira: Why 30% of Teams Switched [2026]",
+    "snippet": "Apr 4, 2026 — Linear caches data locally and syncs changes in the background , so the UI never waits for instances with many Marketplace apps installed. Teams ...",
+    "host_name": "tech-insider.org",
+    "rank": 1,
+    "date": "Apr 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://clickup.com",
+    "name": "Linear vs. Jira: Is Linear Just Jira Before the Mess?",
+    "snippet": "3 days ago — Linear stripped out the complexity that made Jira unpopular . But it also stripped out the reporting that would have made the switch work.",
+    "host_name": "clickup.com",
+    "rank": 2,
+    "date": "Sep 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://linear.app",
+    "name": "Switch to Linear",
+    "snippet": "Linear is shaping how product teams build with AI . Context from these tools flows into Linear as issues, whether automatically or captured by your team in a ...",
+    "host_name": "linear.app",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://everhour.com",
+    "name": "Linear vs Jira: Which Agile Tool Fits Your Team in 2026?",
+    "snippet": "Sep 18, 2025 — Linear suits teams that want to move fast and avoid overconfiguration . Lack of custom fields in Linear can be limiting for non‑developer teams. Read more",
+    "host_name": "everhour.com",
+    "rank": 4,
+    "date": "Sep 18, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://productlane.com",
+    "name": "Linear vs Jira",
+    "snippet": "Aug 5, 2024 — Jira gives you a system you configure to match your process . Linear gives you a process and asks you to adopt it. Which one fits depends on your ... Read more",
+    "host_name": "productlane.com",
+    "rank": 5,
+    "date": "Aug 5, 2024",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://hookdeck.com",
+    "name": "Implementing Webhook Retries",
+    "snippet": "Learn how to build a resilient webhook retry system with exponential backoff, jitter, response code handling, dead-letter queues, circuit breakers, ...",
+    "host_name": "hookdeck.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Building Reliable Webhook Delivery: Retries, Signatures",
+    "snippet": "Mar 21, 2026 — Building webhook delivery that doesn't lose events . Covers HMAC signatures, exponential retry, delivery receipts, and failure recovery ...",
+    "host_name": "dev.to",
+    "rank": 1,
+    "date": "Mar 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://developer.fastspring.com",
+    "name": "Processed and unprocessed webhook events",
+    "snippet": "Retry behavior. When a webhook event is not marked as processed, FastSpring automatically retries delivery for up to 7 days from the original attempt. Read more",
+    "host_name": "developer.fastspring.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.activepieces.com",
+    "name": "Webhook Retry Logic: Best Practices for 2026",
+    "snippet": "6 days ago — Reliable webhook delivery requires robust retry mechanisms to handle transient network errors and server downtime.",
+    "host_name": "www.activepieces.com",
+    "rank": 3,
+    "date": "Sep 6, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://salable.app",
+    "name": "Stripe Webhooks Without the Pain | Salable Blog",
+    "snippet": "Feb 4, 2026 — Stripe webhooks break in production : duplicates, out-of-order events, failed retries. Here's how to handle them without debugging at 2 AM.",
+    "host_name": "salable.app",
+    "rank": 4,
+    "date": "Feb 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.svix.com",
+    "name": "What is a webhook retry? | Svix Resources",
+    "snippet": "Jul 16, 2026 — A webhook retry is an attempt to send a webhook message that has already failed . Webhook retries are a best practice when designing webhook ... Read more",
+    "host_name": "www.svix.com",
+    "rank": 5,
+    "date": "Jul 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.stork.ai",
+    "name": "Why Your Webhooks Are Failing: A Guide to",
+    "snippet": "Jul 17, 2026 — Common failures include network issues, server downtime, bugs in the endpoint code, and volume spikes that overwhelm the server. Without a ... Read more",
+    "host_name": "www.stork.ai",
+    "rank": 6,
+    "date": "Jul 17, 2026",
+    "favicon": ""
+  }
+]

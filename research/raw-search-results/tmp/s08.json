@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.davidpoll.com",
+    "name": "Orderly API Evolution: How to Break APIs Without Breaking",
+    "snippet": "Oct 19, 2025 — We've been treating API migration as something developers do manually — reading deprecation notices, updating code, testing, deploying. Read more",
+    "host_name": "www.davidpoll.com",
+    "rank": 0,
+    "date": "Oct 19, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com",
+    "name": "Towards cost-effective API deprecation: A win–win strategy",
+    "snippet": "by CH Kao · 2022 · Cited by 9 — API deprecation , which enables API developers to assist API users in migration tasks, has been widely employed in API removal management. Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sportmonks.com",
+    "name": "API Deprecation",
+    "snippet": "Dec 15, 2025 — API deprecation is a crucial process that lets developers know that an API, or a part of it, will be retired soon. Time to read 11 min. Read more",
+    "host_name": "www.sportmonks.com",
+    "rank": 2,
+    "date": "Dec 15, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.the-main-thread.com",
+    "name": "When to Deprecate APIs: The Complete Guide for Java",
+    "snippet": "Oct 17, 2025 — Discover when and how to deprecate APIs in Java. Practical Quarkus patterns, versioning strategies, and communication tips to avoid downtime ...",
+    "host_name": "www.the-main-thread.com",
+    "rank": 3,
+    "date": "Oct 17, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Understanding the Impact of APIs Behavioral Breaking",
+    "snippet": "Jul 12, 2024 — We automatically updated out-of-date dependencies and ran the client test suites. We found that 2.30% of these updates had behavioral breaking ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 4,
+    "date": "Jul 12, 2024",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://workos.com",
+    "name": "The best 5 SSO providers to power your SaaS app in 2025",
+    "snippet": "Aug 15, 2025 — A 2025 guide to the top SSO solutions for SaaS apps , including features, pros, cons, and pricing, so you can choose the right provider to ...",
+    "host_name": "workos.com",
+    "rank": 0,
+    "date": "Aug 15, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.zluri.com",
+    "name": "SCIM Not Supported in Entra ID: Automatic Provisioning",
+    "snippet": "The \" SSO tax \" phenomenon. It means the application hasn't implemented SCIM endpoints, The SSO tax refers to vendors charging enterprise-tier pricing to unlock  ...",
+    "host_name": "www.zluri.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.accessowl.com",
+    "name": "The SSO Tax Without SCIM and SAML (Apr 2026)",
+    "snippet": "Feb 20, 2024 — Learn why IT managers struggle with the SSO tax when apps lack SCIM and SAML support. Discover access management challenges and solutions ...",
+    "host_name": "www.accessowl.com",
+    "rank": 2,
+    "date": "Feb 20, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://ssotax.org",
+    "name": "Alternatives to Paying SSO Tax",
+    "snippet": "It syncs user lists , assigns roles, and removes access for employees who leave, bypassing the need for SCIM and supporting apps on lower-tier plans. Pros. Plus. Read more",
+    "host_name": "ssotax.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.yeshid.com",
+    "name": "Death to the SSO Tax: Why Modern Identity Leaves SAML",
+    "snippet": "Sep 11, 2025 — SCIM emerged to automate user provisioning , but only if you stuck to its rigid schemas and limited provider support .",
+    "host_name": "www.yeshid.com",
+    "rank": 4,
+    "date": "Sep 11, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.stitchflow.com",
+    "name": "SCIM Provisioning Without Enterprise Plan: The Real Fix",
+    "snippet": "Jan 28, 2026 — Forget the old stat: \"90% of SaaS apps don't support SCIM .\" It's misleading. Most modern tools do support SCIM , but there's a catch: You can't ... Read more",
+    "host_name": "www.stitchflow.com",
+    "rank": 5,
+    "date": "Jan 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://ssojet.com",
+    "name": "SCIM Provisioning for SaaS: A Complete Implementation",
+    "snippet": "Jun 1, 2026 — SCIM provisioning lets an enterprise customer manage your app's user accounts from their own directory . You expose a standard set of HTTP ... Read more",
+    "host_name": "ssojet.com",
+    "rank": 6,
+    "date": "Jun 1, 2026",
+    "favicon": ""
+  }
+]

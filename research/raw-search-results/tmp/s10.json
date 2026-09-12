@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://dontpaniclabs.com",
+    "name": "Internal Tools Are The Worst",
+    "snippet": "Feb 16, 2016 — A company that values their interns will put them in an environment where they work on products people care about, get frequent feedback, and ... Read more",
+    "host_name": "dontpaniclabs.com",
+    "rank": 0,
+    "date": "Feb 16, 2016",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.davidtuite.com",
+    "name": "Why does internal corporate software suck? - David Tuite",
+    "snippet": "In summary, internal software is often productized quickly and cheaply because it makes sense for the specific situation that internal tools are in. Sure it ... Read more",
+    "host_name": "www.davidtuite.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.tooljet.com",
+    "name": "What Are Internal Tools? The Complete Enterprise Guide",
+    "snippet": "Jan 7, 2026 — Internal tools are custom employee-only applications that automate workflows and reduce costs. Learn what internal tools are, examples, ...",
+    "host_name": "blog.tooljet.com",
+    "rank": 2,
+    "date": "Jan 7, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://caylent.com",
+    "name": "From Tool to Product: Why Internal Tools Fail as",
+    "snippet": "Jan 14, 2026 — Internal tools often live inside messy monoliths. They share databases, permissions, and pipelines that don't scale. Fix: Define architectural ...",
+    "host_name": "caylent.com",
+    "rank": 3,
+    "date": "Jan 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pendo.io",
+    "name": "The hidden cost of bad software",
+    "snippet": "Security threats and compliance risk … bad software was already costing you millions in wasted productivity, R&D investments, and churn.",
+    "host_name": "www.pendo.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://retool.com",
+    "name": "State of Internal Tools 2023 | Retool Blog",
+    "snippet": "May 1, 2023 — On average, a little over 22% of respondents blamed poor productivity on excessive context switching between tools —and at some enterprise ... Read more",
+    "host_name": "retool.com",
+    "rank": 5,
+    "date": "May 1, 2023",
+    "favicon": ""
+  }
+]

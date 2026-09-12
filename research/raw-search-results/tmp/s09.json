@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://bluebrix.health/blogs/shadow-it-in-healthcare-the-risks-of-excel-reporting",
+    "name": "Shadow IT in healthcare: the risks of Excel reporting - blueBriX",
+    "snippet": "The 2026 security gap: Unmanaged PHI in spreadsheets creates an attack surface that adds an average of $670,000 to the cost of healthcare data breaches, which ...",
+    "host_name": "bluebrix.health",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/364491806_Spreadsheets_risk_from_the_shadow",
+    "name": "Spreadsheets: risk from the shadow | Request PDF - ResearchGate",
+    "snippet": "Aug 5, 2026 · The aim of the paper was to look into the degree of awareness among end users of the existence of spreadsheet risks.",
+    "host_name": "www.researchgate.net",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://diginomica.com/shadow-it-never-dies-why-spreadsheets-are-still-running-your-business",
+    "name": "Shadow IT never dies - why spreadsheets are still running your",
+    "snippet": "Mar 17, 2023 · Excel use is declining slowly, any spreadsheet application, report, data or extract must be viewed suspiciously,",
+    "host_name": "diginomica.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/excel/comments/ew7c5t/why_companies_use_abuse_excel_instead_of_using_an",
+    "name": "Why companies use & abuse Excel instead of using an Access",
+    "snippet": "Jan 30, 2020 · Since, with spreadsheets, data is strewn across multiple Excel files, culling reports is more difficult than using a database, which is ... We keep making the same mistakes with spreadsheets, despite bad ... Looking for specific examples of incidents where shadow IT ... - Reddit More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.oracle.com/analytics/spreadsheet-risks",
+    "name": "10 Common Spreadsheet Risks and Solutions for Businesses - Oracle",
+    "snippet": "Jun 5, 2023 · When used for tasks beyond their capabilities, spreadsheets can create risks, including data entry errors, calculation errors, security ...",
+    "host_name": "www.oracle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zeropath.com/blog/cve-2025-29977-excel-use-after-free",
+    "name": "Excel Under Siege: Unpacking CVE-2025-29977's Use-After-Free",
+    "snippet": "CVE-2025-29977 is a use-after-free vulnerability (CWE-416) arising from improper memory management in Excel. When Excel frees memory but continues to reference ...",
+    "host_name": "zeropath.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ideas.repec.org/a/ids/ijbisy/v41y2022i1p1-19.html",
+    "name": "Spreadsheets: risk from the shadow - IDEAS/RePEc",
+    "snippet": "The aim of the paper was to look into the degree of awareness among end users of the existence of spreadsheet risks. A systematic overview of literature ...",
+    "host_name": "ideas.repec.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@davidroliver/spreadsheets-the-hidden-risk-in-your-business-989a11af99f2",
+    "name": "Spreadsheets: The Hidden Risk in Your Business | by David R Oliver",
+    "snippet": "Aug 11, 2025 · Complex spreadsheet formulas often contain subtle errors or inefficient logic that becomes apparent only during migration. AI can translate ... The London Whale · Where Ai Fits · Objections -- And Reality",
+    "host_name": "medium.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.caspio.com/blog/excel-data-management-problems",
+    "name": "Overcoming the Limitations of Excel for Data Management - Caspio",
+    "snippet": "Oct 20, 2020 · PRONE TO HACKS: Macro strains, data vulnerability and lack of advanced authentication features are some of the potential risks of using Excel ... How Excel Gets In The Way Of... · Poor Data Integrity · Faulty Version Control",
+    "host_name": "www.caspio.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bridgeall.com/2023/04/28/5-risks-associated-with-using-spreadsheets-for-data",
+    "name": "5 Risks Associated with Using Spreadsheets for Data - Bridgeall",
+    "snippet": "Apr 28, 2023 · 93% of Excel users consider combining spreadsheets a time-consuming chore. One of the biggest drivers of business cases and ROI for a move away ... Data Security · Productivity · Manual Data Entry",
+    "host_name": "www.bridgeall.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

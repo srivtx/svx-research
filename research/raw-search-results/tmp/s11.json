@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "A Comparative Technical Analysis of HL7 v2, CDA, and  - PMC",
+    "snippet": "by V Tiwari · 2026 — HL7 v2 is widely portrayed not only as a transformative interoperability framework that accelerated large-scale healthcare information exchange",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://orangesoft.co",
+    "name": "FHIR vs. HL7: Key Differences Explained",
+    "snippet": "Jul 28, 2025 — Compare FHIR vs HL7 to understand how each standard supports healthcare data exchange , API integration, and modern interoperability needs.",
+    "host_name": "orangesoft.co",
+    "rank": 1,
+    "date": "Jul 28, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.microteklearning.com",
+    "name": "Top HL7 FHIR Challenges Hospitals Face & How to Solve",
+    "snippet": "Jul 24, 2025 — Discover the top HL7 FHIR implementation challenges hospitals face and practical solutions to improve interoperability and patient care.",
+    "host_name": "www.microteklearning.com",
+    "rank": 2,
+    "date": "Jul 24, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://intuitionlabs.ai",
+    "name": "An Introduction to FHIR for Healthcare Interoperability",
+    "snippet": "Aug 26, 2025 — Learn about FHIR (Fast Healthcare Interoperability Resources), the modern HL7 standard for exchanging health data using web APIs and ...",
+    "host_name": "intuitionlabs.ai",
+    "rank": 3,
+    "date": "Aug 26, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.hl7.org",
+    "name": "2025 State of FHIR® Survey Results",
+    "snippet": "A recent health care reform is expected to increase national governance by a new agency, among other to further increase the exchange of data , ie by standards. Read more 100 pages",
+    "host_name": "www.hl7.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "A Critical Review of Health Data Interoperability Standards",
+    "snippet": "Jun 18, 2025 — FHIR , developed by HL7 , represents a modern, web-based approach to healthcare data exchange , emphasizing modular resources, RESTful APIs, and ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 5,
+    "date": "Jun 18, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://talencio.com",
+    "name": "Health Data Interoperability & Integration in 2025",
+    "snippet": "Oct 6, 2025 — Health systems worldwide are increasing the implementation of FHIR -enabled APIs. Real-time exchange capabilities enable patient data to flow ... Read more",
+    "host_name": "talencio.com",
+    "rank": 6,
+    "date": "Oct 6, 2025",
+    "favicon": ""
+  }
+]

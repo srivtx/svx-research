@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.growthbook.io/insights/best-warehouse-native-feature-flag-tools",
+    "name": "Best Warehouse-Native Feature Flag Tools - GrowthBook",
+    "snippet": "Jun 5, 2026 · A tool that is excellent at warehouse analysis but weak at feature flags may be a good experimentation platform. It may not be the best feature ...",
+    "host_name": "www.growthbook.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://amplitude.com/compare/top-feature-flag-solutions-for-product-teams",
+    "name": "9 Top Feature Flag Solutions for Modern Product Teams in 2026",
+    "snippet": "Statsig combines feature flags with sophisticated experimentation capabilities. The platform automatically calculates statistical significance, applies variance ...",
+    "host_name": "amplitude.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ProductManagement/comments/11g8xez/ab_testing_vs_feature_flags",
+    "name": "A/B testing vs Feature Flags : r/ProductManagement - Reddit",
+    "snippet": "Mar 2, 2023 · Feature Flags are experiments. They're one in the same. The only difference is how you talk about it and how you monitor it.",
+    "host_name": "www.reddit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gofeatureflag.org/product/ab-testing",
+    "name": "A/B testing with feature flags",
+    "snippet": "Feature Flag splits your users into A and B, then exports the data so your own analytics can tell you which one actually performed better.",
+    "host_name": "gofeatureflag.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://configcat.com/blog/what-is-ab-testing",
+    "name": "A/B Testing with Feature Flags: How It Works and When to Use It",
+    "snippet": "Aug 12, 2026 · Feature flags control who receives each variation, while your analytics platform measures the outcome. Together, they make it possible to test ...",
+    "host_name": "configcat.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://oneuptime.com/blog/post/2026-01-30-flag-ab-testing/view",
+    "name": "How to Implement Flag A/B Testing - OneUptime",
+    "snippet": "Jan 30, 2026 · In this guide, we will walk through how to implement flag-based A/B testing from the ground up, covering experiment assignment, metrics tracking ...",
+    "host_name": "oneuptime.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://launchdarkly.com/blog/feature-flags-product-analytics",
+    "name": "Feature Flags and Product Analytics for Testing | LaunchDarkly",
+    "snippet": "Dec 18, 2023 · Run tests faster. You can use feature flags to test new features and validate (or invalidate!) your idea based on what product analytics show.",
+    "host_name": "launchdarkly.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.getunleash.io/blog/feature-experimentation",
+    "name": "Feature Experimentation Explained: A Full-Stack Guide | Unleash",
+    "snippet": "May 17, 2025 · Feature experimentation is the systematic process of testing new features, designs, or experiences with a subset of users before full release. Feature Experimentation... · Setting Up An A/b/n... · Flexible Analytics For...",
+    "host_name": "www.getunleash.io",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.statsig.com/perspectives/feature-flags-experimentation-iteration",
+    "name": "How to Combine Feature Flags and Experimentation for Faster",
+    "snippet": "Nov 21, 2025 · Combine feature flags and experimentation for rapid, controlled software iterations and data-driven decision-making.",
+    "host_name": "www.statsig.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/feature-flags-experiments-difference-invalidates-results-margub-alam-e5ljf",
+    "name": "Feature Flags vs Experiments: Avoid False Wins - LinkedIn",
+    "snippet": "Aug 29, 2026 · A feature flag decides who receives an experience. An experiment determines whether the experience caused an outcome. Every well-run feature ... What A Feature Flag Actually... · Failure 5: Users Switch... · Can Ga4 Be Used To Measure...",
+    "host_name": "www.linkedin.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

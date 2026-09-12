@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://community.atlassian.com",
+    "name": "Your Confluence wiki is confidently giving people wrong",
+    "snippet": "Feb 16, 2026 — Documentation goes stale silently. Unlike code, there's no test suite that goes red when your runbook references a deprecated service. Read more",
+    "host_name": "community.atlassian.com",
+    "rank": 0,
+    "date": "Feb 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Confluence Is Where Documentation Goes To Die",
+    "snippet": "Aug 20, 2020 — Out of date documentation can sometimes be even worse than no documentation , leading developers on confusing multi-day expeditions as they ... Read more",
+    "host_name": "dev.to",
+    "rank": 1,
+    "date": "Aug 20, 2020",
+    "favicon": ""
+  },
+  {
+    "url": "https://fabric.so",
+    "name": "Why Confluence doesn't work (and what does)",
+    "snippet": "This isn't a Confluence -specific problem. It's a problem with any documentation system that depends on humans writing and maintaining docs manually. Notion ... Read more",
+    "host_name": "fabric.so",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "High-documentation, low-meeting work culture",
+    "snippet": "Nov 22, 2022 — What it means in practice is that if you're trying to do something there are 5 outdated documents describing the decision making process for how ... Read more",
+    "host_name": "news.ycombinator.com",
+    "rank": 3,
+    "date": "Nov 22, 2022",
+    "favicon": ""
+  }
+]

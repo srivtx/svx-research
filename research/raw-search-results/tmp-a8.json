@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.kosmoy.com",
+    "name": "LLM Cost Optimization: Cut Token Spend up to 90% with",
+    "snippet": "Dec 15, 2025 — In this article, we break down where token waste comes from, why organizations lose control of LLM budgets, and how to achieve true LLM cost ... Read more",
+    "host_name": "www.kosmoy.com",
+    "rank": 0,
+    "date": "Dec 15, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://unmeshed.io",
+    "name": "LLM Cost Optimization: 9 Techniques to Reduce Token",
+    "snippet": "Enterprise LLM API spending hit $8.4 billion by mid-2025 , more than double the $3.5 billion from late 2024. The waste comes from everything you pack into the ...",
+    "host_name": "unmeshed.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.truefoundry.com",
+    "name": "LLM Cost Optimization: Why an AI Gateway Is the Missing",
+    "snippet": "Jun 22, 2026 — Enterprise LLM API spending doubled in six months from $3.5B in late 2024 to $8.4B by mid- 2025 with no sign of slowing. Read more",
+    "host_name": "www.truefoundry.com",
+    "rank": 2,
+    "date": "Jun 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pointfive.co",
+    "name": "Top 10 Token Optimization Solutions (2026)",
+    "snippet": "Jun 26, 2026 — open-source AI engineering platform with LLM evals, observability , Pricing: Free up to 50,000 units / month; overage $8 per 100,000 units;",
+    "host_name": "www.pointfive.co",
+    "rank": 3,
+    "date": "Jun 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.braintrust.dev",
+    "name": "Best tools for tracking LLM costs in production (2026) - Braintrust",
+    "snippet": "Jun 21, 2026 — Datadog LLM Observability adds token usage and estimated cost per request to the dashboards teams already use for APM and infrastructure ... Read more",
+    "host_name": "www.braintrust.dev",
+    "rank": 4,
+    "date": "Jun 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://live.paloaltonetworks.com",
+    "name": "AI Cost Observability: A Practical Guide to Understanding and",
+    "snippet": "Sep 4, 2026 — A clear, actionable guide to AI cost observability —what it is, where costs leak, the metrics that matter, and how teams can manage LLM spend ...",
+    "host_name": "live.paloaltonetworks.com",
+    "rank": 5,
+    "date": "Sep 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://galileo.ai",
+    "name": "A Guide to AI Agent Cost Optimization With Observability",
+    "snippet": "Nov 9, 2025 — Agent observability provides complete visibility into how your AI systems operate, tracking every token , decision, and interaction. Your agents ... Read more",
+    "host_name": "galileo.ai",
+    "rank": 6,
+    "date": "Nov 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nops.io",
+    "name": "10 Best LLM Cost Optimization Tools in 2026 - nOps",
+    "snippet": "Jun 22, 2026 — Compare the best LLM cost optimization tools in 2026 across model, observability , and infrastructure layers to reduce AI inference and token ...",
+    "host_name": "www.nops.io",
+    "rank": 7,
+    "date": "Jun 22, 2026",
+    "favicon": ""
+  }
+]

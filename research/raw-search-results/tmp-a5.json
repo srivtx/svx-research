@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://spec.c2pa.org",
+    "name": "Guidance for Artificial Intelligence and Machine Learning",
+    "snippet": "The C2PA specification can be used to add cryptographic information to detect the tampering of media files and streams. Similarly, the C2PA framework can ... Read more",
+    "host_name": "spec.c2pa.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Data Authenticity, Consent, & Provenance for AI are all",
+    "snippet": "Aug 30, 2024 — We examine the current shortcomings of common tools for tracing data authenticity, consent, and documentation, and outline how policymakers, ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "Aug 30, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://mitsloan.mit.edu",
+    "name": "Bringing transparency to the data used to train artificial",
+    "snippet": "Mar 3, 2025 — This tool lets AI practitioners trace the lineage of popular fine-tuning datasets and to filter and explore data provenance based on specific ...",
+    "host_name": "mitsloan.mit.edu",
+    "rank": 2,
+    "date": "Mar 3, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://mit-genai.pubpub.org",
+    "name": "Data Authenticity, Consent, and Provenance for AI Are All",
+    "snippet": "by S Longpre · 2024 · Cited by 101 — We explain why existing tools for data authenticity, consent, and documentation alone are unable to solve the core problems facing the AI ... Read more",
+    "host_name": "mit-genai.pubpub.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://media.defense.gov",
+    "name": "Strengthening Multimedia Integrity in the Generative AI Era",
+    "snippet": "Jan 16, 2025 — Content Credentials could help limit misuse of these data collections by indicating their provenance and their usage limitations. 25 pages",
+    "host_name": "media.defense.gov",
+    "rank": 4,
+    "date": "Jan 16, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dataprovenance.org",
+    "name": "Publications",
+    "snippet": "A position paper on the missing infrastructure for responsible AI data authenticity, consent, and provenance . attribution , documentation, and provenance gaps ...",
+    "host_name": "www.dataprovenance.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.devoteam.com",
+    "name": "Digital Provenance: Can You Prove Where Your AI Outputs",
+    "snippet": "Map which tools in your content production pipeline support C2PA signing, which AI outputs have no chain of custody, and where your training data provenance is ... Read more",
+    "host_name": "www.devoteam.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

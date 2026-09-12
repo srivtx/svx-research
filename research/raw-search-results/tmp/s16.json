@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://docs.oracle.com",
+    "name": "Process an Inbound EDI Batch File Using the Stage",
+    "snippet": "Learn how to create a B2B flow , using the stage file and B2B actions, to process an inbound EDI batch file and send a functional acknowledgment for the file ...",
+    "host_name": "docs.oracle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.focused-ec.com",
+    "name": "NDM vs SFTP for B2B File Transfer: What EDI Teams",
+    "snippet": "Jul 21, 2026 — Can SFTP handle large files for EDI batches ? Technically, yes— SFTP can transfer large files securely. However, it lacks native checkpoint ...",
+    "host_name": "www.focused-ec.com",
+    "rank": 1,
+    "date": "Jul 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cleo.com",
+    "name": "Enterprise EDI: The Complete Guide to Modern B2B",
+    "snippet": "Learn how enterprise EDI is evolving in 2026 with cloud, API-driven integration that improves visibility, speeds onboarding, and scales B2B ops.",
+    "host_name": "www.cleo.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.infoconn.com",
+    "name": "EDI via SFTP | A Practical Guide to exchanging EDI Files",
+    "snippet": "Aug 25, 2025 — EDI via sFTP is a secure, file-based way for two businesses to exchange electronic documents without using complicated integrations or expensive ...",
+    "host_name": "www.infoconn.com",
+    "rank": 3,
+    "date": "Aug 25, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://sftptogo.com",
+    "name": "EDI Integration & SFTP: Secure EDI Over MFT",
+    "snippet": "Jun 2, 2026 — This guide explains how EDI integration over SFTP works , where SFTP fits compared with AS2, what controls you need around it, and how to build ...",
+    "host_name": "sftptogo.com",
+    "rank": 4,
+    "date": "Jun 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://divihn.com",
+    "name": "AS2 vs. SFTP vs. VAN: EDI Protocol Comparison Guide",
+    "snippet": "This guide compares AS2, SFTP , and MDNs) provide proof that EDI documents were delivered successfully and without modification. This helps improve EDI ...",
+    "host_name": "divihn.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.filefeed.io",
+    "name": "SFTP File Automation: Ingestion Guide for B2B SaaS",
+    "snippet": "Feb 28, 2026 — SFTP file automation for B2B SaaS: how to ingest, validate, map, and deliver client files automatically, without custom scripts for every ...",
+    "host_name": "www.filefeed.io",
+    "rank": 6,
+    "date": "Feb 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.boldvan.com",
+    "name": "Protocol Deep Dive: Comparing AS2, SFTP, and REST",
+    "snippet": "This real-time integration eliminates the latency between EDI receipt and ERP update that batch file processing creates, accelerating the order-to-cash cycle",
+    "host_name": "www.boldvan.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.files.com",
+    "name": "Understanding B2B File Transfer Solutions",
+    "snippet": "Jul 10, 2025 — B2B file transfer is the daily plumbing between your company and the partners, vendors, banks, and customers you exchange files with.",
+    "host_name": "www.files.com",
+    "rank": 8,
+    "date": "Jul 10, 2025",
+    "favicon": ""
+  }
+]

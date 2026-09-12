@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://figr.design",
+    "name": "Solve Design to Dev Handoff Problems",
+    "snippet": "Jun 5, 2026 — Missing states are one of the clearest design to dev handoff problems because they create both a context gap and an artifact gap . The context ...",
+    "host_name": "figr.design",
+    "rank": 0,
+    "date": "Jun 5, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://playerzero.ai",
+    "name": "What Are Support Escalations in Software?",
+    "snippet": "Apr 22, 2026 — Support escalations happen when customer issues require engineering involvement to resolve . Learn why they're expensive, what causes them, ...",
+    "host_name": "playerzero.ai",
+    "rank": 1,
+    "date": "Apr 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://leaddev.com",
+    "name": "The hidden costs of tech support",
+    "snippet": "Feb 17, 2026 — A support ticket is opened. The customer success engineer exchanges messages with the user, trying to reproduce the issue. The ticket is ... Read more",
+    "host_name": "leaddev.com",
+    "rank": 2,
+    "date": "Feb 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.questworks.io",
+    "name": "The Design-Engineering Handoff: Why It Breaks - QuestWorks",
+    "snippet": "Apr 17, 2026 — The design- engineering handoff breaks because of two gaps : the discrepancy becomes a ticket that creates rework late in the sprint. Figma's ...",
+    "host_name": "www.questworks.io",
+    "rank": 3,
+    "date": "Apr 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.qt.io",
+    "name": "Design Handoff to Developers: How to Stay True to Your",
+    "snippet": "Dec 30, 2025 — Learn how to hand off design to developers effectively . A comprehensive design handoff guide covering best practices and designer-developer ...",
+    "host_name": "www.qt.io",
+    "rank": 4,
+    "date": "Dec 30, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.augmentcode.com",
+    "name": "The Context Gap: Why Some AI Coding Tools Break",
+    "snippet": "Jul 28, 2025 — This guide demonstrates systematic context management patterns using semantic repository indexing, dependency-aware validation, and ... Read more",
+    "host_name": "www.augmentcode.com",
+    "rank": 5,
+    "date": "Jul 28, 2025",
+    "favicon": ""
+  }
+]

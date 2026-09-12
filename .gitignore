@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+build/assets/
+.DS_Store

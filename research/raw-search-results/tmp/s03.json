@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://medium.com/@community_md101/the-current-data-stack-is-too-complex-70-data-leaders-practitioners-agree-b460821b07dd",
+    "name": "The Current Data Stack is Too Complex - Medium",
+    "snippet": "Mar 13, 2025 · The article talks about the over of tools in the data management and analytics stack. It also sheds light on the outcome of integrating data ...",
+    "host_name": "medium.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/dataengineering/comments/1mzx1bj/is_the_modern_data_stack_becoming_too_complex",
+    "name": "Is the modern data stack becoming too complex? : r/dataengineering",
+    "snippet": "Aug 25, 2025 · I think a lot of teams are realizing they don't need every shiny piece of the modern data stack. We ditched multiple orchestration layers and ... If you had to build an analytics tech stack for a company with a really ... Is modern data stack relevant for small data orgs? - Reddit More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.themoderndatacompany.com/blog/new-report-reveals-how-data-architecture-complexity-is-undermining-decision-making-and-ai-innovation",
+    "name": "New Report Reveals How Data Stack Complexity is Undermining",
+    "snippet": "Aug 21, 2025 · The report details how data stack complexity is a persistent tax on data teams, with two-thirds of respondents (63%) spending more than 20% of ...",
+    "host_name": "www.themoderndatacompany.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://moselle.io/blog/why-data-fragmentation-is-stifling-your-growth",
+    "name": "Why Data Fragmentation is Stifling Your Growth (And How to",
+    "snippet": "Mar 11, 2025 · Without a centralized location for DTC data, extracting actionable insights becomes a complex puzzle. Operators gather, clean up, and reconcile ...",
+    "host_name": "moselle.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.fivetran.com/blog/how-to-go-from-spreadsheets-to-a-modern-data-stack-with-limited-resources",
+    "name": "How to go from spreadsheets to a modern data stack with limited",
+    "snippet": "May 1, 2023 · Learn how growth consultant Kat Gardiner guides early-stage organizations in developing a scalable data strategy, without breaking the bank.",
+    "host_name": "www.fivetran.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/alizzzzz_if-your-data-team-is-constantly-maintaining-activity-7383546517032300544-362Q",
+    "name": "Ali Šifrar's Post - LinkedIn",
+    "snippet": "Oct 13, 2025 · If your data team is constantly 'maintaining,' you don't have a data team. You have entrepise data stack held by ductaped spreadsheet. Data and analytics teams are a waste of money... | Tris J Burns Do you have data in spreadsheets? - LinkedIn More results from www.linkedin.com",
+    "host_name": "www.linkedin.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.timextender.com/blog/data-empowered-leadership/the-modern-data-stack-is-broken",
+    "name": "The Modern Data Stack Is Broken - Timextender",
+    "snippet": "Jul 24, 2026 · Discover why the fragmented approach of the modern data stack is failing, and how TimeXtender provides a more holistic solution for data ...",
+    "host_name": "www.timextender.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=liqtz1JiuxM",
+    "name": "What Tools should Data Engineers know in 2025 - YouTube",
+    "snippet": "Feb 9, 2025 · Feeling overwhelmed by the endless tools in Data Engineering? Not all tools are worth your time, and some are already obsolete!",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://contextandchaos.substack.com/p/ai-broke-the-data-stack-now-what",
+    "name": "AI Broke the Data Stack. Now What? My 7 Predictions for 2026",
+    "snippet": "Jan 7, 2026 · My prediction: The separate data and AI infrastructure will collapse into a single “AI-native data stack” where data and AI work together. This ...",
+    "host_name": "contextandchaos.substack.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cin7.com/blog/fragmented-systems",
+    "name": "Why Retailers Can't Afford Fragmented Systems in 2026 | Cin7",
+    "snippet": "Jun 9, 2026 · In 2025, fragmentation was a drag. In 2026, it's a liability. Let's be specific about what \"fragmented\" actually means, because it's easy to ...",
+    "host_name": "www.cin7.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

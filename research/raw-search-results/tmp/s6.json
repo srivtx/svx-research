@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://sourcegraph.com",
+    "name": "Documentation as Code: A Practical Guide for Dev Teams",
+    "snippet": "Jun 29, 2026 — Documentation as code keeps docs in the repo and runs them through the same review and CI as code , so they stay in sync.",
+    "host_name": "sourcegraph.com",
+    "rank": 0,
+    "date": "Jun 29, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://passo.uno",
+    "name": "the case for new docs-as-code standards",
+    "snippet": "Nov 1, 2021 — But to have better tools, I believe we must address first some systemic issues affecting how docs -as- code is done these days, that is: The lack ... Read more",
+    "host_name": "passo.uno",
+    "rank": 1,
+    "date": "Nov 1, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Documentation has this nasty problem of becom",
+    "snippet": "Oct 28, 2018 — Documentation has this nasty problem of becoming outdated. It can be infuriating to have stale documentation . having no separate documentation ...",
+    "host_name": "dev.to",
+    "rank": 2,
+    "date": "Oct 28, 2018",
+    "favicon": ""
+  },
+  {
+    "url": "https://idratherbewriting.com",
+    "name": "Thoughts on Docs as code being a broken promise",
+    "snippet": "May 21, 2024 — Docs as code is a broken promise in which … docs -as- code systems might have more problems than benefits. the difficulty of Git is a big hurdle. ...",
+    "host_name": "idratherbewriting.com",
+    "rank": 3,
+    "date": "May 21, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://gitdoc.ai",
+    "name": "Documentation as Code: A Complete Guide for 2026 - GitDoc",
+    "snippet": "Jun 9, 2026 — The painful part isn't just that docs go stale . It's that nobody can quickly answer which version is correct. The code has a commit history. The ... Read more",
+    "host_name": "gitdoc.ai",
+    "rank": 4,
+    "date": "Jun 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "The moment you write documentation it becomes stale. It's",
+    "snippet": "The fix for that is to keep the documentation in the same repository as the code it documents , and then to enforce that it gets updated as part of your code ... Read more",
+    "host_name": "news.ycombinator.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://clickhelp.com",
+    "name": "When Docs as Code Reaches Its Limits (And What Teams",
+    "snippet": "Jul 28, 2026 — Why Docs as Code struggles with scaling—high entry barriers, poor visual editing, collaboration friction, and build-time bottlenecks.",
+    "host_name": "clickhelp.com",
+    "rank": 6,
+    "date": "Jul 28, 2026",
+    "favicon": ""
+  }
+]

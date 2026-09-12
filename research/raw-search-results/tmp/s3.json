@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://semaphore.io/blog/flaky-tests-playwright",
+    "name": "How to Avoid Flaky Tests in Playwright - Semaphore",
+    "snippet": "Mar 13, 2024 · A flaky test is a test that produces different results in different runs. It may pass a few times and fail others for no apparent reason.",
+    "host_name": "semaphore.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/Playwright/comments/1ptzhi6/what_playwright_best_practice_actually_reduced",
+    "name": "What Playwright best practice actually reduced flakiness the most for",
+    "snippet": "Dec 23, 2025 · Many “flaky tests” are actually revealing genuine product issues — such as hydration problems, slow interactions, or components that are usable ... Is it just me or is Playwright maddeningly flaky at times? - Reddit How Do You Handle Flaky Tests in Playwright + TypeScript? - Reddit More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@abdulkadirakyurt.de/eliminating-flaky-tests-in-playwright-root-causes-and-proven-fixes-be3b8f907150",
+    "name": "Eliminating Flaky Tests in Playwright: Root Causes and Proven Fixes",
+    "snippet": "May 23, 2026 · Flaky tests are the slow leak in your automation pipeline. QA engineers add retry loops as a band-aid, Flaky tests are defects. They have root ...",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/aiwithanton/playwright-just-shipped-the-fix-for-flaky-tests-i-built-3-years-ago-56nf",
+    "name": "Playwright Just Shipped the Fix For Flaky Tests I Built 3 Years Ago",
+    "snippet": "Apr 24, 2026 · 1,200 end-to-end tests. Roughly 4% flaked per run. failures per week Every spurious failure triggers a re-run, a triage, a Slack thread. The ...",
+    "host_name": "dev.to",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2XpemZCUGmk",
+    "name": "6 Tips to Manage Flaky Tests in Playwright - YouTube",
+    "snippet": "Mar 12, 2024 · Are your UI and End-To-End brittle? If you're having problems with Playwright, this video is for you. Playwright is a modern UI and ...",
+    "host_name": "www.youtube.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://charpeni.com/blog/how-to-easily-reproduce-a-flaky-test-in-playwright",
+    "name": "How to Easily Reproduce a Flaky Test in Playwright",
+    "snippet": "Mar 28, 2025 · Retries are a useful feature for retrying flaky tests automatically, but they can be a pain when debugging. You should remember to disable them ...",
+    "host_name": "charpeni.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://currents.dev/posts/what-is-a-flaky-test-and-how-to-fix-it",
+    "name": "What Is a Flaky Test in Software Testing, and How to Fix It",
+    "snippet": "Oct 30, 2025 · Tools like Playwright can automatically retry failed tests, but retries alone wouldn't suffice; the key is to study the patterns over time and ...",
+    "host_name": "currents.dev",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/78279035/how-to-fix-flaky-test-on-playwright",
+    "name": "How to fix flaky test on Playwright? - Stack Overflow",
+    "snippet": "Apr 5, 2024 · Set the test to serialized by setting the parallel run to false. Try to use 'delay' option of the 'click' event. It may help in your case.",
+    "host_name": "stackoverflow.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://endform.dev/blog/playwright-flaky-tests",
+    "name": "What causes flaky Playwright tests and how to fix them - Endform",
+    "snippet": "Jul 7, 2026 · Tired of Playwright tests that pass, fail, then pass again? Our guide helps you find the cause and fix flakiness for good.",
+    "host_name": "endform.dev",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/microsoft/playwright/issues/23354",
+    "name": "[Feature] Flaky Tests - retry all tests at end of the test run #23354",
+    "snippet": "May 29, 2023 · It would be ideal to have a configuration option where flaky tests are retried at the end of the run once all other tests are finished.",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

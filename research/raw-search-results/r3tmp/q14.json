@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://dev.to",
+    "name": "The Developer Stack That Ended My Context Switching",
+    "snippet": "Aug 12, 2025 — Why Developers Struggle with Context Switching When. Every time you switch apps, you drop parts of that model. to rebuild that mental map.",
+    "host_name": "dev.to",
+    "rank": 0,
+    "date": "Aug 12, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.augmentcode.com",
+    "name": "AI vs Time Tools: 5 Ways to Cut Developer Context Switching",
+    "snippet": "Sep 30, 2025 — Developer productivity suffers because context switching destroys working memory—Duke research shows 30-45 minutes needed to rebuild full ...",
+    "host_name": "www.augmentcode.com",
+    "rank": 1,
+    "date": "Sep 30, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://mattermost.com",
+    "name": "How to Reduce Developer Tool Fragmentation for a More",
+    "snippet": "Mar 4, 2022 — One of the biggest enemies of productivity is context switching . Moving between tools creates workflow friction that slows down work and ... Read more",
+    "host_name": "mattermost.com",
+    "rank": 2,
+    "date": "Mar 4, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mesoform.com",
+    "name": "The Hidden Costs of Context-Switching: Why Developers",
+    "snippet": "Feb 21, 2025 — Context - switching is an invisible drain on productivity, Reduced efficiency: More time spent ramping up means less time coding. Increased ...",
+    "host_name": "www.mesoform.com",
+    "rank": 3,
+    "date": "Feb 21, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://axolo.co",
+    "name": "The True Cost of Context Switching in Developer Workflows",
+    "snippet": "Dec 15, 2024 — Poorly tuned CI/CD pipelines, unclear ownership, and fragmented deployment processes all increase context switching time.",
+    "host_name": "axolo.co",
+    "rank": 4,
+    "date": "Dec 15, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://super-productivity.com",
+    "name": "Context Switching Is Costing Your Team 6+ Hours a Week",
+    "snippet": "Nov 29, 2025 — This article breaks down the measurable tax of context switching , shows how to measure it through a lightweight focus audit, and offers ... Read more",
+    "host_name": "super-productivity.com",
+    "rank": 5,
+    "date": "Nov 29, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://conclude.io",
+    "name": "Context Switching is Killing Your Productivity at Work",
+    "snippet": "Apr 24, 2025 — Block out time for focused work, mute unnecessary notifications, and use automation or integration tools to minimize switching between platforms ... Read more",
+    "host_name": "conclude.io",
+    "rank": 6,
+    "date": "Apr 24, 2025",
+    "favicon": ""
+  }
+]

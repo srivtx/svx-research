@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.rocket.new",
+    "name": "Figma to Production Code: A Complete Guide for Developers",
+    "snippet": "Jul 15, 2026 — Why do 92% of designers and developers agree that the design-to-code handoff still needs improvement? According to Figma's 2025 report, the gap ... Read more",
+    "host_name": "www.rocket.new",
+    "rank": 0,
+    "date": "Jul 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://figr.design",
+    "name": "Figma Design System Drift: Why Components and Code",
+    "snippet": "May 15, 2026 — That gap is Figma design system drift . It rarely arrives as a dramatic failure. It sneaks in through rushed tickets, one-off fixes, copied ...",
+    "host_name": "figr.design",
+    "rank": 1,
+    "date": "May 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://koder.ai",
+    "name": "From Figma to Production Code: How AI Bridges Design",
+    "snippet": "Nov 24, 2025 — Learn how AI turns Figma designs into production-ready code by mapping components, tokens, and specs—reducing rework and speeding up releases. Read more",
+    "host_name": "koder.ai",
+    "rank": 2,
+    "date": "Nov 24, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.figma.com",
+    "name": "Config 2025: Pushing Design Further",
+    "snippet": "May 7, 2025 — Dylan Field runs down everything we launched at Config 2025 and explains why pushing design further matters more now than ever. Read more",
+    "host_name": "www.figma.com",
+    "rank": 3,
+    "date": "May 7, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://overlayqa.com",
+    "name": "Figma to Code: What Gets Lost and How to Catch It | OverlayQA",
+    "snippet": "May 13, 2026 — Spacing, typography, color values, responsive behavior, and interaction states all drift when you translate a Figma design into production ... Read more",
+    "host_name": "overlayqa.com",
+    "rank": 4,
+    "date": "May 13, 2026",
+    "favicon": ""
+  }
+]

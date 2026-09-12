@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://launchdarkly.com",
+    "name": "Feature Flags 101: Use Cases, Benefits, and Best Practices",
+    "snippet": "Nov 17, 2023 — Feature flags are conditional if-else statements that determine which code path executes at runtime. Feature flags let you define which code ...",
+    "host_name": "launchdarkly.com",
+    "rank": 0,
+    "date": "Nov 17, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://amplitude.com",
+    "name": "9 Top Feature Flag Solutions for Modern Product Teams in",
+    "snippet": "Feature flags are code switches that let you turn features on or off without deploying new code. Think of them as light switches for your product—you flip them ... Read more",
+    "host_name": "amplitude.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.getunleash.io",
+    "name": "11 best practices for building and scaling feature flag systems",
+    "snippet": "With feature flags , developers can turn specific features or code segments on or off at runtime without needing a code deployment or rollback. Organizations ... Read more",
+    "host_name": "docs.getunleash.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.growthbook.io",
+    "name": "Feature Flags 101: The Ultimate Guide for Product and",
+    "snippet": "Mar 2, 2026 — A feature flag is a conditional mechanism in your code that lets you toggle application behavior at runtime, without deploying new code .  ...",
+    "host_name": "www.growthbook.io",
+    "rank": 3,
+    "date": "Mar 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://mixpanel.com",
+    "name": "What is feature flagging? The A-Z complete guide for",
+    "snippet": "Jun 9, 2026 — Feature flags are like a light switch for product features. They use conditional logic (“if-then”) to allow you to turn features on or off ... Read more",
+    "host_name": "mixpanel.com",
+    "rank": 4,
+    "date": "Jun 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.statsig.com",
+    "name": "Feature Flagging Tools",
+    "snippet": "By using the provided APIs, developers can conditionally execute code paths based on the state of feature flags . This integration allows for granular control",
+    "host_name": "www.statsig.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://configcat.com",
+    "name": "A/B Testing with Feature Flags: How It Works and When to",
+    "snippet": "Aug 12, 2026 — Feature flags control who receives each variation, while your analytics platform measures the outcome. Together, they make it possible to test ... Read more",
+    "host_name": "configcat.com",
+    "rank": 6,
+    "date": "Aug 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datadoghq.com",
+    "name": "What are Feature Flags and How Are They Implemented?",
+    "snippet": "Feature flags are a software development technique that enables teams to toggle functionality on or off at runtime without redeploying code . Read more",
+    "host_name": "www.datadoghq.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.minware.com",
+    "name": "The Impact of Feature Flags on DORA Metrics",
+    "snippet": "Nov 25, 2025 — Feature flags decouple deployment from impact. Learn how feature flags change DORA metrics like lead time, deployment frequency, ...",
+    "host_name": "www.minware.com",
+    "rank": 8,
+    "date": "Nov 25, 2025",
+    "favicon": ""
+  }
+]

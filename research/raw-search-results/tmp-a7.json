@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://iternal.ai",
+    "name": "On-Prem LLM Deployment (2026): GPU Sizing, vLLM & Air",
+    "snippet": "A step-by-step engineering guide to deploying a large language model on hardware you own and control: VRAM and GPU sizing math, model selection, vLLM vs NVIDIA ... Read more",
+    "host_name": "iternal.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blogs.oracle.com",
+    "name": "Optimizing Inference Performance for “On-Prem” LLMs",
+    "snippet": "Dec 23, 2024 — With custom private/ on-prem LLMs, technology teams face the challenge of meeting consistent inference latency and inference throughput goals. Read more",
+    "host_name": "blogs.oracle.com",
+    "rank": 1,
+    "date": "Dec 23, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sitepoint.com",
+    "name": "Enterprise Local LLM Deployment: vLLM, GPUs,",
+    "snippet": "Mar 20, 2026 — A comprehensive pillar guide on architecting, deploying, and managing local Large Language Models (LLMs) for enterprise and production use ...",
+    "host_name": "www.sitepoint.com",
+    "rank": 2,
+    "date": "Mar 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.storagereview.com",
+    "name": "Best Local LLM Tools in 2026: Runtimes, Apps, and Agents",
+    "snippet": "Aug 19, 2026 — : Every local LLM runtime, desktop app, been free for commercial use since July 2025 . 2x faster inference on an RTX 5090, Twinny in November  ...",
+    "host_name": "www.storagereview.com",
+    "rank": 3,
+    "date": "Aug 19, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Private LLM Inference on Consumer Blackwell GPUs",
+    "snippet": "Jan 14, 2026 — NVIDIA's Blackwell consumer GPUs (RTX 50-series, early 2025 ) represent a potential inflection point for democratizing LLM deployment. These ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 4,
+    "date": "Jan 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://pcserverandparts.com",
+    "name": "Best Local LLM Hardware 2026: Servers, Workstations &",
+    "snippet": "May 26, 2026 — On- premise LLM inference keeps Protected Health Information inside your network, eliminating the need for Business Associate Agreements with ...",
+    "host_name": "pcserverandparts.com",
+    "rank": 5,
+    "date": "May 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.starmorph.com",
+    "name": "Local LLM Inference in 2026: The Complete Guide to Tools",
+    "snippet": "Mar 21, 2026 — A comprehensive guide to running LLMs locally — comparing 10 inference tools , quantization formats, hardware compatibility, open-weight ...",
+    "host_name": "blog.starmorph.com",
+    "rank": 6,
+    "date": "Mar 21, 2026",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com",
+    "name": "Why Enterprise Search Still Sucks in 2026? And What You",
+    "snippet": "Enterprise Search Is Broken . Here's What Comes Next. You search for a document you know exists. Nothing useful shows up.",
+    "host_name": "www.youtube.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://slite.com",
+    "name": "Enterprise Search Survey Report 2026 - Our 10 Biggest",
+    "snippet": "Jan 24, 2026 — The revenue impact cuts deeper: customer delays (15%) and missed deadlines (9%) mean nearly a quarter of search failures affect external ...",
+    "host_name": "slite.com",
+    "rank": 1,
+    "date": "Jan 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://mydigitalworkplace.wordpress.com",
+    "name": "Why enterprise search is NOT like Google search",
+    "snippet": "Oct 29, 2014 — 1. Showing up in search results = putting in effort to be found. · 2. Different vocabularies will mean different results · 4. Dedicated Search ...",
+    "host_name": "mydigitalworkplace.wordpress.com",
+    "rank": 2,
+    "date": "Oct 29, 2014",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.brainblendai.com",
+    "name": "Why Enterprise AI Keeps Failing (Hint: It's Not the",
+    "snippet": "Mar 22, 2026 — Worldwide AI spending is forecast to reach $2.52 trillion in 2026. Over 80% of those projects fail. The technology isn't the problem.",
+    "host_name": "www.brainblendai.com",
+    "rank": 3,
+    "date": "Mar 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "I think this gets it wrong. The real reason enterprise",
+    "snippet": "And most enterprise software sucks because 1) writing complex, highly configurable software is hard and 2) very few companies have the billions of development ...",
+    "host_name": "news.ycombinator.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kaufman-ais.com",
+    "name": "Why Enterprise Search Is Not Enough | Knowledge Systems",
+    "snippet": "Enterprise search alone is not enough for productive AI . Why knowledge layers, RAG and governance are necessary - explained by Kaufman AIS.",
+    "host_name": "kaufman-ais.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]
