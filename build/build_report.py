@@ -59,18 +59,22 @@ from pdf import install_font_fallback  # noqa: E402  (skill scripts path)
 install_font_fallback()
 
 # ---------------------------------------------------------------------------
-# SVX green cascade palette (nature / minimal / monochrome, seed 7)
+# SVX light-green cascade palette (nature / light / monochrome, seed 77)
+# design_engine palette-cascade --intent nature --mode light --harmony monochrome --seed 77
 # Tier caps verified: XL S<=0.08, L S<=0.15, M S<=0.30, S S<=0.50, XS S<=0.75
 # ---------------------------------------------------------------------------
-PAGE_BG      = colors.HexColor('#f5f6f5')   # XL
-SECTION_BG   = colors.HexColor('#edeeed')   # XL
-CARD_BG      = colors.HexColor('#e4eae7')   # L
-TABLE_STRIPE = colors.HexColor('#edefee')   # L
-HEADER_FILL  = colors.HexColor('#456454')   # M
-BORDER       = colors.HexColor('#b7d3c5')   # S
-ACCENT       = colors.HexColor('#298959')   # XS
-TEXT_PRIMARY = colors.HexColor('#232725')
-TEXT_MUTED   = colors.HexColor('#77817c')
+PAGE_BG      = colors.HexColor('#eff1f0')   # XL
+SECTION_BG   = colors.HexColor('#eceeed')   # XL
+CARD_BG      = colors.HexColor('#e4e9e6')   # L
+TABLE_STRIPE = colors.HexColor('#eef1ef')   # L
+HEADER_FILL  = colors.HexColor('#2f5140')   # M
+COVER_BLOCK  = colors.HexColor('#3e6753')   # M
+BORDER       = colors.HexColor('#b4cfc2')   # S
+ICON         = colors.HexColor('#388860')   # S
+ACCENT       = colors.HexColor('#1d9459')   # XS
+ACCENT_2     = colors.HexColor('#40c884')   # XS
+TEXT_PRIMARY = colors.HexColor('#181b1a')
+TEXT_MUTED   = colors.HexColor('#747d78')
 
 TABLE_HEADER_COLOR = HEADER_FILL
 TABLE_ROW_EVEN     = colors.white

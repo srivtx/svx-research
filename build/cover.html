@@ -2,98 +2,122 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600&family=Noto+Serif+SC:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
     @page { size: 794px 1123px; margin: 0; }
     :root {
-      --c-bg: #0c1f15;        /* deep forest night */
-      --c-accent: #4fbb85;    /* luminous green */
-      --c-text: #e9f5ee;      /* cool white-green */
-      --c-muted: #7fa893;     /* green-gray */
-      --c-glow: #298959;      /* mid green glow source */
+      /* SVX light-green cascade (nature/light/monochrome, seed 77) */
+      --c-bg: #f7faf8;        /* white + primary tint (palette bg family)  */
+      --c-accent: #1d9459;    /* XS emerald                                 */
+      --c-text: #181b1a;      /* near-black, x.ai-style stark               */
+      --c-muted: #747d78;     /* muted gray-green                           */
+      --c-mid: #2f5140;       /* M deep forest                              */
+      --c-grid: rgba(29, 148, 89, 0.05);   /* hairline grid, ~2-5%        */
     }
     html, body {
       margin: 0; padding: 0;
       width: 794px; height: 1123px;
       background: var(--c-bg);
       color: var(--c-text);
-      font-family: 'Inter', 'Noto Sans SC', sans-serif;
+      font-family: 'Inter', 'Space Grotesk', sans-serif;
     }
     @media screen {
       html { height: auto; display: flex; justify-content: center; min-height: 100vh; background: var(--c-bg); }
-      body { transform-origin: top center; scale: min(1, calc(100vw / 794), calc(100vh / 1123)); margin: 0 auto; box-shadow: 0 0 60px rgba(0,0,0,0.4); }
+      body { transform-origin: top center; scale: min(1, calc(100vw / 794), calc(100vh / 1123)); margin: 0 auto; box-shadow: 0 0 60px rgba(24, 27, 26, 0.12); }
     }
     .cover { width: 794px; height: 1123px; position: relative; box-sizing: border-box;
              border: none; outline: none; box-shadow: none; }
 
-    /* Layer 1 - background glow (clipped) */
+    /* Layer 1 - background hairline grid (clipped) */
     .layer-bg { position: absolute; inset: 0; overflow: hidden; z-index: 1; }
-    .glow-a { position: absolute; left: -140px; top: -120px; width: 520px; height: 520px;
-              background: radial-gradient(circle, rgba(41,137,89,0.08) 0%, rgba(41,137,89,0) 70%); }
-    .glow-b { position: absolute; right: -160px; bottom: -140px; width: 560px; height: 560px;
-              background: radial-gradient(circle, rgba(79,187,133,0.07) 0%, rgba(79,187,133,0) 70%); }
+    .grid {
+      position: absolute; inset: 0;
+      background-image:
+        linear-gradient(to right, var(--c-grid) 0.5px, transparent 0.5px),
+        linear-gradient(to bottom, var(--c-grid) 0.5px, transparent 0.5px);
+      background-size: 56px 56px;
+    }
 
-    /* Layer 2 - structure: luminous rectangular frame */
+    /* Layer 2 - structure: vertical anchor line (2U gap to text) */
     .layer-frame { position: absolute; inset: 0; z-index: 2; }
-    .frame { position: absolute; left: 60px; right: 60px; top: 80px; bottom: 80px;
-             border: 2px solid var(--c-accent); }
+    .anchor-line {
+      position: absolute; left: 88px; top: 112px; bottom: 112px; width: 4px;
+      background: var(--c-accent);
+    }
 
     /* Layer 3 - content */
     .layer-content { position: absolute; inset: 0; z-index: 3; }
     .kicker {
-      position: absolute; left: 100px; top: 135px;
-      font-size: 11pt; font-weight: 300; color: var(--c-accent);
+      position: absolute; left: 170px; top: 168px;
+      font-family: 'Inter', sans-serif;
+      font-size: 11pt; font-weight: 500; color: var(--c-accent);
       letter-spacing: 5px; text-transform: uppercase;
     }
+    .kicker .block {
+      display: inline-block; width: 11px; height: 11px;
+      background: var(--c-accent); margin-right: 14px;
+    }
     .title {
-      position: absolute; left: 100px; top: 236px;
-      font-family: 'Playfair Display', 'Noto Serif SC', serif;
-      font-size: 50pt; font-weight: 900; line-height: 1.15;
-      color: var(--c-text); max-width: 600px;
-      text-shadow: 0 0 24px rgba(79,187,133,0.25);
+      position: absolute; left: 170px; top: 300px;
+      font-family: 'Space Grotesk', 'Inter', sans-serif;
+      font-size: 54pt; font-weight: 700; line-height: 1.12;
+      letter-spacing: -0.5px;
+      color: var(--c-text); max-width: 540px;
     }
     .summary {
-      position: absolute; left: 100px; top: 505px;
-      font-size: 15pt; font-weight: 300; line-height: 1.7;
-      color: var(--c-muted); max-width: 520px;
+      position: absolute; left: 170px; top: 560px;
+      font-family: 'Inter', sans-serif;
+      font-size: 14.5pt; font-weight: 300; line-height: 1.75;
+      color: var(--c-muted); max-width: 508px;
     }
-    .org {
-      position: absolute; left: 100px; top: 800px;
-      font-size: 18pt; font-weight: 500; color: var(--c-text);
+    .summary b { color: var(--c-mid); font-weight: 600; }
+    .meta {
+      position: absolute; left: 170px; top: 802px;
+      font-family: 'Inter', sans-serif;
     }
-    .org-sub {
-      position: absolute; left: 100px; top: 845px;
-      font-size: 10.5pt; font-weight: 300; color: var(--c-muted); letter-spacing: 1px;
+    .meta .org {
+      font-size: 17pt; font-weight: 600; color: var(--c-text);
+      letter-spacing: 0.2px;
     }
-    .date {
-      position: absolute; left: 100px; bottom: 132px;
-      font-size: 10pt; font-weight: 300; color: var(--c-muted); letter-spacing: 3px;
-      text-transform: uppercase;
+    .meta .org-sub {
+      margin-top: 12px;
+      font-size: 10.5pt; font-weight: 400; color: var(--c-muted);
+      letter-spacing: 1px;
     }
+    .footer {
+      position: absolute; left: 170px; bottom: 128px;
+      font-family: 'Inter', sans-serif;
+      font-size: 10pt; font-weight: 400; color: var(--c-muted);
+      letter-spacing: 3px; text-transform: uppercase;
+      display: flex; gap: 26px;
+    }
+    .footer .sep { color: var(--c-accent); }
   </style>
 </head>
 <body>
   <div class="cover">
     <div class="layer-bg">
-      <div class="glow-a"></div>
-      <div class="glow-b"></div>
+      <div class="grid"></div>
     </div>
     <div class="layer-frame">
-      <div class="frame"></div>
+      <div class="anchor-line"></div>
     </div>
     <div class="layer-content">
-      <div class="kicker">SVX Research &middot; Industry Gap Analysis &middot; 2025&ndash;2026</div>
+      <div class="kicker"><span class="block"></span>SVX Research &middot; Gap Analysis &middot; 2025&ndash;2026</div>
       <div class="title">The Missing<br>Software</div>
       <div class="summary">
         Five parallel research tracks into what the software industry has not built:
-        unbuilt developer tools, broken integration plumbing, missing links between
-        ecosystems, categories that stay badly built, and the open gaps of the AI era.
-        Nearly forty validated gaps, screened against incumbents, ranked by what a
-        small team can actually ship.
+        <b>unbuilt tools, broken plumbing, missing links, badly-built categories</b>,
+        and the open gaps of the AI era. Nearly forty validated gaps, screened
+        against incumbents, ranked by what a small team can actually ship.
       </div>
-      <div class="org">SVX Research</div>
-      <div class="org-sub">Multi-Agent Research Series &middot; Tracks R1&ndash;R5</div>
-      <div class="date">September 2026</div>
+      <div class="meta">
+        <div class="org">SVX Research</div>
+        <div class="org-sub">Multi-Agent Research Series &middot; Tracks R1&ndash;R5 &middot; Edition 2</div>
+      </div>
+      <div class="footer">
+        <span>September 2026</span><span class="sep">/</span><span>svx-research</span>
+      </div>
     </div>
   </div>
 </body>
