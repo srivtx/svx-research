@@ -5,6 +5,13 @@ repository. **Read this before changing anything.** This repo is the
 evidence base and origin story for the SVX product family — treat its
 integrity accordingly.
 
+**The whole story and the continuous research loop live in
+[`AGENT-MISSION.md`](AGENT-MISSION.md)** — how research agents feed
+this repo and how product sub-agents spin new repos out of it. **The
+living ranked gap list lives in
+[`docs/gap-registry.md`](docs/gap-registry.md)** — the only handshake
+point between research and products; update it when either side moves.
+
 ## What this repo is
 
 The corpus and deliverable of a September 2026 multi-agent investigation

@@ -3,7 +3,7 @@
 **SVX Industry Gap Analysis 2025–2026** · five parallel research tracks into what the software industry has not built.
 
 ![SVX](https://img.shields.io/badge/SVX-Research-298959?style=flat-square)
-![Report](https://img.shields.io/badge/report-25%20pages%20%2F%20PDF-456454?style=flat-square)
+![Report](https://img.shields.io/badge/report-27%20pages%20%2F%20PDF-456454?style=flat-square)
 ![Tracks](https://img.shields.io/badge/tracks-R1%E2%80%93R5-4fbb85?style=flat-square)
 ![Evidence](https://img.shields.io/badge/evidence-83%20raw%20search%20sets-77817c?style=flat-square)
 
@@ -23,11 +23,14 @@ Five independent research agents executed roughly sixty web searches, harvested 
 
 | Path | Contents |
 |------|----------|
-| [`report/`](report/) | The final deliverable: `SVX-Industry-Gap-Analysis-2025-2026.pdf` (25 pages, A4) + cover HTML source |
+| [`report/`](report/) | The final deliverable: `SVX-Industry-Gap-Analysis-2025-2026.pdf` (27 pages, A4, Edition 2) + cover HTML source |
 | [`research/track-reports/`](research/track-reports/) | The five full track reports (R1–R5, ~12,800 words total) |
 | [`research/raw-search-results/`](research/raw-search-results/) | The raw search-result corpus (83 JSON sets) — the auditable evidence base |
 | [`build/`](build/) | Reproducible report build: ReportLab pipeline, chart generation, green cascade palette |
 | [`docs/research-worklog.md`](docs/research-worklog.md) | The multi-agent work log — who researched what, agent by agent |
+| [`AGENT-MISSION.md`](AGENT-MISSION.md) | The whole story + the continuous research loop — how agents feed this repo, how products spin out of it |
+| [`docs/gap-registry.md`](docs/gap-registry.md) | The living ranked gap list — the only handshake point between research and products |
+| [`AGENTS.md`](AGENTS.md) | Agent onboarding — repo mechanics, corpus rules, brand |
 
 ## The five tracks
 
