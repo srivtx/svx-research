@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.aiwisdom.dev",
+    "name": "LLM API Providers Compared",
+    "snippet": "Jul 29, 2026 — Assuming \" OpenAI - compatible \" means interchangeable It doesn't. Test the actual failure modes per provider — refusals, malformed tool calls, ...",
+    "host_name": "www.aiwisdom.dev",
+    "rank": 0,
+    "date": "Jul 29, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Why We Built NeuroLink: Making AI Development",
+    "snippet": "Apr 6, 2026 — How a fintech company processing millions of payments ended up building the universal AI SDK — and why we open-sourced it. Read more",
+    "host_name": "dev.to",
+    "rank": 1,
+    "date": "Apr 6, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.truefoundry.com",
+    "name": "Best AI Code Security Tools for Enterprise in 2026",
+    "snippet": "Explore the best AI code security tools of 2026 . Compare top platforms for governance, scanning, and securing AI-generated code in enterprises.",
+    "host_name": "www.truefoundry.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://odock.ai",
+    "name": "LiteLLM vs Kong vs Cloudflare vs Portkey vs Odock",
+    "snippet": "Jul 2, 2026 — The meaningful difference is not whether a product can proxy an OpenAI -style request. The difference is where each product starts from, what it ...",
+    "host_name": "odock.ai",
+    "rank": 3,
+    "date": "Jul 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://swanbase.co",
+    "name": "Claude Code in 2026: The AI Agent That Codes (and Commits)",
+    "snippet": "Claude Code in 2026: a development agent that lives in your terminal, reads your entire codebase, writes, tests, commits, and opens PRs.",
+    "host_name": "swanbase.co",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "BayLeaf Sandbox — a first-class service alongside Chat and API",
+    "snippet": "OpenAI - compatible tools (Continue.dev, etc.). Set resources: { cpu, memory, disk } in createPersistentSandbox . To pick up a draggable item, press the space ...",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://therouter.ai",
+    "name": "Resource Delivery Methods | TheRouter.ai",
+    "snippet": "Pros: Minimal request size, no encoding overhead, easy for images already hosted publicly. Cons: Not supported by Amazon Bedrock (hard requirement: base64 or S3 ...",
+    "host_name": "therouter.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tianpan.co",
+    "name": "The Model EOL Clock: Treating Provider LLMs as External",
+    "snippet": "Apr 16, 2026 — OpenAI's deprecations page lists dozens of retired models since 2023, with notice periods ranging from 14 days (for ChatGPT-only models) to ... Read more",
+    "host_name": "tianpan.co",
+    "rank": 7,
+    "date": "Apr 16, 2026",
+    "favicon": ""
+  }
+]

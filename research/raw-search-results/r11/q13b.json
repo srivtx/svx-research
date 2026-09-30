@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://saurabh-kumar.com",
+    "name": "My Local LLM On A 32 GB M1 Pro - Saurabh Kumar",
+    "snippet": "Jun 14, 2026 — The HN thread is full of caveats about acceptance rates and MoE models benefiting less. None of it changes the decision: turn it on, measure, ...",
+    "host_name": "saurabh-kumar.com",
+    "rank": 0,
+    "date": "Jun 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com",
+    "name": "Want to be someone who just \"calls an API,\" or someone who",
+    "snippet": "... LLM solutions, not just experiment with them. . Responsibilities Develop, evaluate, and fine-tune AI models for NLP, Computer Vision ... Read more",
+    "host_name": "www.facebook.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Simple Baselines are Competitive with Code Evolution",
+    "snippet": "Code evolution is a family of techniques that rely on large language models to search through possi- ble computer programs by evolving or mutating existing ...",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://elixirforum.com",
+    "name": "I let LLMs write an Elixir NIF in C; it mostly worked",
+    "snippet": "This post documents how I built a cross-platform Elixir NIF in C to get on-demand up-to-date disk-usage stats without relying on os_mon and its disksup service.",
+    "host_name": "elixirforum.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Lancetnik/awesome-engineering-ai: Tools you can actually",
+    "snippet": "Tools you can actually install and use with your coding agent ・ run any coding agent on your own subscription, switch models, desktop ・ with model switching ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.hospitalitynet.org",
+    "name": "ITB Berlin AI Insights - AI Everywhere",
+    "snippet": "Mar 13, 2026 — They own something no LLM can replicate: years of proprietary guest data and a direct relationship with the customer.",
+    "host_name": "www.hospitalitynet.org",
+    "rank": 5,
+    "date": "Mar 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://simonwillison.net",
+    "name": "Simon Willison on plugins",
+    "snippet": "One of the responsibilities of this plugin is to configure which models are used for which purposes, so you can say in one place \"data enrichment uses ... Read more",
+    "host_name": "simonwillison.net",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "url": "http://gogs.ici.ro",
+    "name": "add hazy-analysis, summarization results, streaming demo",
+    "snippet": "Cobol is a high-level language, in the sense that +it gets compiled into machine language. Would anyone seriously +argue that Cobol is equivalent in power to, ...",
+    "host_name": "gogs.ici.ro",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "http://dagstuhl.sunsite.rwth-aachen.de",
+    "name": "OASIcs, Vol. 38, SLATE'14",
+    "snippet": "symbols are automatically ignored and all the ID symbols are processed as a unit and not as a list, which may be beneficial when extracting and transforming ...",
+    "host_name": "dagstuhl.sunsite.rwth-aachen.de",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  }
+]

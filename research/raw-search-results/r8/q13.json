@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://apache.googlesource.com",
+    "name": "Diff - 5.0.3^! - tapestry-5 - Git at Google",
+    "snippet": "+ + \"Source\" form shall mean the preferred form for making modifications, + including but not limited to software source code, documentation + source, and ... Read more",
+    "host_name": "apache.googlesource.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bwl.uni-hamburg.de",
+    "name": "Using Event-Driven Process Chains for Model-",
+    "snippet": "by D Lübke · Cited by 32 — For IT experts, however, every requirement has to be verified and consequently the use of formal methods is important. XPDL is a standardized language allowing ... Read more",
+    "host_name": "www.bwl.uni-hamburg.de",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "[PDF] Using event-driven process chains for model-",
+    "snippet": "Based on the introduced concept we have implemented a JAVA based converter using the BPMN-XML and OMN-XML and creating according PNML files. Currently the ... Read more",
+    "host_name": "www.academia.edu",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  }
+]

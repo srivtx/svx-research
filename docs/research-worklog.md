@@ -123,3 +123,24 @@ Work Log:
 Stage Summary:
 - User-facing download links delivered: primary https://x0.at/7plK.pdf (direct, byte-verified), backup https://gofile.io/d/EGDIsqHI
 - No changes to the PDF itself; delivery channel was the only issue
+
+---
+Task ID: WAVE2
+Agent: main (Super Z) + research agents R6–R13b
+Task: Clear the never-searched verticals backlog (six verticals), re-verify registry gaps #2–#5, and run all owed kill-searches — the first full iteration of the Loop 1 research flywheel
+
+Work Log:
+- Pushed loss-protection first: fresh GitHub token verified (srivtx), svx-research @ 1d4638d and svx-evalgate @ eec03ac pushed (AGENT-MISSION/AGENT-GOALS flywheel docs now live), remote HEADs verified, stale bundles deleted, security sweep clean
+- Launched wave 1 (R6 small-mfg ERP/MES, R7 field service, R8 gov COBOL) as parallel search agents; all three completed their search phase (22/15/25 queries, 80 raw files) but were killed by a ~30-min execution deadline before writing reports — evidence survived on disk (immutable layer by design)
+- Salvage pattern established: synthesis agents S6/S7/S8 converted the saved evidence into track reports with no new searches; launched alongside wave 2 (R9 elder care, R10 SMB supply chain) with hardened runtime discipline (15-min search budget, skeleton-first incremental writing, hard stops)
+- Wave 3a: R11 model portability (last never-searched vertical) + R12 registry gaps #2–#5 recheck; wave 3b: R13a/R13b verification passes running the owed kill-searches on every SURVIVED/UNVERIFIED candidate
+- Search-service degradation documented across all agents: recurring identical junk artifact (Scribd "zoberetimifid" OSRS doc), hard 429s under sibling concurrency, 30–50% of saved files unusable — agents flagged unusable evidence explicitly instead of guessing verdicts
+- Maintainer consolidation: gap-registry.md rewritten (rows 13–14 added OPEN-NEW; gaps #2–#5 re-verified with R12 evidence; 22 searched-and-closed candidates with closers named; backlog fully restructured; 20 still-unverified follow-ups seeded)
+
+Stage Summary:
+- 8 new track reports (R6–R13b, ~29,000 words), 184 new raw search files (267 total corpus)
+- NEW ROWS: #13 legacy differential-validation harness (COBOL migrations, SI channel — translation commoditized, validation open; Mechanical Orchard owns the method but sells a platform) and #14 home-care back-office agent layer (BPO-inside-the-software evidence; API gate passed on AlayaCare/AxisCare)
+- Model portability RESOLVED as evalgate provider-axis extension (request-format portability closed by gateways/MCP/promptfoo; behavior portability open and exactly evalgate's ground) — cross-repo handoff written to svx-evalgate AGENT-GOALS.md Goal 6
+- 22 candidates killed with closers named — the kill-list discipline is functioning: provisional rows (FAI packets, truck-stock overlay, SMB supplier comms) were promoted and then killed on verification, which is the system working
+- Registry top rows healthy: #2–#5 all still OPEN; #3 has named edge-closers to verify (Notilens) before any build
+- Honest evidence ceiling: 20 still-unverified items remain, prioritized in the registry backlog as the next missions

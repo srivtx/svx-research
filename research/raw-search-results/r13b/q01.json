@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://android.googlesource.com",
+    "name": "platform/external/testng - Git at Google",
+    "snippet": "test class are guaranteed to run in the same thread, even if the tests are currently being run with parallel =\"methods\". You can configure whether to include ...",
+    "host_name": "android.googlesource.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lists.apache.org",
+    "name": "[1/4] incubator-joshua git commit: ClassLMs: fixed a bug with",
+    "snippet": "Added some unit tests . Reads a class map from file. Computes the features incurred along this edge. Maps given array of word/class ids to KenLM ids. allows ...",
+    "host_name": "lists.apache.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lists.jboss.org",
+    "name": "in trunk/docs/common-resources/en/src/main: dictionaries and",
+    "snippet": "Dec 18, 2008 — [richfaces-svn-commits] JBoss Rich Faces SVN: r11872 - in trunk/docs/common-resources/en/src/main: dictionaries and 1 other directory. Read more",
+    "host_name": "lists.jboss.org",
+    "rank": 2,
+    "date": "Dec 18, 2008",
+    "favicon": ""
+  }
+]

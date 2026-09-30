@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://jentic.com",
+    "name": "HR recruiting APIs",
+    "snippet": "The Public API exposes 11 read and write operations across users, objectives, high fives, questions, answers, and reports so that performance data can be pulled ...",
+    "host_name": "jentic.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.workato.com",
+    "name": "Access the developer portal",
+    "snippet": "Log in to the API developer portal with a magic link or Workato Identity to discover, test, and consume published APIs.",
+    "host_name": "docs.workato.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://alayacare.com",
+    "name": "Unlocking AI's potential in home-based care with Naomi",
+    "snippet": "Jun 24, 2025 — AI in home healthcare serves as a decision support system that helps professionals make better choices by analyzing data, surfacing key ...",
+    "host_name": "alayacare.com",
+    "rank": 2,
+    "date": "Jun 24, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://saaskart.co",
+    "name": "AlayaCare Home Care Software",
+    "snippet": "AlayaCare is an end-to-end home care platform with care plans, scheduling, EVV, and billing plus a caregiver app. Plans from $1000/mo.",
+    "host_name": "saaskart.co",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://supergood.ai",
+    "name": "Axxess API: Grade F | The API Report Card",
+    "snippet": "The only public API is the CEHRT-mandated patient-access endpoint set (C-CDA/CCDS) at engage.axxess.com, with no signup, sandbox, or keys. Read more",
+    "host_name": "supergood.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.crm.coach",
+    "name": "AxisCare CRM and Operations Stack",
+    "snippet": "Auth: Public docs show a site-specific token flow, not an end-user OAuth flow. An admin signs into AxisCare, goes to Admin > API Token > Create New Token, ...",
+    "host_name": "www.crm.coach",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://crozdesk.com",
+    "name": "Compare Therapy Notes vs AlayaCare vs Cardiolyse",
+    "snippet": "Does this service offer an API ? Yes, AlayaCare offers Restful APIs . What is this service generally used for? This service is used for home healthcare ... Read more",
+    "host_name": "crozdesk.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.homecaregroup.com",
+    "name": "Selecting the Optimal SaaS Solution for Homecare Agencies",
+    "snippet": "Platforms such as AlayaCare , AxisCare, and WellSky Personal Care, which maintain extensive public API documentation and adherence to modern interoperability ... Read more",
+    "host_name": "www.homecaregroup.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

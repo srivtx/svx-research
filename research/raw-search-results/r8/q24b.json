@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://kernel.googlesource.com",
+    "name": "pub/scm/linux/kernel/git/ralf/linux - Git at Google",
+    "snippet": "To +reflect the correct [*]_ traffic on the node the loopback of the sent + data has to be performed right after a successful transmission.",
+    "host_name": "kernel.googlesource.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://mail-archives.apache.org",
+    "name": "Merge remote-tracking branch 'whimsy/master' into secmail",
+    "snippet": "Dec 13, 2015 — +Whimsy is a set of independent tools and a common library. To do development and + testing , you will need access to a machine",
+    "host_name": "mail-archives.apache.org",
+    "rank": 1,
+    "date": "Dec 13, 2015",
+    "favicon": ""
+  },
+  {
+    "url": "https://lists.nongnu.org",
+    "name": "doc: Merge 'gnunet-texinfo' repository into",
+    "snippet": "Aug 17, 2017 — +If you want to run the testcases, you must create a second database +\"gnunetcheck\" with the same username and password. This database will ...",
+    "host_name": "lists.nongnu.org",
+    "rank": 2,
+    "date": "Aug 17, 2017",
+    "favicon": ""
+  },
+  {
+    "url": "https://lists.jboss.org",
+    "name": "in trunk/docs/common-resources/en/src/main: dictionaries and",
+    "snippet": "Dec 18, 2008 — ingly + data + database + database's +databases ・ + migration + migrations +migrative ・ in trunk/ test -applications/seleniumTest/richfaces/src:",
+    "host_name": "lists.jboss.org",
+    "rank": 3,
+    "date": "Dec 18, 2008",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scribd.com",
+    "name": "Zoberetimifid | PDF | Copyright",
+    "snippet": "The document provides a detailed guide on the Swift gloves in Old School RuneScape (OSRS), including their requirements, effects, and how to obtain them. Read more",
+    "host_name": "www.scribd.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mail-archive.com",
+    "name": "TIKA-1332 -- add English Spanish common tokens",
+    "snippet": "Feb 16, 2017 — TIKA-1332 -- add English Spanish common tokens; s +computer +elements +gained ・ africa +moving +fifth +edition ・ ing + data +attention +retired",
+    "host_name": "www.mail-archive.com",
+    "rank": 5,
+    "date": "Feb 16, 2017",
+    "favicon": ""
+  }
+]

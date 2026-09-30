@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://docs.port.io",
+    "name": "Track AI-driven pull requests",
+    "snippet": "Enable agents and developers to track and monitor AI -driven pull requests . Ensure AI - generated code meets your team's standards and review processes.",
+    "host_name": "docs.port.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.blog",
+    "name": "Code scanning shows AI security detections on pull requests",
+    "snippet": "Jul 14, 2026 — Alerts generated using AI will be labeled with AI so you can easily distinguish them from CodeQL results.",
+    "host_name": "github.blog",
+    "rank": 1,
+    "date": "Jul 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "AI security detections in pull requests for code scanning ·",
+    "snippet": "AI-generated alerts are clearly labeled with AI so they can be distinguished from CodeQL results. Simple to enable once policy allows it. After enterprise-level ... Read more",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.openrefine.org",
+    "name": "How do you deal with AI generated PRs?",
+    "snippet": "Sep 26, 2025 — I've experimented a little bit with using Github's Copilot for code reviews, Copilot suggest a change and then ask to have the change modified ...",
+    "host_name": "forum.openrefine.org",
+    "rank": 3,
+    "date": "Sep 26, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.itk.org",
+    "name": "AI generated pull requests overwhelming, hard to review",
+    "snippet": "Mar 9, 2026 — AI can produce an enormous amount of pull requests in no time, changing thousands of lines of code. GitHub Copilot's code review features are ...",
+    "host_name": "discourse.itk.org",
+    "rank": 4,
+    "date": "Mar 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://larridin.com",
+    "name": "What Percentage of Your Code Is AI-Generated?",
+    "snippet": "AI code share is measured using editor telemetry, tool APIs, and commit metadata. The primary data sources are the GitHub Copilot Metrics API, Cursor analytics, ... Read more",
+    "host_name": "larridin.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

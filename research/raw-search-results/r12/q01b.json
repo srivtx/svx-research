@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://hellomarvisaitoday.com",
+    "name": "Badge repository promotes human-written code over AI",
+    "snippet": "Jul 30, 2026 — The badge allows AI use only for specific purposes—like … code written with AI assistance shows 40% more bugs than human-written code.",
+    "host_name": "hellomarvisaitoday.com",
+    "rank": 0,
+    "date": "Jul 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://typo.gitbook.io",
+    "name": "AI Coding Impact | Typo Help Docs - GitBook",
+    "snippet": "Aug 19, 2026 — By default, we are using the Co- authored -by in commits to identify AI PRs. If any PR commit has a tool as a co- author , that PR is considered ... Read more",
+    "host_name": "typo.gitbook.io",
+    "rank": 1,
+    "date": "Aug 19, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.withgauge.com",
+    "name": "Gauge Resources: How to optimize for visibility in AI Search",
+    "snippet": "It tracks your visibility across ChatGPT, Gemini, Perplexity, and other AI search platforms, shows how you compare to competitors, and helps you create content ... Read more",
+    "host_name": "www.withgauge.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marc.info",
+    "name": "'Updated Wordpress plugin list' - MARC",
+    "snippet": "I've fetched an actual list of Wordpress plugins for 'http-wordpress-plugins' NSE script. +wp-print +php- code -widget",
+    "host_name": "marc.info",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

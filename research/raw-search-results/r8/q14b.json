@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com",
+    "name": "ianzepp/legacylens: RAG system for querying legacy",
+    "snippet": "Mar 4, 2026 — A RAG-powered system that makes legacy COBOL codebases … copybooks , BMS, JCL ) dependency mapping, pattern detection, impact analysis , etc.)",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "Mar 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pixelmatters.com",
+    "name": "Best application modernization software & tools in 2026",
+    "snippet": "1. Portfolio inventory and triage · 2. Deep dependency and architecture analysis · 3. Mass deterministic refactoring · 4. AI code transformation · 5. Replatforming ...",
+    "host_name": "www.pixelmatters.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://swimm.io",
+    "name": "Blackbox to blueprint: Illuminating COBOL systems",
+    "snippet": "Swimm's approach helps you navigate the codebase in a few ways . The one is to group together jobs, screens, copybooks and programs: Notice that Swimm doesn't ... Read more",
+    "host_name": "swimm.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://techarion.com",
+    "name": "Model Context Protocol (MCP): The Future of AI Code",
+    "snippet": "Deep dive into Model Context Protocol (MCP)—the revolutionary protocol enabling AI agents to truly understand massive codebases . Learn how MCP transforms Claude ...",
+    "host_name": "techarion.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.in-com.com",
+    "name": "Cross-Repository Symbol Search: What It Is and",
+    "snippet": "May 11, 2026 — SMART TS XL performs impact analysis from any symbol across the entire indexed system. A change to a shared function, a data field in a copybook ... Read more",
+    "host_name": "www.in-com.com",
+    "rank": 4,
+    "date": "May 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://adapts.ai",
+    "name": "Mainframe Modernization Use Case",
+    "snippet": "Impact analysis , Can a field or variable change be traced across dependencies ? Dependency traversal showing upstream/downstream programs, data stores ...",
+    "host_name": "adapts.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://socket.dev",
+    "name": "atx-mainframe-dependency-manager - PyPI Package Security Ana",
+    "snippet": "Advanced Analysis: Provides 18+ analysis tools for dependency tracking, impact assessment, and source code access. Features. Dependency Analysis: Analyze ...",
+    "host_name": "socket.dev",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

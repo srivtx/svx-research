@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.alphaxiv.org",
+    "name": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "snippet": "Jul 29, 2025 — This survey provides an in-depth overview of the emerging field of LLM agent evaluation, introducing a two-dimensional taxonomy that organizes ... Read more",
+    "host_name": "www.alphaxiv.org",
+    "rank": 0,
+    "date": "Jul 29, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "A Comparative Evaluation of LLMs and LLM-based Agents",
+    "snippet": "by J Han · 2025 · Cited by 1 — To bridge this gap, we conduct a comprehensive evaluation of the performance of LLMs and. LLM -based agents for security patch detection. Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ajeetraina.com",
+    "name": "Why SLMs Will Replace LLMs in Agent Architectures",
+    "snippet": "Jul 7, 2025 — Discover why small language models (SLMs) are becoming the future of agentic AI systems, offering superior efficiency, cost reduction, ... Read more",
+    "host_name": "www.ajeetraina.com",
+    "rank": 2,
+    "date": "Jul 7, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://uixstore.com",
+    "name": "Evaluating LLM-Based Agents at Scale – From Benchmarks to",
+    "snippet": "Traditional LLM benchmarks like MMLU or HumanEval fall short in capturing the operational behaviors of agents that perform complex tasks, call",
+    "host_name": "uixstore.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.themoonlight.io",
+    "name": "Benchmarking LLM Agents on Consequential Real World",
+    "snippet": "The benchmark allows the agents to communicate with simulated coworkers through messaging systems, enhancing the evaluation of their collaborative abilities.",
+    "host_name": "www.themoonlight.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://searcharxiv.com",
+    "name": "\"LLM Agent Performance\" Is Not a Single Evaluation Target",
+    "snippet": "Aug 6, 2026 — LLM agent benchmark scores are shaped not only by the model but also by the agent harness, environment, evaluator, and inference budget.",
+    "host_name": "searcharxiv.com",
+    "rank": 5,
+    "date": "Aug 6, 2026",
+    "favicon": ""
+  }
+]

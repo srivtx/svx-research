@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://blog.blazingcdn.com",
+    "name": "Cloudflare Pricing Changes 2026: Queues, Workers and Plan",
+    "snippet": "Sep 17, 2026 — What changed in Cloudflare pricing in 2026 : Queues and Workers billing, plan updates and the limits to watch before your bill grows.",
+    "host_name": "blog.blazingcdn.com",
+    "rank": 0,
+    "date": "Sep 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gartner.com",
+    "name": "Cloudflare vs Vercel 2026 | Gartner Peer Insights",
+    "snippet": "The main downside was the pricing model and technical limits require active governance. Vercel uses multiple usage based billing models and with scale costs ... Read more",
+    "host_name": "www.gartner.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Cloudflare vs Vercel vs Netlify: The Truth about Edge",
+    "snippet": "Jan 2, 2026 — The \" Cloudflare Workers vs Vercel \" debate, expanded to include Netlify, reveals a dynamic and rapidly evolving edge computing landscape in 2026 . Read more",
+    "host_name": "dev.to",
+    "rank": 2,
+    "date": "Jan 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://niobond.com",
+    "name": "Vercel Vs Netlify Vs Cloudflare 2026: We Switched 3 Times",
+    "snippet": "Vercel closed the gap meaningfully in 2026 through Fluid Compute, which keeps serverless functions warm and processes concurrent requests without the cold-start ... Read more",
+    "host_name": "niobond.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://llmgatewayhub.com",
+    "name": "Cloudflare AI Gateway pricing, models and country availability",
+    "snippet": "Aug 22, 2026 — Check Cloudflare AI Gateway gateway pricing, models, routing, country and region availability limits , and the official sources behind each ...",
+    "host_name": "llmgatewayhub.com",
+    "rank": 4,
+    "date": "Aug 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://jevaiguide.com",
+    "name": "Jev on Vercel AI Gateway: Setup, Pricing and Limits",
+    "snippet": "5 days ago — Pricing and Limits Last checked Sep 25, 2026 . Price $0.042 per million input tokens, 32,000 tokens Providers behind it TypeSafe AI ; ...",
+    "host_name": "jevaiguide.com",
+    "rank": 5,
+    "date": "Sep 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://jev-ai-guide.com",
+    "name": "Jev AI Vercel Integration: A Source-Grounded Guide",
+    "snippet": "Sep 20, 2026 — A Jev AI Vercel integration is therefore best approached by separating what Vercel confirms from the model contract documented by Cloudflare . Read more",
+    "host_name": "jev-ai-guide.com",
+    "rank": 6,
+    "date": "Sep 20, 2026",
+    "favicon": ""
+  }
+]

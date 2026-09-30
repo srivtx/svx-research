@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.cipherprojects.com",
+    "name": "LangSmith vs Arize Phoenix vs Braintrust (2026)",
+    "snippet": "Jul 17, 2026 — Compare LangSmith , Phoenix, and Braintrust for agent tracing, evaluations , CI gates, data control, and production assurance.",
+    "host_name": "www.cipherprojects.com",
+    "rank": 0,
+    "date": "Jul 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.confident-ai.com",
+    "name": "9 Best AI Evaluation Tools for CI/CD Pipelines in 2026",
+    "snippet": "Sep 21, 2026 — LangSmith platform showing trace inspection, feedback, and evaluation workflows for LLM applications. begins at $249 per. Braintrust report ...",
+    "host_name": "www.confident-ai.com",
+    "rank": 1,
+    "date": "Sep 21, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.lyzr.ai",
+    "name": "Best AI Agent Evaluation Tools in 2026",
+    "snippet": "Braintrust is the strongest all-rounder . building an evaluation set worth running. Same input, same output, assertion passes or fails. Run the identical test ...",
+    "host_name": "www.lyzr.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dupple.com",
+    "name": "Best AI Evaluation Tools in 2026: 8 LLM Eval Platforms I",
+    "snippet": "Jun 16, 2026 — The best AI evaluation tools in 2026, tested and ranked. Braintrust , Langfuse, Arize Phoenix, DeepEval, and more, with real pricing and ...",
+    "host_name": "dupple.com",
+    "rank": 3,
+    "date": "Jun 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kosmoy.com",
+    "name": "Best AI Observability Tools in 2026: 11 Compared",
+    "snippet": "Jul 16, 2026 — Brain trust is an evaluation-centric platform for building AI products — eval suites, production trace logging on the purpose-built Brainstore, ...",
+    "host_name": "www.kosmoy.com",
+    "rank": 4,
+    "date": "Jul 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.beri.net",
+    "name": "Braintrust vs Langfuse vs Promptfoo: Don't Pay for the Gate",
+    "snippet": "Aug 26, 2026 — Braintrust bills $1.50 per 1000 scores, Braintrust cost compared to Langfuse for the same eval workload? For a 400-case suite with three ...",
+    "host_name": "www.beri.net",
+    "rank": 5,
+    "date": "Aug 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.respan.ai",
+    "name": "Braintrust vs LangSmith (2026)",
+    "snippet": "Mar 9, 2026 — LangSmith is LangChain's observability and evaluation platform for LLM applications. It provides detailed tracing of every LLM call, chain ... Read more",
+    "host_name": "www.respan.ai",
+    "rank": 6,
+    "date": "Mar 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://gogloby.com",
+    "name": "10 Best LLM Observability Tools to Track AI Agents in 2026",
+    "snippet": "Aug 20, 2026 — This guide compares the 10 strongest LLM observability tools available right now, outlining their target users, core strengths, main limitations ... Read more",
+    "host_name": "gogloby.com",
+    "rank": 7,
+    "date": "Aug 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.openlayer.com",
+    "name": "10 best LLM observability tools to know in February 2026",
+    "snippet": "Feb 25, 2026 — Compare 10 best LLM observability tools in February 2026. Ranked across evaluation , security, governance, and production monitoring to help ...",
+    "host_name": "www.openlayer.com",
+    "rank": 8,
+    "date": "Feb 25, 2026",
+    "favicon": ""
+  }
+]

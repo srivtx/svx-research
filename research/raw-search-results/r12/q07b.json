@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://zapier.com",
+    "name": "Engineering Automations & AI Workflows",
+    "snippet": "Route issues from observability tools to the right on-call engineer, escalate by severity, and notify Slack or email instantly. keep everything in sync .",
+    "host_name": "zapier.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cotera.co",
+    "name": "Jira API Integration: Build vs. Buy for Engineering Teams",
+    "snippet": "Mar 8, 2026 — Should you build a custom Jira REST API integration or buy a solution? Real comparison of DIY scripts, middleware tools , and AI agents for ...",
+    "host_name": "cotera.co",
+    "rank": 1,
+    "date": "Mar 8, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://community.n8n.io",
+    "name": "Automation Systems Builder (n8n) – Europe (Remote) - Jobs",
+    "snippet": "Dec 13, 2025 — Send alerts only when something *actually* fails . I typically design workflows with clear modules and practical monitoring so alerts are ...",
+    "host_name": "community.n8n.io",
+    "rank": 2,
+    "date": "Dec 13, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.teamwork.com",
+    "name": "Enterprise Workflow Automation Software: 10 Best (2026)",
+    "snippet": "Apr 30, 2026 — Zapier is the integration -first automation platform with 7,000+ app connectors, the widest library on the market. It's the go-to for enterprises ... Read more",
+    "host_name": "www.teamwork.com",
+    "rank": 3,
+    "date": "Apr 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://instantly.ai",
+    "name": "Best AI Sales Agent for CRM Data Integration 2026",
+    "snippet": "Jun 10, 2026 — Field mapping error : A data type mismatch causes silent failures. Run a field audit after any CRM schema change and update your sync mappings ... Read more",
+    "host_name": "instantly.ai",
+    "rank": 4,
+    "date": "Jun 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com",
+    "name": "Batch Workflow Automation Tools",
+    "snippet": "Look for features like task scheduling, error notifications , and visual monitoring to ensure your automated workflows run smoothly and can be easily managed.",
+    "host_name": "www.linkedin.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.simular.ai",
+    "name": "Top 8 Best process automation software for agencies, tested",
+    "snippet": "Zapier is the tool that quietly saved a million small teams from drowning in copy/paste. It's the fastest way to connect SaaS apps when your process is mostly ...",
+    "host_name": "www.simular.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://prosupport.gofundme.com",
+    "name": "Release notes 2023",
+    "snippet": "Jun 26, 2025 — Zapier : Integrating with Zapier enables organizations to connect Classy with 3rd party solutions, unblocking connection to apps and tools ... Read more",
+    "host_name": "prosupport.gofundme.com",
+    "rank": 7,
+    "date": "Jun 26, 2025",
+    "favicon": ""
+  }
+]

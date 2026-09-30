@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.remio.ai",
+    "name": "OpenRouter Audio Transcription API Challenges the Single-",
+    "snippet": "OpenRouter audio transcription API adds Whisper and token-priced STT models , unified billing, usage data, and routing behind one compatible endpoint.",
+    "host_name": "www.remio.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.theagilemonkeys.com",
+    "name": "The Five Layers of AI Vendor Lock-In",
+    "snippet": "- Prompt portability (Layer 2): The same prompt produces different results on different models . - Fine-tune portability (Layer 3): Custom models don't transfer. Read more",
+    "host_name": "www.theagilemonkeys.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "An Empirical Analysis of Cross-OS Portability Issues in",
+    "snippet": "6 days ago — Portability issues in software projects often arise from dependencies on platform-specific APIs, system libraries, and environment assumptions. Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Sep 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://lobehub.com",
+    "name": "openrouter-upgrade-migration | Skill",
+    "snippet": "This skill covers migrating from direct APIs, switching between models , upgrading SDK versions, and running comparison tests. Migration from Direct OpenAI.",
+    "host_name": "lobehub.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.zenml.io",
+    "name": "Multi-Model Routing and Orchestration in Production AI Systems",
+    "snippet": "Prompt portability between models is limited because different models and architectures respond differently to the same prompts. This ...",
+    "host_name": "www.zenml.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pickaxe.co",
+    "name": "Multi-Model AI Agents: Mix OpenAI, Claude & Gemini",
+    "snippet": "How to build multi- model AI agents that mix OpenAI, Anthropic, and Google. What each model is best at, how routing works, and how to ship one without five ...",
+    "host_name": "pickaxe.co",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://faun.dev",
+    "name": "OpenRouter Review: Score, Pros and Cons",
+    "snippet": "OpenRouter scores highest on integrations and routing & fallbacks. It scores lowest on portability .",
+    "host_name": "faun.dev",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

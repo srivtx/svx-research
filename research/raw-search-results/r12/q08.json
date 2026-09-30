@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://hooksniff.vercel.app",
+    "name": "HookSniff vs Svix vs Hookdeck vs Hook0: 2026 Webhook",
+    "snippet": "May 10, 2026 — Svix vs Hookdeck **Dead letter queue** monitoring , and incident response. Svix or Hook0 are your options. See every delivery, payload, and ...",
+    "host_name": "hooksniff.vercel.app",
+    "rank": 0,
+    "date": "May 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.webhookvault.com",
+    "name": "Transforming Webhook Payloads at the Gateway",
+    "snippet": "Sep 8, 2026 — Svix , Hookdeck , and most webhook gateways now let you transform the payload before it reaches your handler. your retry queue , and your dead - ...",
+    "host_name": "www.webhookvault.com",
+    "rank": 1,
+    "date": "Sep 8, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://skills.rest",
+    "name": "webhook-designer",
+    "snippet": "Handle failed webhook deliveries by routing them to a dead-letter queue (DLQ) using safe retry logic. This error isolation approach captures unprocessable ... Read more",
+    "host_name": "skills.rest",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cadence.withremote.ai",
+    "name": "Cost to build a public API for your SaaS | Cadence blog",
+    "snippet": "May 14, 2026 — The minimum bar in 2026 is HMAC-SHA256 request signing, an exponential- retry queue with a dead - letter bucket, idempotency for replays, and a ... Read more",
+    "host_name": "cadence.withremote.ai",
+    "rank": 3,
+    "date": "May 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.fibric.io",
+    "name": "Streams, queues & webhooks — connections on Fibric",
+    "snippet": "dead-letter queue redrive , Inbound requests, events, delivery attempts, and issues from Hookdeck, with retries and connection pauses through its REST API.",
+    "host_name": "www.fibric.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sourceforge.net",
+    "name": "Convoy vs. Hooksbase Comparison",
+    "snippet": "Delivery includes retries with exponential backoff, strict FIFO ordering, a dead - letter queue , and deterministic replay from persisted dispatch snapshots,",
+    "host_name": "sourceforge.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.hooksbase.com",
+    "name": "Svix alternatives for webhook delivery — Hooksbase",
+    "snippet": "A hosted event gateway for inbound webhooks . Point a provider at a Hookdeck source and it queues , retries , filters, transforms, and forwards each event to your ... Read more",
+    "host_name": "www.hooksbase.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.itechguides.com",
+    "name": "Webhook Relay vs webhook.co (2026): Which Is Better?",
+    "snippet": "Sep 17, 2026 — Webhook Relay — where it wins · 30-day durable retries , manual retry , bulk recovery, and event replay · Routes to public, private, cloud, and ... Read more",
+    "host_name": "www.itechguides.com",
+    "rank": 7,
+    "date": "Sep 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.trackawesomelist.com",
+    "name": "Track Free for Dev Updates Daily",
+    "snippet": "Signature verification, retries, dead letter queue and replay. Free plan ... Hookdeck - Develop, test, and monitor your webhooks from anywhere. 100K ... Read more",
+    "host_name": "www.trackawesomelist.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

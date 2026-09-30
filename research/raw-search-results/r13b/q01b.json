@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://lists.apache.org",
+    "name": "[1/4] incubator-joshua git commit: ClassLMs: fixed a bug with",
+    "snippet": "The existing regression test output was changed to the new output . Reads a class map from file. Computes the features incurred along this edge. Note that these ...",
+    "host_name": "lists.apache.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lists.jboss.org",
+    "name": "in trunk/docs/common-resources/en/src/main: dictionaries and",
+    "snippet": "Dec 18, 2008 — [richfaces-svn-commits] JBoss Rich Faces SVN: r11872 - in trunk/docs/common-resources/en/src/main: dictionaries and 1 other directory. Read more",
+    "host_name": "lists.jboss.org",
+    "rank": 1,
+    "date": "Dec 18, 2008",
+    "favicon": ""
+  }
+]

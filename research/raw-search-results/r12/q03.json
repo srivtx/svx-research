@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.kusari.dev",
+    "name": "One lock is not a security program",
+    "snippet": "Sep 10, 2026 — SLSA build provenance is a signed statement, produced by the build service, that says: this artifact was produced by this build service, from ...",
+    "host_name": "www.kusari.dev",
+    "rank": 0,
+    "date": "Sep 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hellodk.io",
+    "name": "Git Branching Strategy for AI-Assisted Development",
+    "snippet": "Aug 2, 2026 — AI - generated code needs a supervised gate before production. AI - generated code , and bug fixes flow up … a deployment gateway that verifies SLSA ...",
+    "host_name": "hellodk.io",
+    "rank": 1,
+    "date": "Aug 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hackernoon.com",
+    "name": "Your Software Supply Chain Only Proves Where Code",
+    "snippet": "Jun 28, 2026 — The author has used AI either for research, to generate outlines, or write the text itself. SLSA provenance and a working Sigstore attestation ...",
+    "host_name": "hackernoon.com",
+    "rank": 2,
+    "date": "Jun 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://labs.boostsecurity.io",
+    "name": "Trusted Publishing, Untrusted Branch: Inside the Red Hat",
+    "snippet": "Trusted publishing automatically generates a SLSA provenance attestation , signed through Sigstore. It faithfully records where the build ran: the repository, ...",
+    "host_name": "labs.boostsecurity.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.endorlabs.com",
+    "name": "How a Misconfigured CI Workflow Became an npm Supply-",
+    "snippet": "May 14, 2026 — SLSA provenance . Correctly generated. It attested to the workflow file, the ref, and the commit — all legitimate values. Provenance does not ... Read more",
+    "host_name": "www.endorlabs.com",
+    "rank": 4,
+    "date": "May 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://discuss.huggingface.co",
+    "name": "An open, model-agnostic \"interaction card\": verifiable",
+    "snippet": "Aug 12, 2026 — SLSA puts considerable emphasis on whether provenance fields were produced or verified inside a trusted control plane",
+    "host_name": "discuss.huggingface.co",
+    "rank": 5,
+    "date": "Aug 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "aicr/CONTRIBUTING.md at main · NVIDIA/aicr",
+    "snippet": "Releases include SLSA Build Level 3 provenance for container images (via the reusable attestation workflow, Users can verify exactly which commit , workflow, ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://snyk.io",
+    "name": "TanStack npm Packages Hit by Mini Shai-Hulud",
+    "snippet": "May 11, 2026 — SLSA provenance attests that a package was built by a specific repository's GitHub Actions run. It does not attest that the workflow was ... Read more",
+    "host_name": "snyk.io",
+    "rank": 7,
+    "date": "May 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://crashoverride.com",
+    "name": "Software Supply Chain Attacks in the Age of Autonomous",
+    "snippet": "SLSA Provenance Attestations During Incident Triage: A Practical Guide. How to use cryptographic provenance attestations to trace artifacts to source commits ... Read more",
+    "host_name": "crashoverride.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

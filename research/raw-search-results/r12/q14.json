@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://community.n8n.io",
+    "name": "How do you monitor n8n workflows in production and",
+    "snippet": "Jun 23, 2026 — Hi everyone, I've been using n8n in a production setup recently and I've been wondering how others handle this in real environments.",
+    "host_name": "community.n8n.io",
+    "rank": 0,
+    "date": "Jun 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.notilens.com",
+    "name": "How to Detect n8n, Make, and Zapier Workflow Failures",
+    "snippet": "Apr 30, 2026 — This guide covers how automation workflows fail, what to monitor , and execution history. n8n supports a global error workflow that fires when ...",
+    "host_name": "www.notilens.com",
+    "rank": 1,
+    "date": "Apr 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://vps.us",
+    "name": "Monitor n8n Like a Pro – Healthchecks, Queues & Error",
+    "snippet": "Mar 2, 2026 — Build reliable workflow monitoring: healthchecks, queue metrics, error triggers and dashboards to catch silent failures and scale execution.",
+    "host_name": "vps.us",
+    "rank": 2,
+    "date": "Mar 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://n8n.io",
+    "name": "Monitor n8n workflow health daily with Watchflow",
+    "snippet": "This professional-grade template transforms your n8n workspace into a self- monitoring powerhouse. By leveraging the Watchflow node, it automatically audits all ... Read more",
+    "host_name": "n8n.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

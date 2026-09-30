@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.linkedin.com",
+    "name": "Langflow, LiteLLM Vulnerabilities Exposed, Patch Now",
+    "snippet": "7th in series.. A fix for CVE-2026-5027 has existed since April 15. Attackers are still walking into Langflow servers today. That gap - patch available, ...",
+    "host_name": "www.linkedin.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://think-ahead.tech",
+    "name": "Software Supply Chain Security: A Risk-Based CI/CD",
+    "snippet": "Apr 3, 2026 — Using CI/CD credentials harvested during the Trivy phase, TeamPCP published malicious versions of BerryAI's LiteLLM AI proxy library to PyPI ( ... Read more",
+    "host_name": "think-ahead.tech",
+    "rank": 1,
+    "date": "Apr 3, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "The Workload–Router–Pool Architecture for LLM Inference",
+    "snippet": "Work Cross-dimensional interactions are easy to miss when each dimension is studied separately, but they dominate real - world performance.",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.getmaxim.ai",
+    "name": "Top 5 AI Gateways in 2026",
+    "snippet": "Jan 5, 2026 — This comprehensive guide evaluates the top 5 AI gateways for 2026 1) Bifrost 2) Cloudflare 3) Kong 4) Helicone 5) LiteLLM .",
+    "host_name": "www.getmaxim.ai",
+    "rank": 3,
+    "date": "Jan 5, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net",
+    "name": "Toward Trustworthy LLM Router Ecosystems",
+    "snippet": "The middleware attaches four hooks to the LiteLLM proxy lifecycle. A pre-call hook detects high-value structured fields (regex-based, user-extensible) ...",
+    "host_name": "openreview.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.truefoundry.com",
+    "name": "TrueFoundry Blog",
+    "snippet": "Explore the TrueFoundry blog for the latest insights, tutorials, and expert articles on Machine Learning, LLM infrastructure, and AI operations.",
+    "host_name": "www.truefoundry.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sisa.ai",
+    "name": "Your Vendors Are Your Attack Surface: Why Third-Party Risk",
+    "snippet": "What We See in Real - World Third-Party Risk Assessments ... Similar tactics have reached the AI stack, where a compromised AI proxy library turned the LiteLLM ...",
+    "host_name": "sisa.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

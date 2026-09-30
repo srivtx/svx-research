@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.practicallogix.com",
+    "name": "Legacy Modernization at AI Speed",
+    "snippet": "Jul 10, 2026 — Quadrant for AI Code Assistants positioned GitHub Copilot as leader for the second consecutive year. The ecosystem now splits cleanly into ...",
+    "host_name": "www.practicallogix.com",
+    "rank": 0,
+    "date": "Jul 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.softspell.ai",
+    "name": "The Best AI Coding Assistants: A Full Comparison of 10 Tools",
+    "snippet": "Mar 31, 2026 — GitHub Copilot . GitHub Copilot AI coding assistant helping developers accelerate workflows. GitHub Copilot lives where your team already works.",
+    "host_name": "www.softspell.ai",
+    "rank": 1,
+    "date": "Mar 31, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "AI-driven Software Development:A Pragmatic Path to",
+    "snippet": "Jun 13, 2026 — Tools such as Claude Code , Amazon Q Developer, Cursor, GitHub Copilot , and cloud-based coding agents connect language models with repository ...",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Jun 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com",
+    "name": "GitHub Copilot transforms legacy modernization with COBOL",
+    "snippet": "🛠️ We leveraged the AI assistant to: 1. ... Accelerate IBM Z Development with AI Built for Mainframe Teams bob. ... mainframe COBOL ...",
+    "host_name": "www.linkedin.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://solguruz.com",
+    "name": "Legacy Application Modernization Using Claude (2026 Guide)",
+    "snippet": "Legacy Application Modernization with Claude: Anthropic AI and Claude Code speed discovery, translate COBOL , and enable 40–60% faster migrations in 2026.",
+    "host_name": "solguruz.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Path-Guider: An IDE-based Agent",
+    "snippet": "Figure 1 presents the architecture of Path-Guider , a chat-based agentic system for COBOL program understanding, debugging, and impact analysis, integrated into ...",
+    "host_name": "dl.acm.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

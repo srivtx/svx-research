@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://community.ibm.com",
+    "name": "Accelerating Legacy Code Modernization with IBM",
+    "snippet": "Jan 9, 2026 — IBM watsonx Code Assistant helps teams modernize legacy systems by combining natural-language understanding with deep code analysis capabilities ... Read more",
+    "host_name": "community.ibm.com",
+    "rank": 0,
+    "date": "Jan 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ciodive.com",
+    "name": "IBM trains its LLM to read, rewrite COBOL apps",
+    "snippet": "Aug 22, 2023 — The new watsonx Code Assistant for Z eases mainframe modernization , using generative AI to analyze, refactor, transform and validate legacy ...",
+    "host_name": "www.ciodive.com",
+    "rank": 1,
+    "date": "Aug 22, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://venturebeat.com",
+    "name": "IBM taps watsonx generative AI to help modernize COBOL",
+    "snippet": "Aug 21, 2023 — The watsonx code assistant can be used to analyze, refactor, transform and validate COBOL applications using gen AI.",
+    "host_name": "venturebeat.com",
+    "rank": 2,
+    "date": "Aug 21, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "Watsonx: IBM's code assistant for turning COBOL into Java",
+    "snippet": "Dec 3, 2023 — the actual point is the proposal of using LLMs to translate large amounts of legacy COBOL systems to more modern languages like Java.",
+    "host_name": "news.ycombinator.com",
+    "rank": 3,
+    "date": "Dec 3, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.fierce-network.com",
+    "name": "Ancient programming language gets new life in the cloud",
+    "snippet": "Aug 22, 2023 — IBM is presenting the watsonx Code Assistant for Z as an alternative to other tools that convert COBOL to Java while preserving native COBOL ... Read more",
+    "host_name": "www.fierce-network.com",
+    "rank": 4,
+    "date": "Aug 22, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.itpro.com",
+    "name": "IBM watsonx code assistant for Z brings generative AI to",
+    "snippet": "Jul 1, 2024 — IBM watsonx code assistant for Z brings generative AI to mainframe application modernization · Speeding up code development and increasing ... Read more",
+    "host_name": "www.itpro.com",
+    "rank": 5,
+    "date": "Jul 1, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ibm.com",
+    "name": "Modernization and Code Generation",
+    "snippet": "Nov 30, 2023 — By refactoring and optimizing existing COBOL code , GenAI can improve the performance and maintainability of these systems. It can also assist ...",
+    "host_name": "www.ibm.com",
+    "rank": 6,
+    "date": "Nov 30, 2023",
+    "favicon": ""
+  }
+]

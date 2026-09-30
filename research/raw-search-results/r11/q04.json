@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://benchmarklist.com",
+    "name": "GPT-5.4 Benchmark Scores & Evals",
+    "snippet": "On this benchmark, nine production coding agents from Anthropic , OpenAI , 53-86% end-to-end ASR - output rates fall to 0-20.4%:",
+    "host_name": "benchmarklist.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Diagram-MMU: A Multi-Modal Benchmark for Scientific",
+    "snippet": "Aug 12, 2026 — This structured pattern correlates with its consistent gains under tool use. Gemini -3.1 Pro shows the highest average calls among tool -invoking ...",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "Aug 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) Inside the Scaffold: A Source-Code Taxonomy of",
+    "snippet": "Apr 14, 2026 — This uses the tool - calling API as a structured output extraction technique rather than for actual execution. Gemini CLI and Cline combine whole ...",
+    "host_name": "www.researchgate.net",
+    "rank": 2,
+    "date": "Apr 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com",
+    "name": "𝐌𝐨𝐬𝐭 𝐩𝐞𝐨𝐩𝐥𝐞 𝐭𝐡𝐢𝐧𝐤 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐢𝐬 𝐣𝐮𝐬𝐭",
+    "snippet": "3. + Tool Calling → Connects to APIs and databases → Uses enterprise software → Executes real-world actions AI moves beyond conversation into execution ...",
+    "host_name": "www.facebook.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lists.nongnu.org",
+    "name": "[elpa] externals/llm 1e92cfb037: Change function calling",
+    "snippet": "... structured output (if the LLM does decide to use the tool ). *Not every LLM can handle tool use, and those that do not will ignore the tools entirely*. The ...",
+    "host_name": "lists.nongnu.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

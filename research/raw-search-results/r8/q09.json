@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://softwareengineering.stackexchange.com",
+    "name": "How do I write unit tests for legacy code (that I don't",
+    "snippet": "Jun 19, 2019 — Forward I've read a lot of things before asking this question, including many relevant questions right here on SE:  (Software Engineering SE) Writing tests ...",
+    "host_name": "softwareengineering.stackexchange.com",
+    "rank": 0,
+    "date": "Jun 19, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Agentic Method for Deterministic Validation of Legacy",
+    "snippet": "by A Ferenczi · 2026 — In this paper we propose a novel agentic test -synthesis method, the \"Locksmith Loop,\" which is initiated by preparing two runtime environments: ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.richard-seidl.com",
+    "name": "Migration Testing: The Legacy System Is the Test Oracle",
+    "snippet": "Aug 31, 2010 — Migration testing uses the legacy system as the test oracle. Seven steps, from code measurement to coverage, prove both systems behave the ...",
+    "host_name": "www.richard-seidl.com",
+    "rank": 2,
+    "date": "Aug 31, 2010",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.testerhq.com",
+    "name": "Why COBOL Developers Prefer Writing Tests in Java",
+    "snippet": "Jun 4, 2026 — Legacy COBOL systems face testing hurdles due to absent standard tools and complex customizations, prompting reliance on Java-based APIs for ...",
+    "host_name": "www.testerhq.com",
+    "rank": 3,
+    "date": "Jun 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://ibagroupit.com",
+    "name": "Application Reverse Engineering for Mainframe",
+    "snippet": "Jul 29, 2026 — Learn how IBA Group uses AI-driven application reverse engineering to recover lost COBOL codebases, restore application knowledge, ...",
+    "host_name": "ibagroupit.com",
+    "rank": 4,
+    "date": "Jul 29, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "LLM-Assisted Retro-Documentation for Legacy COBOL",
+    "snippet": "May 13, 2026 — Financial institutions continue to rely on decades-old mainframe systems written in COBOL to support critical operations. Read more",
+    "host_name": "dl.acm.org",
+    "rank": 5,
+    "date": "May 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://corsactech.com",
+    "name": "Harness Engineering for Legacy Code: AI-Driven Modernization",
+    "snippet": "The harness orchestrates automated unit and integration tests , static analysis, security checks, regression tests , and comparison tests to verify the legacy ...",
+    "host_name": "corsactech.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

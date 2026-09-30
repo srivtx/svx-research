@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.digitalapplied.com",
+    "name": "AI Function Calling Guide: OpenAI, Anthropic, Google",
+    "snippet": "Apr 1, 2026 — All three providers support function calling but with distinct API formats : OpenAI uses a tools array with type ' function ', Anthropic uses ... Read more",
+    "host_name": "www.digitalapplied.com",
+    "rank": 0,
+    "date": "Apr 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.prefect.io",
+    "name": "MCP vs Function Calling: When to Use Which",
+    "snippet": "Apr 14, 2026 — An MCP server works with any MCP client regardless of which LLM powers it. Your tools aren't locked to OpenAI's format or Anthropic's format . Read more",
+    "host_name": "www.prefect.io",
+    "rank": 1,
+    "date": "Apr 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://pub.towardsai.net",
+    "name": "4 Production Bugs Taught Me Agent ≠ Function Calling",
+    "snippet": "Aug 25, 2026 — I migrated a LangChain Agent to Function Calling and hit 4 bugs: wrong tool calls, repeat calls, and missing safety checks .",
+    "host_name": "pub.towardsai.net",
+    "rank": 2,
+    "date": "Aug 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.stackademic.com",
+    "name": "OpenAI Function Calling — Full Guide",
+    "snippet": "May 7, 2026 — OpenAI calls it “ function calling ” while Anthropic calls it “tool use,” but the implementation is nearly identical. Both use JSON schemas to ... Read more",
+    "host_name": "blog.stackademic.com",
+    "rank": 3,
+    "date": "May 7, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.descope.com",
+    "name": "MCP vs. Function Calling: How They Differ and Which to Use",
+    "snippet": "Nov 3, 2025 — Compare MCP vs function calling for AI agents. Learn which approach offers better security, scalability, and portability for connecting LLMs ...",
+    "host_name": "www.descope.com",
+    "rank": 4,
+    "date": "Nov 3, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://nango.dev",
+    "name": "MCP vs tool calls for AI agents: which is better?",
+    "snippet": "Jul 14, 2026 — MCP vs tool calls (function calling) for AI agents: how they differ and which one to use for API integrations in production.",
+    "host_name": "nango.dev",
+    "rank": 5,
+    "date": "Jul 14, 2026",
+    "favicon": ""
+  }
+]

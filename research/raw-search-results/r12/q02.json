@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://openai.com",
+    "name": "Supporting Europe's work in ensuring a trustworthy AI",
+    "snippet": "Sep 7, 2026 — C2PA metadata is an important foundation for provenance . It helps content carry information about where it came from, how it was created or ...",
+    "host_name": "openai.com",
+    "rank": 0,
+    "date": "Sep 7, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://newsreel.co",
+    "name": "How to Spot AI-Generated Content and Images (2026)",
+    "snippet": "Content Credentials are a cryptographic label built on the C2PA standard , backed by Adobe, Microsoft, Google, OpenAI, and camera makers.",
+    "host_name": "newsreel.co",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://datanorth.ai",
+    "name": "AI Watermarks: Text, images, and the push for provenance",
+    "snippet": "What are Content Credentials, and how do I add them? Content Credentials are the C2PA standard's signed metadata : a record of who made a file and what was ...",
+    "host_name": "datanorth.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://finance.yahoo.com",
+    "name": "SSL Begins Issuing Production-Ready C2PA-Conformant",
+    "snippet": "Feb 18, 2026",
+    "host_name": "finance.yahoo.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pragma-code.de",
+    "name": "SynthID & Co: AI Watermarking & Content Provenance 2026",
+    "snippet": "Jun 14, 2026 — C2PA (Content Credentials ) An open technical standard (ISO/IEC 22144) by the Coalition for Content Provenance and Authenticity.",
+    "host_name": "www.pragma-code.de",
+    "rank": 4,
+    "date": "Jun 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://adaptlypost.com",
+    "name": "What Are Content Credentials? - C2PA Explained",
+    "snippet": "Sep 15, 2026 — A Content Credential is a C2PA Manifest: a set of assertions about how an asset was made, referenced by a single claim, and sealed with a claim ... Read more",
+    "host_name": "adaptlypost.com",
+    "rank": 5,
+    "date": "Sep 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://unfocussed.com",
+    "name": "Content Credentials for Creators: How to Prove What You",
+    "snippet": "May 4, 2026 — Content Credentials add a signed provenance layer . They can show information about creation, editing, AI involvement, and identity in a way that ... Read more",
+    "host_name": "unfocussed.com",
+    "rank": 6,
+    "date": "May 4, 2026",
+    "favicon": ""
+  }
+]

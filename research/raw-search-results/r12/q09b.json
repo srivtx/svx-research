@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.rfp.wiki",
+    "name": "Detectify vs Bright Security (2026): We tried both - see who wins",
+    "snippet": "+ Docs cite a 99.7% true positive rate for web app testing . +Reviewers praise accurate continuous scanning and useful prioritization.",
+    "host_name": "www.rfp.wiki",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.threads.com",
+    "name": "Oh My OpenCode",
+    "snippet": "Multiple coding agents, one codebase. Each one has its own session, its own context. Nothing ties them together. Found an open source orchestration layer for ...",
+    "host_name": "www.threads.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "llmrust",
+    "snippet": "Sep 12, 2026 — llmrust is a human-and-agent-built Rust LLM library, designed to be read, extended, and repaired by AI coding agents. tests around wire ...",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "Sep 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://lobehub.com",
+    "name": "tasqx | MCP Servers",
+    "snippet": "tasqx는 JSON API와 MCP 서버 인터페이스를 갖춘 터미널 기반 작업 관리자입니다. 오프라인 작업 관리를 위해 로컬 SQLite 파일을 사용하며, Linux, macOS, ...",
+    "host_name": "lobehub.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net",
+    "name": "Augmented PII Detection in Small Language Models",
+    "snippet": "... sample text with no external augmentation. 2. Documentation (+ Docs ): The model additionally receives the PII-Codex reference documentation in context ...",
+    "host_name": "openreview.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://android.googlesource.com",
+    "name": "platform/external/libusb - Git at Google",
+    "snippet": "captures the structure of the code including all documentation . the code including all documentation. related to the Perl module output",
+    "host_name": "android.googlesource.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ghostarchitect.dev",
+    "name": "Changelog · Ghost Architect™",
+    "snippet": "2026 PATCH Docs match the config. ed several in- code documentation comments to match current behavior + docs : Findings about example or test code stay at MEDIUM ...",
+    "host_name": "ghostarchitect.dev",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

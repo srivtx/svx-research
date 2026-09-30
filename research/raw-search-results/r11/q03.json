@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://news.ycombinator.com",
+    "name": "GPT-5 for Developers",
+    "snippet": "Aug 7, 2025 — I find that OpenAI's reasoning models write better code and are better at raw problem solving, but Claude code is a much more useful product, ... Read more",
+    "host_name": "news.ycombinator.com",
+    "rank": 0,
+    "date": "Aug 7, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://tinkeringwithideas.io",
+    "name": "Why I Switched from ChatGPT to Claude and Gemini",
+    "snippet": "Jan 14, 2026 — ChatGPT is no longer the leading model . Here's how I've incorporated Claude and Gemini into my business.",
+    "host_name": "tinkeringwithideas.io",
+    "rank": 1,
+    "date": "Jan 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://techenclave.com",
+    "name": "GPT-5 is finally here but honestly meh?",
+    "snippet": "Aug 10, 2025 — For coding specifically, I still think Anthropic's Claude (both Opus and the newer Sonnet 4 ) absolutely destroys GPT -5. The difference is ... Read more",
+    "host_name": "techenclave.com",
+    "rank": 2,
+    "date": "Aug 10, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://ai.plainenglish.io",
+    "name": "I Switched From Chat-GPT to Claude for 60 Days",
+    "snippet": "Jun 11, 2026 — Claude pointed out logical gaps, repetition, and unnecessary sections I 'd stopped noticing. Claude's output was",
+    "host_name": "ai.plainenglish.io",
+    "rank": 3,
+    "date": "Jun 11, 2026",
+    "favicon": ""
+  }
+]

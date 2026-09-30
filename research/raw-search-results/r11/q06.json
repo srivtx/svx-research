@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.icertglobal.com",
+    "name": "Does Prompt Engineering vary between different AI models?",
+    "snippet": "Mar 2, 2025 — I've noticed that a prompt that works perfectly in ChatGPT fails miserably in Claude or Gemini. Why is there such a discrepancy? Read more",
+    "host_name": "www.icertglobal.com",
+    "rank": 0,
+    "date": "Mar 2, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://keepprompt.net",
+    "name": "Moving Prompts Between ChatGPT, Claude, and Gemini",
+    "snippet": "Sep 3, 2026 — The good news: prompts are portable . A prompt is just text and instructions. The core of a good prompt — a clear task, the right context, a ... Read more",
+    "host_name": "keepprompt.net",
+    "rank": 1,
+    "date": "Sep 3, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.makeuseof.com",
+    "name": "This site lets you compare frontier AI models with your own",
+    "snippet": "Aug 12, 2026 — Give two models the same prompt and see which response you prefer · comparing claude and gemini ai models in arena.ai · Selecting a better ai ... Read more",
+    "host_name": "www.makeuseof.com",
+    "rank": 2,
+    "date": "Aug 12, 2026",
+    "favicon": ""
+  }
+]

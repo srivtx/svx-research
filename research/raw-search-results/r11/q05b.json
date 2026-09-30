@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://community.openai.com",
+    "name": "difference in parallel tool call behaviour observed - API",
+    "snippet": "Dec 18, 2025 — The same request sent to Responses API consistently does NOT parallel tool call. This behaviour is consistent across both Azure OpenAI and ... Read more",
+    "host_name": "community.openai.com",
+    "rank": 0,
+    "date": "Dec 18, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.seangoedecke.com",
+    "name": "The whole point of OpenAI's Responses API is to help them",
+    "snippet": "Sep 9, 2025 — Despite OpenAI's claims, there is nothing inherent about a stateful inference API that's better than a normal / chat / completions stateless one. Read more",
+    "host_name": "www.seangoedecke.com",
+    "rank": 1,
+    "date": "Sep 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.lesswrong.com",
+    "name": "OpenAI Responses API changes models' behavior",
+    "snippet": "Apr 11, 2025 — Most models are available through both the new API and the older Chat Completions API . We expected the models to behave the same across both ... Read more",
+    "host_name": "www.lesswrong.com",
+    "rank": 2,
+    "date": "Apr 11, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Chat Completions vs OpenAI Responses API",
+    "snippet": "Mar 18, 2026 — Chat Completions functions are non-strict by default Responses API functions are strict by default This means the model is more likely to ...",
+    "host_name": "dev.to",
+    "rank": 3,
+    "date": "Mar 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Deprecating chat/completions support in Codex #7782",
+    "snippet": "Sep 20, 2026 — While Codex has historically supported both APIs , the chat / completions API has increasingly hampered our ability to improve Codex and deliver ... Read more",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "Sep 20, 2026",
+    "favicon": ""
+  }
+]

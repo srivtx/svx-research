@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.researchgate.net",
+    "name": "RouteLLM: Learning to Route LLMs with Preference Data",
+    "snippet": "RouteLLM [23] learns to route queries between weaker and stronger LLMs based on expected response quality and cost .",
+    "host_name": "www.researchgate.net",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com",
+    "name": "How to Optimize Inference for Cost Savings",
+    "snippet": "The RouteLLM paper propose a router training framework based on human preference data and augmentation techniques, demonstrating over 2x cost saving on widely ...",
+    "host_name": "www.linkedin.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Robust Batch-Level Query Routing for Large Language",
+    "snippet": "Mar 25, 2026 — Abstract. We study the problem of routing queries to large language models (LLMs) under cost , GPU resources, and concurrency constraints. Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Mar 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://o-mega.ai",
+    "name": "AI Model Routing in 2026: Cut Agent Costs 60% | Articles | o-mega",
+    "snippet": "Route each AI request to the cheapest capable model , stack caching and trimming, and slash agent costs by over 60% in 2026.",
+    "host_name": "o-mega.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://papers.ssrn.com",
+    "name": "Model Routing for Large Language Models: A Unified",
+    "snippet": "More general formulations treat routing as an optimization problem over cost -performance trade-offs, including preference-based learning in RouteLLM",
+    "host_name": "papers.ssrn.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net",
+    "name": "Dynamic Model Routing and Cascading for Efficient LLM",
+    "snippet": "It formulates routing as a binary decision be- tween strong (high- quality , high- cost ) and weak (lower- quality , low- cost ) LLMs, and employs a win prediction. Read more",
+    "host_name": "openreview.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ashitaorbis.com",
+    "name": "Model Routing: When and How to Send Different Queries to",
+    "snippet": "In its simplest form, a router chooses between a cheaper “small” model and a more capable “large” model . In production systems, the router may choose among ...",
+    "host_name": "ashitaorbis.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://frenchydigital.com",
+    "name": "AI Agent Latency Engineering in 2026 Guide",
+    "snippet": "... cost engineering time but not quality . Model routing and cascades trade some quality risk for speed and cost , which is a real trade-off , not a free lever.",
+    "host_name": "frenchydigital.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

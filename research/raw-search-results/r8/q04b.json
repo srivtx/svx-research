@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://docs.aws.amazon.com",
+    "name": "Transforming application development and maintenance",
+    "snippet": "Cognizant uses Amazon Q Developer to automate complex migration processes, increasing speed and simplicity in transformation projects.",
+    "host_name": "docs.aws.amazon.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aws.amazon.com",
+    "name": "Mainframe & Legacy | AWS Public Sector Blog",
+    "snippet": "May 7, 2025 — This blog post provides an overview of Karsun's approach, which enables enterprises to successfully transition their business functions from a  ...",
+    "host_name": "aws.amazon.com",
+    "rank": 1,
+    "date": "May 7, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://devoxsoftware.com",
+    "name": "AI Transformation in Automotive: From Legacy to AI-Native",
+    "snippet": "Overview. How shifting from legacy systems to AI-native architecture turns dealership data into real-time decisions and recurring revenue.",
+    "host_name": "devoxsoftware.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://repost.aws",
+    "name": "AWS Transform for Windows modernization",
+    "snippet": "AWS Transform for full-stack Windows modernization uses agentic AI to transform .NET Framework applications, UI frameworks, and SQL Server databases into cloud- ... Read more",
+    "host_name": "repost.aws",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.slalom.com",
+    "name": "AWS Partner | Award Winning System Integrator",
+    "snippet": "Slalom helps organisations use AWS services such as Amazon Bedrock and Amazon Q to move beyond experimentation and build scalable, production-ready AI solutions ...",
+    "host_name": "www.slalom.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]
