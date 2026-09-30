@@ -38,17 +38,27 @@ viable wedge is bottom-up.
 **The report.** `report/SVX-Industry-Gap-Analysis-2025-2026.pdf` —
 Edition 2, 27 pages, SVX green, reproducible from `build/`.
 
-**The first product.** Gap #1 (the evals-in-CI adapter) was
-productized immediately as **[svx-evalgate]
-(https://github.com/srivtx/svx-evalgate)** — deterministic statistics
-gate for AI evals, now at v2.1.0 with 264 tests, zero dependencies,
-and green CI. It is the template for everything that follows: how a
-gap goes from a ranked row to a real, over-production-quality product.
+**The products.** Gap #1 (the evals-in-CI adapter) was productized
+immediately as **[svx-evalgate](https://github.com/srivtx/svx-evalgate)**
+— deterministic statistics gate for AI evals, now at v2.1.0 with 264
+tests, zero dependencies, and green CI. Wave 3 (2026-09-30) added two
+more, each born from a verified-open registry row with a self-contained
+task brief so any agent can pick them up cold:
+**[svx-careops](https://github.com/srivtx/svx-careops)** (row 14 — the
+home-care back-office agent layer; read-only, human-approves-everything)
+and **[svx-parityrun](https://github.com/srivtx/svx-parityrun)**
+(row 13 — the legacy differential-validation harness). Each product
+repo follows the evalgate template: `AGENTS.md` mechanics,
+`AGENT-GOALS.md` work orders with build gates and evidence-traced
+necessity cases, MIT, CI from the first commit. That is how a gap goes
+from a ranked row to a product a stranger can build without asking
+anyone for context.
 
-**The agent layer.** Both repos carry `AGENTS.md` onboarding files;
-svx-evalgate carries `AGENT-GOALS.md` (work orders for its open
-goals); this file plus `docs/gap-registry.md` make the research side a
-*continuously operating* system rather than a one-time report.
+**The agent layer.** Every repo in the family carries `AGENTS.md`
+onboarding files and `AGENT-GOALS.md` (work orders for open goals,
+with build gates where verification is still narrowing); this file
+plus `docs/gap-registry.md` make the research side a *continuously
+operating* system rather than a one-time report.
 
 ## The operating model: two loops
 

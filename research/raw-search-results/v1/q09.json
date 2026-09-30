@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://bluinsights.aws",
+    "name": "VSAM Datasets identification in the dependencies graph",
+    "snippet": "VSAM stands for Virtual Storage Access Method. It is a data set type and an easy, fast, secured data access method. It is used by IMS, DB2 , and z/OS UNIX.",
+    "host_name": "bluinsights.aws",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.precisely.com",
+    "name": "Change Data Capture with Connect",
+    "snippet": "With Connect real-time data replication software , you can build streaming data pipelines and share application data across the enterprise – from mainframes ... Read more 2 pages",
+    "host_name": "www.precisely.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ziprecruiter.com",
+    "name": "3 Days A Week Warehouse Jobs in Illinois (NOW HIRING",
+    "snippet": "Browse 1000+ 3 DAYS A WEEK WAREHOUSE jobs hiring now in ILLINOIS. On-site $16.50 - $18/hr. Hybrid $59.25 - $79.50/hr Estimated pay. Mainframe Chicago, IL. DB2 ...",
+    "host_name": "www.ziprecruiter.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.unojobs.com",
+    "name": "Sr. Mainframe Reverse Engineer at Tieto · 29631 | UnoJobs",
+    "snippet": "Sep 2, 2026 — The successful candidate will perform detailed analysis of COBOL programs , JCL workflows, DB2 databases, VSAM files, batch processing jobs, ...",
+    "host_name": "www.unojobs.com",
+    "rank": 3,
+    "date": "Sep 2, 2026",
+    "favicon": ""
+  }
+]

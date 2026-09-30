@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://docs.workato.com",
+    "name": "Embedded API - On-prem",
+    "snippet": "Reference for Embedded API endpoints to list, create, update, delete, and check the status of on-prem groups and agents in customer workspaces.",
+    "host_name": "docs.workato.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://prachub.com",
+    "name": "AlayaCare Software Engineer Interview Questions & Guide",
+    "snippet": "5 days ago — Define the interface before the boxes: the three or four endpoints , their parameters, what each returns, and which of them are idempotent. Read more",
+    "host_name": "prachub.com",
+    "rank": 1,
+    "date": "Sep 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://supergood.ai",
+    "name": "Sandata API: Grade F | The API Report Card",
+    "snippet": "Sandata grades F on The API Report Card. A real-time EVV REST API exists, but it serves states and EVV vendors under contract, not a public program.",
+    "host_name": "supergood.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "refine-openapis merges tags across hosts, producing",
+    "snippet": "Aug 1, 2026 — refine-openapis merges a tag shared across a provider's source specs into one document . That is right when a provider ships several specs ... Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "Aug 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pa.gov",
+    "name": "PA-DHS EVV Vendor Specification v1.1",
+    "snippet": "Dec 20, 2016 — API Endpoint(s ) This specification is intended to document the requirements for using the Sandata Real Time Interface",
+    "host_name": "www.pa.gov",
+    "rank": 4,
+    "date": "Dec 20, 2016",
+    "favicon": ""
+  },
+  {
+    "url": "https://launchdarkly.com",
+    "name": "API Change Management via Feature Flags",
+    "snippet": "Jul 31, 2019 — LaunchDarkly provides simple, scalable feature flag, toggle management (feature management) & experimentation for the modern enterprise.",
+    "host_name": "launchdarkly.com",
+    "rank": 5,
+    "date": "Jul 31, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://ca.indeed.com",
+    "name": "$50K–$131K React Developer Contract Jobs",
+    "snippet": "endpoint or a Python data pipeline, make a sound API contract decision. Easily apply AlayaCare Greater Montreal Area, QC Mentor developers through code reviews ...",
+    "host_name": "ca.indeed.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.medigy.com",
+    "name": "Healthcare Integration Engine - Medigy",
+    "snippet": "We also have built-in support for DICOM, CCD/CDA, CCR, EDI and more. Flexible to expose both modern (e.g., web service) and legacy (e.g., file-based) endpoints . Read more",
+    "host_name": "www.medigy.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

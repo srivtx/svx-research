@@ -4,8 +4,8 @@
 
 ![SVX](https://img.shields.io/badge/SVX-Research-298959?style=flat-square)
 ![Report](https://img.shields.io/badge/report-27%20pages%20%2F%20PDF-456454?style=flat-square)
-![Tracks](https://img.shields.io/badge/tracks-R1%E2%80%93R13-4fbb85?style=flat-square)
-![Evidence](https://img.shields.io/badge/evidence-267%20raw%20search%20sets-77817c?style=flat-square)
+![Tracks](https://img.shields.io/badge/tracks-R1%E2%80%93R13%20%2B%20V1%E2%80%93V3-4fbb85?style=flat-square)
+![Evidence](https://img.shields.io/badge/evidence-301%20raw%20search%20sets-77817c?style=flat-square)
 
 ---
 
@@ -27,7 +27,7 @@ On **September 30, 2026**, the loop ran again: eight more agents (R6–R13) clea
 |------|----------|
 | [`report/`](report/) | The final deliverable: `SVX-Industry-Gap-Analysis-2025-2026.pdf` (27 pages, A4, Edition 2) + cover HTML source |
 | [`research/track-reports/`](research/track-reports/) | The fourteen full track reports (R1–R13, ~41,800 words total) |
-| [`research/raw-search-results/`](research/raw-search-results/) | The raw search-result corpus (267 JSON sets) — the auditable evidence base |
+| [`research/raw-search-results/`](research/raw-search-results/) | The raw search-result corpus (301 JSON sets) — the auditable evidence base |
 | [`build/`](build/) | Reproducible report build: ReportLab pipeline, chart generation, green cascade palette |
 | [`docs/research-worklog.md`](docs/research-worklog.md) | The multi-agent work log — who researched what, agent by agent |
 | [`AGENT-MISSION.md`](AGENT-MISSION.md) | The whole story + the continuous research loop — how agents feed this repo, how products spin out of it |
@@ -77,7 +77,19 @@ Full table in Chapter 10 of the report; the living version is [`docs/gap-registr
 | 4 | Self-verifying docs | Freshness tools measure age, not truth; RAG made rot worse |
 | 5 | Flaky-test root-cause repair | Everyone detects and retries; nobody diagnoses or fixes |
 
-**Gap #1 is now being built** as the follow-on product repo: **EvalGate** — deterministic statistics for AI evals at the merge gate.
+**Three products have spun out of the registry**, each born from a
+verified-open row with a self-contained task brief:
+
+- **Gap #1 → [svx-evalgate](https://github.com/srivtx/svx-evalgate)**
+  (v2.1.0, 264 tests, green CI) — deterministic statistics for AI
+  evals at the merge gate.
+- **Row 14 → [svx-careops](https://github.com/srivtx/svx-careops)** —
+  the home-care back-office agent layer (verified OPEN, narrowing, by
+  R9/R13b/V2; task brief shipped 2026-09-30).
+- **Row 13 → [svx-parityrun](https://github.com/srivtx/svx-parityrun)**
+  — the legacy differential-validation harness for SI-run mainframe
+  migrations (verified OPEN, medium-high, by R8/R13b/V1; task brief
+  shipped 2026-09-30).
 
 ## Quantified pain (samples)
 

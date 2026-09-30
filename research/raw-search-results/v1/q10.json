@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.bmc.com",
+    "name": "BMC AMI DevX Total Test 20.x: Fundamentals Concepts",
+    "snippet": "BMC AMI DevX Total Test (formerly BMC Compuware Topaz for Total Test) is an automated testing solution that enables developers and testers to test mainframe ... Read more",
+    "host_name": "www.bmc.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tei.forrester.com",
+    "name": "The Total Economic Impact™ Of BMC AMI DevX",
+    "snippet": "Using the BMC AMI DevX tools, the mainframe team reduces its change failure rate by 33% (meaning that there are one-third fewer issues escaping to production ). Read more",
+    "host_name": "tei.forrester.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.jenkins.io",
+    "name": "BMC AMI DevX Total Test",
+    "snippet": "Indicates if the test runner should recursively check for Total Test Unit Test projects. The default is not to recursively check for Total Test Unit Test ... Read more",
+    "host_name": "www.jenkins.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.devopsdigest.com",
+    "name": "BMC AMI DevX Code Insights and",
+    "snippet": "Nov 28, 2023 — The BMC AMI zAdviser Enterprise solution drives continuous improvement using AI/ML to accelerate the pace of mainframe DevOps transformation. Read more",
+    "host_name": "www.devopsdigest.com",
+    "rank": 3,
+    "date": "Nov 28, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.peerspot.com",
+    "name": "BMC AMI DevX Total Test vs. Original Software TestDrive",
+    "snippet": "BMC AMI DevX Total Test provides efficient tools for mainframe testing automation, aiming to streamline development processes and enhance software quality. Read more",
+    "host_name": "www.peerspot.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.trustradius.com",
+    "name": "BMC AMI DevX Reviews from Real Users",
+    "snippet": "May 27, 2026 — BMC AMI DevX is primarily utilized by organizations to modernize and streamline mainframe development, testing, and maintenance processes. Read more",
+    "host_name": "www.trustradius.com",
+    "rank": 5,
+    "date": "May 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "BMC AMI DevX Total Test · Actions",
+    "snippet": "The BMC AMI DevX Total Test extension can be used to execute either Unit or Functional test scenarios automatically. ... This code is made available under the BMC ... Read more",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

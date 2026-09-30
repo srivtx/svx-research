@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://docs.aws.amazon.com",
+    "name": "AWS Transform for mainframe Runtime prerequisites",
+    "snippet": "Learn what prerequisites to meet before testing features of AWS Transform for mainframe Runtime for your application.",
+    "host_name": "docs.aws.amazon.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://mobisoftinfotech.com",
+    "name": "AI-Powered Legacy App Modernization to Reduce",
+    "snippet": "Discover how AI accelerates legacy application modernization, reduces transformation costs, improves efficiency, and enables scalable digital solutions.",
+    "host_name": "mobisoftinfotech.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://fabrity.com",
+    "name": "AI legacy code modernization: from untouchable systems to",
+    "snippet": "Altisource used Amazon Q Developer to modernize 350,000 lines of legacy Java code. AWS reported a 25% increase in developer productivity and a reduction in ...",
+    "host_name": "fabrity.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://repost.aws",
+    "name": "Building Agentic AI workflow to modernize legacy",
+    "snippet": "The AI agents can extract business logic from legacy COBOL and other mainframe languages, generate code, test cases and test data, even compile, fix bugs,",
+    "host_name": "repost.aws",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zylos.ai",
+    "name": "LLM-Powered Code Migration at Scale: From Years to Weeks",
+    "snippet": "Apr 18, 2026 — Amazon: Java Upgrades and COBOL Modernization. Amazon Q Developer Transform supports two major migration categories [5]:. Java version upgrades: ... Read more",
+    "host_name": "zylos.ai",
+    "rank": 4,
+    "date": "Apr 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://core.cz",
+    "name": "AI-Driven Legacy System Modernisation — A Practical Approach 2026",
+    "snippet": "Amazon Q Code Transformation converts Java 8/11 to Java 17, AWS Mainframe Modernization converts COBOL to Java. IBM watsonx Code Assistant for Z handles ...",
+    "host_name": "core.cz",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://eitt.academy",
+    "name": "GitHub Copilot and AI Coding Assistants - How We Train Teams",
+    "snippet": "Mar 5, 2026 — Amazon Q Developer – these tools promise to accelerate work, reduce errors, and free up time to solve real business problems. Testing (AI ...",
+    "host_name": "eitt.academy",
+    "rank": 6,
+    "date": "Mar 5, 2026",
+    "favicon": ""
+  }
+]

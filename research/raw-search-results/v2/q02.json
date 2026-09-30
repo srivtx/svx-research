@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://static.axiscare.com",
+    "name": "AxisCare API",
+    "snippet": "AxisCare's API is available for customers who want to build custom functionality by connecting external systems to AxisCare.",
+    "host_name": "static.axiscare.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://axiscare.com",
+    "name": "Integrations Marketplace",
+    "snippet": "AxisCare integrates with top companies in the home care industry to provide you with the best tools to support your agency's growth.",
+    "host_name": "axiscare.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.celigo.com",
+    "name": "Set up a connection to AxisCare",
+    "snippet": "Sep 25, 2025 — Sign in to your AxisCare account. · Navigate to your Admin > API token > Create new token . · Click Create. · Copy the API token. Read more",
+    "host_name": "docs.celigo.com",
+    "rank": 2,
+    "date": "Sep 25, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://developer.axis.com",
+    "name": "API compatibility guide | Axis developer documentation",
+    "snippet": "Overview of the supported APIs in each SDK. Verify compatibility with your target AXIS OS version. Check API availability when migrating between SDK versions. Read more",
+    "host_name": "developer.axis.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://support.patientrewardshub.com",
+    "name": "AxisCare Integration",
+    "snippet": "Sep 3, 2026 — Welcome to the support guide for setting up your AxisCare integration . This integration allows you to seamlessly import caregiver records...",
+    "host_name": "support.patientrewardshub.com",
+    "rank": 4,
+    "date": "Sep 3, 2026",
+    "favicon": ""
+  }
+]

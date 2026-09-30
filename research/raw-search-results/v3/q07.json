@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://journal.daniellopes.dev",
+    "name": "Trunk-based development, feature branches, and what teams",
+    "snippet": "Sep 5, 2026 — No freezes, no stabilization phases. Automated tests are the gate. Every trunk -based guide lists tests , crash fuzzer, dup unifier, dead-code ...",
+    "host_name": "journal.daniellopes.dev",
+    "rank": 0,
+    "date": "Sep 5, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://vallettasoftware.com",
+    "name": "DevOps Best Practices Explained: 2026 Senior Guide",
+    "snippet": "Trunk -based development means every developer merges to the main branch at least once a day, behind feature flags if the work is not yet user-visible. Pull ...",
+    "host_name": "vallettasoftware.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://trunk.io",
+    "name": "DevOps without the drain | Trunk - Trunk.io",
+    "snippet": "Trunk is the CI platform for modern engineering teams. Detect, quarantine, and eliminate flaky tests automatically. Run a flake-aware parallel merge queue ...",
+    "host_name": "trunk.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.flagsmith.com",
+    "name": "Continuous Integration Testing: A Complete Guide",
+    "snippet": "flaky tests – tests that fail intermittently for reason s unrelated to the actual code change, often due to timing issues or shared state between test runs.",
+    "host_name": "www.flagsmith.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://techmeetups.io",
+    "name": "Ranked: 4 AI Merge Guard Tools for Miami Dev Teams",
+    "snippet": "Jul 14, 2026 — Trunk is the tool most explicitly built for trunk-based development workflows . It includes a merge queue, a CI analytics layer, a linter/ ...",
+    "host_name": "techmeetups.io",
+    "rank": 4,
+    "date": "Jul 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.zenml.io",
+    "name": "Building Reliable AI DevOps Agents: Engineering Practices for",
+    "snippet": "Trunk developed an AI DevOps agent to handle root cause analysis (RCA) for test failures in CI pipelines, facing challenges with ...",
+    "host_name": "www.zenml.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://modernqacourse.com",
+    "name": "Branching Strategies — Modern QA Course",
+    "snippet": "Flaky tests are existential threats: A flaky test that blocks main blocks the entire team. Fix flaky tests immediately. When trunk -based development works:.",
+    "host_name": "modernqacourse.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://testdino.com",
+    "name": "Tuskr vs TestDino (2026)",
+    "snippet": "Tuskr is a manual test management platform priced for small QA teams. It handles test cases, plans, runs, and milestones cleanly. Flakiness Detection run ...",
+    "host_name": "testdino.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://khimananda.com",
+    "name": "Improve Deployment Frequency and Lead Time | DevOps Guide 2026",
+    "snippet": "Practical steps to improve deployment frequency and lead time. Reduce CI bottlenecks, adopt trunk -based dev, and automate releases safely in production.",
+    "host_name": "khimananda.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

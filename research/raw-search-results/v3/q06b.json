@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.rfp.wiki",
+    "name": "Octomind vs Functionize (2026): Scores, Reviews & Verdict",
+    "snippet": "+ Docs and changelog indicate multi-browser support and custom viewport resolutions. ... Allows teams to define tests in plain language with AI-assisted conversion ... Read more",
+    "host_name": "www.rfp.wiki",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://mails.dpdk.org",
+    "name": "[PATCH v1] dts: update dts check format script and resolve errors",
+    "snippet": "[PATCH v1] dts: update dts check format script and resolve errors. Koushik Bhargav Nimoji knimoji at iol.unh.edu. Thu Jun 18 20:59:38 CEST 2026 .",
+    "host_name": "mails.dpdk.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net",
+    "name": "Augmented PII Detection in Small Language Models",
+    "snippet": "Documentation (+ Docs ): The model additionally receives the PII-Codex reference documentation ... , 2026 ; Alzubi et al., 2026 ). Those approaches ... fore tests ...",
+    "host_name": "openreview.net",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Integrating the Probabilistic Models BM25/BM25F into",
+    "snippet": "This document describes the BM25 and BM25F implementation using the Lucene Java Framework . Both models have stood out at TREC by their performance. 2008- 2026 ...",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "llmrust",
+    "snippet": "Sep 12, 2026 — A modern Rust ecosystem for unified Large Language Model APIs. A high-performance, type-safe Rust library for calling multiple LLM providers ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "Sep 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.jsdelivr.com",
+    "name": "claude fulcrum - A CDN for npm and GitHub",
+    "snippet": "A free, fast, and reliable CDN for claude-fulcrum. The operating system for AI-powered development — 25 agents, 112 skills, 62 commands, 4-signal hybrid ...",
+    "host_name": "www.jsdelivr.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lib.rs",
+    "name": "usage-cli",
+    "snippet": "Usage is a portable KDL specification, a command-line utility, and a Rust framework . Describe commands, flags, arguments, and settings in one place, docs , man ...",
+    "host_name": "lib.rs",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

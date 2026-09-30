@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://xobin.com",
+    "name": "JCL Test | Online Skills Assessment",
+    "snippet": "Evaluate mainframe professionals using the JCL Test . Assess JCL programming, dataset management, and batch processing skills efficiently.",
+    "host_name": "xobin.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://techdocs.broadcom.com",
+    "name": "Brightside 3.0 - Broadcom TechDocs",
+    "snippet": "Brightside 3.0 is the first DevOps solution to enable development teams to control, script, and develop for the mainframe. Read more 219 pages",
+    "host_name": "techdocs.broadcom.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gsaadvantage.gov",
+    "name": "federal supply service",
+    "snippet": "ONLINE MFX for WS uses the entries to generate error-free SyncSort control statements plus JCL . MORE THAN A PROGRAMMING TOOL . OnLine-SyncSort for Mainframe can ... Read more",
+    "host_name": "www.gsaadvantage.gov",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.redbooks.ibm.com",
+    "name": "IBM Tivoli Composite Application Manager Family",
+    "snippet": "Workbench is needed to record and upload Rational Performance Tester tests . ... Run this by using batch jobs or by using dialog boxes under the Interactive ... Read more 688 pages",
+    "host_name": "www.redbooks.ibm.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

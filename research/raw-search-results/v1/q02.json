@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://nieva.wislab.app",
+    "name": "Choose and characterize the slice - NIEVA",
+    "snippet": "4 days ago — # Step 1 of the method: characterize the catalog BEFORE touching it . The golden master # freezes the legacy's current behavior -quirks ... Read more",
+    "host_name": "nieva.wislab.app",
+    "rank": 0,
+    "date": "Sep 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://uat.devoxsoftware.com",
+    "name": "VB6/Delphi/WinForms to .NET Core/WPF/Web SPA Migration",
+    "snippet": "Put old logic behind adapters, add approval or golden-master tests to lock in behavior, move logic into .NET libraries, and test it all with the same test ...",
+    "host_name": "uat.devoxsoftware.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nieva.team",
+    "name": "Building the new service alongside - NIEVA",
+    "snippet": "2 days ago — The characterization tests tell you what behavior to preserve (including the bugs that do matter); from there, you write a clean implementation ...",
+    "host_name": "nieva.team",
+    "rank": 2,
+    "date": "Sep 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Software Evolution of Legacy Systems - A Case Study",
+    "snippet": "This work proposes the concept of Hybrid Differential Software Testing ( HyDiff ) as a hybrid analysis technique to generate difference revealing inputs. Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

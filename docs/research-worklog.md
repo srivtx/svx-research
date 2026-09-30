@@ -144,3 +144,23 @@ Stage Summary:
 - 22 candidates killed with closers named — the kill-list discipline is functioning: provisional rows (FAI packets, truck-stock overlay, SMB supplier comms) were promoted and then killed on verification, which is the system working
 - Registry top rows healthy: #2–#5 all still OPEN; #3 has named edge-closers to verify (Notilens) before any build
 - Honest evidence ceiling: 20 still-unverified items remain, prioritized in the registry backlog as the next missions
+
+---
+Task ID: WAVE3
+Agent: main (Super Z) + verification agents V1/V2/V3
+Task: Refine-and-verify wave: run the owed kill-passes on the two new product rows, productize both as self-contained task-brief repos, refresh the top registry follow-ups, and push everything
+
+Work Log:
+- Push-state audit first (owner's challenge): both repos verified current on remote (efa2c86 / 63f8d59) — the "unpushed" appearance was a stale remote-tracking ref (fixed by fetch) plus exec-bit drift from the container filesystem (fixed with core.fileMode=false; committed modes were already correct at 100644)
+- Launched three parallel verification agents: V1 (row-13 harness kill-pass, 14 calls/12 files), V2 (row-14 careops kill-pass, 17 invocations/10 files, staggered 240s), V3 (top registry follow-ups, 16 calls/12 files, staggered 480s) — all three delivered reports + immutable raw evidence
+- V1 verdict: row 13 OPEN (medium-high) — no standalone parallel-run/capture-replay/differential product in 7 phrasings across 3 passes; BMC AMI DevX Total Test + Broadcom bounded (on-platform z/OS DevOps, not migration-equivalence); Amazon Q Transform validation resolved as embedded; new build gate = Imogen's AWS Marketplace listing ("Rhino Agentic Mainframe Modernization", single-source, unverified detail)
+- V2 verdict: row 14 OPEN (narrowing, absorption clock started, medium-high) — VA workaround priced $700-1,000/mo (onlinejobs.ph Mar 7 2026); AxisCare API vendor-confirmed with live third-party production import (Sep 3 2026); Sandata closed to overlays (supergood.ai F); AxisCare's own Jun 15 2026 AI announcement = the #1 threat; platform order flipped to AlayaCare-first
+- V3 verdicts: Notilens = real shipped product, alerting-only, no replay (gap #3 amended); Trunk markets flaky "eliminate" + merge queue (gap #5 amended, platform-locked end being-closed); Ply/Doc Detective/model-EOL still search-blocked; 3 query phrasings retired from search (3 failed runs each)
+- PRODUCTIZED both rows: svx-parityrun (github.com/srivtx/svx-parityrun @ 2f93956) and svx-careops (github.com/srivtx/svx-careops @ f3e5df2) — each with README (necessity case, evidence-traced), AGENT-GOALS.md (work orders with Goal 0 build gates, standing constraints, re-verify triggers, acceptance criteria), AGENTS.md, CHANGELOG, MIT, brief-guard CI (green on both)
+- Research-repo consolidation: registry rows 13/14 amended with V1/V2 evidence + PRODUCTIZED status; gaps #3/#5 amended with V3 evidence; follow-up list re-prioritized (gates on top, retired phrasings separated, resolved items recorded); AGENT-MISSION.md products section rewritten (one product -> family of three); README badge/corpus counts updated (301 raw sets)
+
+Stage Summary:
+- Two verified-open rows are now self-contained product repos any stranger-agent can pick up cold — the task-brief standard (evidence-traced necessity case, build gates, absorption-clock triggers) is now the family template
+- Registry is current with three verification passes; 34 raw evidence files added this wave (301 total corpus)
+- Necessity cases are quotable: row 13 = "70% fail / 80% miss deadlines; testing pays 33% on-platform while cross-system equivalence is unowned"; row 14 = "$700-1,000/mo human workaround, 75.5% churn regenerating exceptions forever, incumbent roadmap validating demand"
+- Open threads for wave 4: Imogen marketplace listing detail (row-13 gate), AlayaCare endpoint depth (row-14 gate), Doc Detective via GitHub-direct read, Ply via vendor-page read

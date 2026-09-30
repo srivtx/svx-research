@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://publibfp.boulder.ibm.com",
+    "name": "Enterprise COBOL for z/OS V3R4 Migration Guide",
+    "snippet": "can run your source code through a source conversion tool , such as the COBOL ... tools , packages, and products are designed to work with Enterprise COBOL . Read more",
+    "host_name": "publibfp.boulder.ibm.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.thoughtworks.com",
+    "name": "Claude Code and COBOL modernization: What's the reality?",
+    "snippet": "Mar 2, 2026 — Evaluating tools other than Claude Code for modernizing legacy code · Time and effort (for both tool and human). · Cost. · Correctness —. Are the ... Read more",
+    "host_name": "www.thoughtworks.com",
+    "rank": 1,
+    "date": "Mar 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hackernoon.com",
+    "name": "I Built a COBOL Migration Tool That Outputs 6 Languages",
+    "snippet": "Mar 25, 2026 — The AI-based COBOL migration tools announced in February 2026 are impressive for analysis and documentation. For actual code conversion at scale ... Read more",
+    "host_name": "hackernoon.com",
+    "rank": 2,
+    "date": "Mar 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.emergentmind.com",
+    "name": "Legacy Code Modernization via COBOL",
+    "snippet": "Dec 25, 2025 — Advanced LLM-based tools , notably XMainframe, are fine-tuned specifically on COBOL /mainframe domains and demonstrate substantial performance ... Read more",
+    "host_name": "www.emergentmind.com",
+    "rank": 3,
+    "date": "Dec 25, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://keyholesoftware.com",
+    "name": "Modernization: Strategy + Example Converting COBOL To",
+    "snippet": "Feb 13, 2017 — Skilled in data strategy and analytics through tools such as DataBricks, Apache Nifi, Kafka, and MuleSoft. Designed and delivered AI-driven, ... Read more",
+    "host_name": "keyholesoftware.com",
+    "rank": 4,
+    "date": "Feb 13, 2017",
+    "favicon": ""
+  },
+  {
+    "url": "https://cmfirstgroup.com",
+    "name": "Mastering the COBOL to Java Migration",
+    "snippet": "Feb 19, 2024 — Leverage automated tools and scripts to streamline the conversion process and ensure data integrity. Our static analysis tool , CM evolveIT ... Read more",
+    "host_name": "cmfirstgroup.com",
+    "rank": 5,
+    "date": "Feb 19, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://davenicolette.wordpress.com",
+    "name": "Bringing TDD and automated testing to the mainframe platform",
+    "snippet": "Jun 2, 2015 — ... re on your own to build unit testing tools . As far as I know the ... The tool itself is written in Cobol , so all you need is a good ... Read more",
+    "host_name": "davenicolette.wordpress.com",
+    "rank": 6,
+    "date": "Jun 2, 2015",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.codeconvert.ai",
+    "name": "Free Scheme to COBOL Converter - AI Code Translation",
+    "snippet": "How to use this tool ? · Examples of Scheme to COBOL conversion · Key differences between Scheme and COBOL · Frequently Asked Questions · Try our other free tools . Read more",
+    "host_name": "www.codeconvert.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

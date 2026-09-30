@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://blog.promptlayer.com",
+    "name": "n8n vs Make: Comprehensive Automation & AI Agent",
+    "snippet": "May 9, 2025 — Both n8n and Make (formerly Integromat) empower users to connect applications, automate workflows, and integrate AI features. Read more",
+    "host_name": "blog.promptlayer.com",
+    "rank": 0,
+    "date": "May 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.synkrai.com",
+    "name": "n8n vs Make: How Hosting Choices Affect Long-Term Use",
+    "snippet": "Jul 6, 2026 — n8n's error handling requires more deliberate setup but gives you granular control, including custom error workflows triggered by failures .",
+    "host_name": "www.synkrai.com",
+    "rank": 1,
+    "date": "Jul 6, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scribd.com",
+    "name": "n8n Claude Guide | PDF | Computing | Software",
+    "snippet": "What happens if something fails ? If invalid: logs the error to a separate sheet and sends an alert to 4 pages",
+    "host_name": "www.scribd.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ensomedia.vercel.app",
+    "name": "ENSOMEDIA, web apps & AI automation",
+    "snippet": "ENSOMEDIA builds web applications and AI automations . Workflows in n8n and similar, with AI where it genuinely helps. + n8n workflows +Automated reports &  ...",
+    "host_name": "ensomedia.vercel.app",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com",
+    "name": "you, but 24/7) ✨ AI content systems ✨ Micro-SaaS building ✨",
+    "snippet": "I've spent the last few years learning n8n , AI agents, and automation workflows. Some people say it's not worth it anymore. That AI tools are getting so ...",
+    "host_name": "www.facebook.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

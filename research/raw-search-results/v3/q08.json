@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://codoid.com",
+    "name": "AI Testing Archives",
+    "snippet": "Predictive test selection. Launchable Predictive Test Selection applies machine learning to historical test and change data to prioritize tests and ... Read more",
+    "host_name": "codoid.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://similarlabs.com",
+    "name": "6 Best AI-Powered CI/CD Tools in 2026: Tested & Ranked",
+    "snippet": "Feb 27, 2026 — AI agents that detect flaky tests , Real-Time Flaky Test Detection: The Test Engine continuously monitors test results to identify flaky tests ...",
+    "host_name": "similarlabs.com",
+    "rank": 1,
+    "date": "Feb 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.testmuai.com",
+    "name": "Test Execution Time - why is it important and how can we",
+    "snippet": "Aug 12, 2026 — Our tests will be less flaky and faster to execute and the pages will load faster with fewer waits. Prefer API authentication over UI login – ... Read more",
+    "host_name": "www.testmuai.com",
+    "rank": 2,
+    "date": "Aug 12, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scribd.com",
+    "name": "Frai 09 1776546 | PDF | Reliability Engineering | Prediction",
+    "snippet": "ACCEPTED 28 February 2026 ... Launchable applies predictive test selection to reduce process. ... tests , selecting test subsets, or identifying ﬂaky behavior.",
+    "host_name": "www.scribd.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "parttimenerd/test-order: Prioritize Java test cases to catch",
+    "snippet": "Sep 7, 2026 — Prioritize Java test cases to catch errors earlier. Typical projects see relevant failures surface within the first 5–10% of the suite. This ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "Sep 7, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.eficode.com",
+    "name": "Talk: Data-driven DevOps - The Key to Improving Speed & Scale",
+    "snippet": "In this episode, we discuss the insights shared by Kohsuke Kawaguchi, the creator of Jenkins and co-CEO of Launchable , during the DevOps 2020 event.",
+    "host_name": "www.eficode.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]
