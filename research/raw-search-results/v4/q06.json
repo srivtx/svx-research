@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://github.com",
+    "name": "k-wave-ii/docs/developerIntroduction.md at develop",
+    "snippet": "k-Wave-II is an open-source MATLAB toolbox used to solve differential equations , Legacy tests are regression tests against k-Wave I to ensure existing ...",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "LLM-based Dynamic Differential Testing for Database",
+    "snippet": "Jun 13, 2025 — In this paper, we propose reinforcement learning (RL)-guided LLM test -case generation for database connector testing . Specifically, to equip the ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "Jun 13, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "A Framework for Statically Optimizing JavaScript Programs",
+    "snippet": "Apr 10, 2026 — We first convert JavaScript source to a three-address-like subset called 3JS, which allows us to perform differential testing over a simpler ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 2,
+    "date": "Apr 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Kaizen: Metamorphic Fuzzing and Differential Testing for",
+    "snippet": "Jul 9, 2026 — We present Kaizen , a metamorphic fuzzing and differential testing framework for evaluating the correctness of LLM-translated HPC code.",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "Jul 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.biorxiv.org",
+    "name": "a comprehensive R/Shiny framework for transparent bulk",
+    "snippet": "Sep 10, 2026 — We developed Co TRA (Comprehensive Toolbox for RNA-seq Analysis), an open-source R/Shiny package providing independent bulk and scRNA-seq ... Read more",
+    "host_name": "www.biorxiv.org",
+    "rank": 4,
+    "date": "Sep 10, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://vatlidak-org.github.io",
+    "name": "Data-Oriented Differential Testing of Object-Relational",
+    "snippet": "by T Sotiropoulos · Cited by 29 — We implement CYNTHIA , an extensible open-source frame- work for systematically testing well-established ORM im- plementations. available as open- source ...",
+    "host_name": "vatlidak-org.github.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.keysight.com",
+    "name": "IxNetwork – Network Test Automation",
+    "snippet": "IxNetwork's comprehensive suite of network test features makes it the perfect tool to test this next-generation open-source network operating system.",
+    "host_name": "www.keysight.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coderio.com",
+    "name": "What Is Autonomous Regression Testing",
+    "snippet": "Feb 11, 2026 — Differential testing uses them to compare two implementations . Both receive identical input, and their outputs are compared. Where they differ, ... Read more",
+    "host_name": "www.coderio.com",
+    "rank": 7,
+    "date": "Feb 11, 2026",
+    "favicon": ""
+  }
+]

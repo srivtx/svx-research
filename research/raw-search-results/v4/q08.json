@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://synthetixis.com",
+    "name": "Pinning a model schedules a migration - Synthetixis",
+    "snippet": "Model deprecation : why pinning an LLM snapshot sets a deadline September 17, 2026. OpenAI states at least 6 months for generally available models . AI announced ...",
+    "host_name": "synthetixis.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tianpan.co",
+    "name": "API Contracts for Non-Deterministic Services: Versioning",
+    "snippet": "Apr 17, 2026 — Traditional API contracts break when services wrap LLMs. Here's how to version, test, and maintain backward compatibility for probabilistic ...",
+    "host_name": "tianpan.co",
+    "rank": 1,
+    "date": "Apr 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.fiddler.ai",
+    "name": "Product Releases - Fiddler Documentation",
+    "snippet": "LLM Gateway: Model Deprecation Cues in the Model Pickers. Model pickers now show when a model is scheduled for retirement or no longer available, so you find ... Read more",
+    "host_name": "docs.fiddler.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Evaluating Deprecated API Usage in LLM-Based Code",
+    "snippet": "by C Wang · 2025 · Cited by 50 — The study results reveal the status quo (i.e., API usage plausibility and deprecated usage rate) of deprecated API and replacing API usage in LLM -based code ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://intl.cloud.tencent.com",
+    "name": "Activation",
+    "snippet": "Sep 16, 2026 — Running (Model Pending Deprecation) Indicates that the default model service is running normally , but the model is about to be taken offline.",
+    "host_name": "intl.cloud.tencent.com",
+    "rank": 4,
+    "date": "Sep 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://help.salesforce.com",
+    "name": "Rebook and Notify for Field Service",
+    "snippet": "Large Language Model Support · Manage Model Provider Access · Prepare for Model Deprecation and Rerouting · Multimodal Support · Large Language Model Limits. Read more",
+    "host_name": "help.salesforce.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ndia.org",
+    "name": "August 3, 2026 Ms. Johnie McDowell Office of Acquisition",
+    "snippet": "A blanket 30-day pre-notice for changing any LLM appears incompatible with a managed multi- model service that adds and retires provider model versions on the ... Read more",
+    "host_name": "www.ndia.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

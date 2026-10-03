@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://docs.llmgateway.io",
+    "name": "Compliance",
+    "snippet": "Sep 25, 2026 — Every attestation change is recorded in the audit log with the attesting user and timestamp. Attestations only apply to custom provider keys. Read more",
+    "host_name": "docs.llmgateway.io",
+    "rank": 0,
+    "date": "Sep 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.silentgrid.com",
+    "name": "Are You Testing Your LLM Gateway Like Any Other Critical",
+    "snippet": "Jul 9, 2026 — Security teams are accustomed to reviewing authentication logs , application logs , and audit trails when investigating incidents. Many LLM ... Read more",
+    "host_name": "www.silentgrid.com",
+    "rank": 1,
+    "date": "Jul 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://nrouter.ai",
+    "name": "LLM Request Logs: What to Capture and What to Leave Out",
+    "snippet": "Jun 15, 2026 — A SOC 2 checklist for LLM gateways — where logging level, retention and access scoping land in an audit . Security — how request data is handled ...",
+    "host_name": "nrouter.ai",
+    "rank": 2,
+    "date": "Jun 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.getmaxim.ai",
+    "name": "GenAI Security: Risks and Controls for Production LLM Apps",
+    "snippet": "Bifrost is the AI gateway for GenAI security , enforcing guardrails, access control, rate limits, and audit logging across your production LLM apps at scale.",
+    "host_name": "www.getmaxim.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.truefoundry.com",
+    "name": "Enterprise AI Governance: Virtual Keys, RBAC & Audit",
+    "snippet": "Jun 23, 2026 — Govern production LLMs with virtual keys, RBAC, policy-as-code, budgets, and compliance-grade audit logs at the gateway — EU AI Act mapped",
+    "host_name": "www.truefoundry.com",
+    "rank": 4,
+    "date": "Jun 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cequence.ai",
+    "name": "Best Enterprise AI Gateway Solutions: Top 8 Options in 2026",
+    "snippet": "Enterprise AI gateways support compliance by providing centralized logging, audit trails, and policy enforcement mechanisms . These features make it easier ...",
+    "host_name": "www.cequence.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nhimg.org",
+    "name": "How should security teams implement an LLM gateway in",
+    "snippet": "Aug 24, 2026 — How should security teams implement an LLM gateway in multi-provider AI environments?",
+    "host_name": "nhimg.org",
+    "rank": 6,
+    "date": "Aug 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://api7.ai",
+    "name": "LLM Gateway vs AI Gateway vs API Gateway: What Is the",
+    "snippet": "An AI Gateway is broader than an LLM Gateway . It governs model calls, agent workflows, MCP server access, tool calls, API traffic, policies, audit logs , and AI ...",
+    "host_name": "api7.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

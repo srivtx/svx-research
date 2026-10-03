@@ -21,3 +21,4 @@ Layout
 - Wave 1 (R1-R5): dev tooling, integration/data, missing links, badly-built categories, frontier gaps
 - Wave 2 (R6-R13b): six never-searched verticals cleared; gaps #2-#5 re-verified; rows 13-14 found
 - Wave 3 (V1-V3): row 13 + row 14 kill-passes (both OPEN → productized); registry follow-ups run
+- Wave 4 (V4/V5 + R14/R15 + direct reads): row-13/14 build gates resolved (Imogen = private-offer SaaS, harness embedded; AlayaCare = 397 endpoints, write paths; absorption fires on both platforms); two new lenses cleared (security/supply-chain closed; education near-closed, IEP overlay the thin survivor); process tooling shipped (tools/svxsearch.py + tools/SEARCH-PLAYBOOK.md)

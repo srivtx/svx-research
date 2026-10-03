@@ -1,0 +1,253 @@
+[
+  {
+    "sha": "388a6bc4c5e4b4f9231e66105d26c891a32d564b",
+    "node_id": "C_kwDOI0UoftoAKDM4OGE2YmM0YzVlNGI0ZjkyMzFlNjYxMDVkMjZjODkxYTMyZDU2NGI",
+    "commit": {
+      "author": {
+        "name": "Manny Silva",
+        "email": "hawkeyexl@gmail.com",
+        "date": "2026-10-02T00:04:48Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-02T00:04:48Z"
+      },
+      "message": "docs: fix 61 broken internal links (#729)\n\n* docs: fix 61 broken internal links\n\nEvery one of these resolved to the Fern **home page** rather than a 404, which is\nwhy they survived: a reader clicking \"goTo\" landed somewhere plausible and the\nlink looked alive. Verified against the deployed site's own sitemap, the\nauthoritative route list, not re-derived from docs.yml.\n\nThree causes, all in how Fern builds routes:\n\n- **A doubled slug segment.** The route is tab slug + section slug + page slug,\n  and a section with no explicit `slug:` still contributes one from its title. So\n  the reference pages live at `/reference/reference/<page>`. 18 links used the\n  single-segment form, 16 of them to the install CLI page. The ai, contribute and\n  support tabs had the same problem.\n- **Case and hyphens.** Action routes publish lowercased and unhyphenated, so\n  `/docs/actions/goTo`, `/docs/actions/run-shell` and `/docs/actions/stopRecord`\n  were all dead. Routing is case-sensitive, confirmed against the live site.\n- **Routes that never existed.** `/docs/actions` is a `folder:` entry with no\n  landing page, and 9 links pointed at it; they now point at the page that\n  actually lists the actions. `/reference/schemas` and `/docs/selectors` are the\n  same shape. A few others named pages by an old slug.\n\nOne stale anchor too: ci/overview linked `#step-5-fail-ci-when-tests-fail`, but\nthat heading is Step 6 since a renumber.\n\nThe trap is recorded in docs/AGENTS.md, with how to check a route instead of\nguessing, since this is exactly the class of error that regrows silently.\n\nNo behavior change, so no ADR. Vale clean across all 32 files.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n\n* docs: fix the CLI reference link in its generator, not its output\n\n`docs/fern/pages/reference/cli.mdx` is generated, and the workflow that checks it\nsays so: \"Do not hand-edit\". My link sweep edited the output, so `cli-ref` failed\nthe moment it regenerated the page. Both links live in\n`docs/.scripts/buildCliReference.js`, so they are fixed there and the page is\nregenerated from it. `npm run docs:build-cli-ref` now leaves no diff.\n\nAlso addresses the review's point that three labels over-promised once their\ntarget moved to the actions list:\n\n- \"its action reference\" now says to find the action in \"How testing works\" and\n  open its page, since the per-action page is still where the outputs are.\n- \"Actions reference\" in two link lists now names what the target actually is.\n- The \"Schemas\" label implied an index; it names the config schema instead.\n\nTyped `docs:` rather than `fix:` on purpose. Commit type is the only release\nsignal, and nothing here changes shipped behavior.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n\n* docs(agents): note that the CLI reference page is generated\n\nFollows the gate I tripped in this PR: editing pages/reference/cli.mdx looks\nlike it worked, then `cli-ref` regenerates the page and fails on the diff. Says\nwhere the links actually live and how to regenerate.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "4ad3c4b512926df01d5812373a845a92ffc0f2dc",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/git/trees/4ad3c4b512926df01d5812373a845a92ffc0f2dc"
+      },
+      "url": "https://api.github.com/repos/doc-detective/doc-detective/git/commits/388a6bc4c5e4b4f9231e66105d26c891a32d564b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqvvUgCRC1aQ7uu5UhlAAADT8QAAN43uYjM1MFqg3PCQzUMnE6\nFQdPAUY2HpY2qs73TB58oCKi1oVAGaNDQa+vBOmY/41+X+kEmZiZzgfCdM3TGnHs\nXmcMnTNIFcB8obmKHrqyPz0Ti6pSDv5HpzPQ03hCY8460ctrBhN9h4YGkV/PMl34\nVvi7jo0ETDsmtsxt62VqR53rJKSNQJUmPue78cRcpcH4EDg4/BlnnDH4DzfSGFOl\nRCLpCrATpfSidplfgKjV65szXwVBHeqL8BprudrmllLrP2zAJD+3hGPQyajrs98c\nN2ZityAZQyM5nzr70996UrdpX6RSFyZUywqCx9Iy1heL7EKy+pIlbK+Rq5unnblX\nKO2ZxD8qX1L9vGbiwpMQ3LrOUkeUCpFhV5SwVhYPL3/lYOxHN7EIRUCdNl5WFq+m\ng/HWdcxU9u+CZudi7ArItdq/mYtFaPUQatT/T23C1I7661NxwB/h0DgzTwDwkbwO\n+im3Zd/A1dlgqvgtv7EE3bWl8oVj9mi1rUT8ilYGWx1oxMeYzcXenHtppze3DlmK\nJwh2WJRc4SbfyVFzFebZCymCtjkJxgZHxnal9giZ//wi5r9JVBy9gx0nXVRe5muR\nE87gwJ5iuWpqHL/RcE4O2d8/QZuoEPFB25HA5Sl2QgovSmDTnTLswbmKJp/tRJcB\nHqJgGNXXSIzW8+lIsCHG\n=mF4g\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 4ad3c4b512926df01d5812373a845a92ffc0f2dc\nparent 70a205a03131c5dd4cc5b63e71f2727ff2db6c82\nauthor Manny Silva <hawkeyexl@gmail.com> 1790899488 -0700\ncommitter GitHub <noreply@github.com> 1790899488 +0000\n\ndocs: fix 61 broken internal links (#729)\n\n* docs: fix 61 broken internal links\n\nEvery one of these resolved to the Fern **home page** rather than a 404, which is\nwhy they survived: a reader clicking \"goTo\" landed somewhere plausible and the\nlink looked alive. Verified against the deployed site's own sitemap, the\nauthoritative route list, not re-derived from docs.yml.\n\nThree causes, all in how Fern builds routes:\n\n- **A doubled slug segment.** The route is tab slug + section slug + page slug,\n  and a section with no explicit `slug:` still contributes one from its title. So\n  the reference pages live at `/reference/reference/<page>`. 18 links used the\n  single-segment form, 16 of them to the install CLI page. The ai, contribute and\n  support tabs had the same problem.\n- **Case and hyphens.** Action routes publish lowercased and unhyphenated, so\n  `/docs/actions/goTo`, `/docs/actions/run-shell` and `/docs/actions/stopRecord`\n  were all dead. Routing is case-sensitive, confirmed against the live site.\n- **Routes that never existed.** `/docs/actions` is a `folder:` entry with no\n  landing page, and 9 links pointed at it; they now point at the page that\n  actually lists the actions. `/reference/schemas` and `/docs/selectors` are the\n  same shape. A few others named pages by an old slug.\n\nOne stale anchor too: ci/overview linked `#step-5-fail-ci-when-tests-fail`, but\nthat heading is Step 6 since a renumber.\n\nThe trap is recorded in docs/AGENTS.md, with how to check a route instead of\nguessing, since this is exactly the class of error that regrows silently.\n\nNo behavior change, so no ADR. Vale clean across all 32 files.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n\n* docs: fix the CLI reference link in its generator, not its output\n\n`docs/fern/pages/reference/cli.mdx` is generated, and the workflow that checks it\nsays so: \"Do not hand-edit\". My link sweep edited the output, so `cli-ref` failed\nthe moment it regenerated the page. Both links live in\n`docs/.scripts/buildCliReference.js`, so they are fixed there and the page is\nregenerated from it. `npm run docs:build-cli-ref` now leaves no diff.\n\nAlso addresses the review's point that three labels over-promised once their\ntarget moved to the actions list:\n\n- \"its action reference\" now says to find the action in \"How testing works\" and\n  open its page, since the per-action page is still where the outputs are.\n- \"Actions reference\" in two link lists now names what the target actually is.\n- The \"Schemas\" label implied an index; it names the config schema instead.\n\nTyped `docs:` rather than `fix:` on purpose. Commit type is the only release\nsignal, and nothing here changes shipped behavior.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n\n* docs(agents): note that the CLI reference page is generated\n\nFollows the gate I tripped in this PR: editing pages/reference/cli.mdx looks\nlike it worked, then `cli-ref` regenerates the page and fails on the diff. Says\nwhere the links actually live and how to regenerate.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-02T00:04:49Z"
+      }
+    },
+    "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/388a6bc4c5e4b4f9231e66105d26c891a32d564b",
+    "html_url": "https://github.com/doc-detective/doc-detective/commit/388a6bc4c5e4b4f9231e66105d26c891a32d564b",
+    "comments_url": "https://api.github.com/repos/doc-detective/doc-detective/commits/388a6bc4c5e4b4f9231e66105d26c891a32d564b/comments",
+    "author": {
+      "login": "hawkeyexl",
+      "id": 5209367,
+      "node_id": "MDQ6VXNlcjUyMDkzNjc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5209367?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hawkeyexl",
+      "html_url": "https://github.com/hawkeyexl",
+      "followers_url": "https://api.github.com/users/hawkeyexl/followers",
+      "following_url": "https://api.github.com/users/hawkeyexl/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hawkeyexl/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hawkeyexl/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hawkeyexl/subscriptions",
+      "organizations_url": "https://api.github.com/users/hawkeyexl/orgs",
+      "repos_url": "https://api.github.com/users/hawkeyexl/repos",
+      "events_url": "https://api.github.com/users/hawkeyexl/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hawkeyexl/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "70a205a03131c5dd4cc5b63e71f2727ff2db6c82",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/70a205a03131c5dd4cc5b63e71f2727ff2db6c82",
+        "html_url": "https://github.com/doc-detective/doc-detective/commit/70a205a03131c5dd4cc5b63e71f2727ff2db6c82"
+      }
+    ]
+  },
+  {
+    "sha": "70a205a03131c5dd4cc5b63e71f2727ff2db6c82",
+    "node_id": "C_kwDOI0UoftoAKDcwYTIwNWEwMzEzMWM1ZGQ0Y2M1YjYzZTcxZjI3MjdmZjJkYjZjODI",
+    "commit": {
+      "author": {
+        "name": "Manny Silva",
+        "email": "hawkeyexl@gmail.com",
+        "date": "2026-10-01T23:57:40Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-01T23:57:40Z"
+      },
+      "message": "Merge pull request #730 from doc-detective/claude/required-test-contexts\n\nci: report the required test contexts on every pull request",
+      "tree": {
+        "sha": "e3f61b8cbd82c1d5c16bc9167222fad7aedfa12c",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/git/trees/e3f61b8cbd82c1d5c16bc9167222fad7aedfa12c"
+      },
+      "url": "https://api.github.com/repos/doc-detective/doc-detective/git/commits/70a205a03131c5dd4cc5b63e71f2727ff2db6c82",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqvvN0CRC1aQ7uu5UhlAAAX2UQADiN31k0dvvh/JHyV47bHC1p\nqfpy82oO0CNE4wYYZ6HrfNrVlgZrRWgBTvUXLXvmRi6LzQ1H6LwCafWE+nvbZDO+\nTQJasvT9V/NwXIRJDu1M/uDAkKbJYsKpiXvDyr3/vAH3lUSXjL0lRzrtx21n/ZVF\nEm9Wq+dA9Rzk9AEJbd9fTeiZmX0T0Un6Q8DlViOGSp70l8FPVxVEnaWFpUvnbIlO\nA9/cnQgluqEkRDQLpVgB5VX68ItZXcAUO+0GqEkPGOrp27B5mJ/LsitA/HmVMuQ3\nCsTSiqsWQ3uSWCgizUJzYA/R6vOEiSQZqmWWm/A635LIfWIo+xAOoRNQasvsjZWl\nia//IKYAfGupiQdO5/3QirGK9x1dzVqIG4xoPw9qJbZpzhH3X3HWHDb8+s6OW6Hi\nf7we2HHQwUypY1NF2Sl4TRhnRjH6nKou0mOsiBSMzYe0n1CDb2mwi8Z3uX7lX4DT\nTrxnohWlgvUjDN7mUAGZHE8bVbTjGKB9DCRChk+7yv4O/iWWfM7Yi5v9Ge/pf4ha\nZ72KwYpJaWDPEFDLxgJRwiVabOgwkMhA5dSVXC+mvvSFW9TsHrE9Vj1xcS7m1SZW\nJBwO3p8qMYexod7KPCF9Bm6w9OCu7Sfo3dmrzgvUjOmkToSQRvwSur6AwtFuCBi2\n5CT8D7ZyeFh2+xBcJGst\n=v7EC\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e3f61b8cbd82c1d5c16bc9167222fad7aedfa12c\nparent 2edb8c0ccb20412ba1fe68e55fc8c3cbb0ff1e0f\nparent c6385fcfb495067cb2b107ec7b9c4fe362546c31\nauthor Manny Silva <hawkeyexl@gmail.com> 1790899060 -0700\ncommitter GitHub <noreply@github.com> 1790899060 -0700\n\nMerge pull request #730 from doc-detective/claude/required-test-contexts\n\nci: report the required test contexts on every pull request",
+        "verified_at": "2026-10-01T23:57:41Z"
+      }
+    },
+    "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/70a205a03131c5dd4cc5b63e71f2727ff2db6c82",
+    "html_url": "https://github.com/doc-detective/doc-detective/commit/70a205a03131c5dd4cc5b63e71f2727ff2db6c82",
+    "comments_url": "https://api.github.com/repos/doc-detective/doc-detective/commits/70a205a03131c5dd4cc5b63e71f2727ff2db6c82/comments",
+    "author": {
+      "login": "hawkeyexl",
+      "id": 5209367,
+      "node_id": "MDQ6VXNlcjUyMDkzNjc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5209367?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hawkeyexl",
+      "html_url": "https://github.com/hawkeyexl",
+      "followers_url": "https://api.github.com/users/hawkeyexl/followers",
+      "following_url": "https://api.github.com/users/hawkeyexl/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hawkeyexl/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hawkeyexl/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hawkeyexl/subscriptions",
+      "organizations_url": "https://api.github.com/users/hawkeyexl/orgs",
+      "repos_url": "https://api.github.com/users/hawkeyexl/repos",
+      "events_url": "https://api.github.com/users/hawkeyexl/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hawkeyexl/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2edb8c0ccb20412ba1fe68e55fc8c3cbb0ff1e0f",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/2edb8c0ccb20412ba1fe68e55fc8c3cbb0ff1e0f",
+        "html_url": "https://github.com/doc-detective/doc-detective/commit/2edb8c0ccb20412ba1fe68e55fc8c3cbb0ff1e0f"
+      },
+      {
+        "sha": "c6385fcfb495067cb2b107ec7b9c4fe362546c31",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/c6385fcfb495067cb2b107ec7b9c4fe362546c31",
+        "html_url": "https://github.com/doc-detective/doc-detective/commit/c6385fcfb495067cb2b107ec7b9c4fe362546c31"
+      }
+    ]
+  },
+  {
+    "sha": "c6385fcfb495067cb2b107ec7b9c4fe362546c31",
+    "node_id": "C_kwDOI0UoftoAKGM2Mzg1ZmNmYjQ5NTA2N2NiMmIxMDdlYzdiOWM0ZmUzNjI1NDZjMzE",
+    "commit": {
+      "author": {
+        "name": "hawkeyexl",
+        "email": "hawkeyexl@gmail.com",
+        "date": "2026-10-01T23:41:38Z"
+      },
+      "committer": {
+        "name": "hawkeyexl",
+        "email": "hawkeyexl@gmail.com",
+        "date": "2026-10-01T23:41:38Z"
+      },
+      "message": "ci: measure truncation in API records, not emitted paths\n\nThe guard counted the paths the query emitted, but a rename emits two paths for\none record, so a rename could mask a record lost to the API's 3000-entry cap:\n3000 records including one rename emit 3001 paths, which matches a changed_files\nof 3001 exactly and reads as complete. If the omitted record held the only code\nchange, the matrix skipped and the placeholders reported green.\n\nThe query now emits one line per record as `@tsv`, pairing the new path with the\nold one. The record count drives the truncation check; the paths are recovered by\nsplitting on the tab, which keeps both halves of a rename in the selector's input.\n\nSimulated against a stubbed `gh`, with the finding's own scenario first:\n\n  renamemask   2 records for 3 changed files -> truncated   -> code=true\n  renameclean  1 record  for 1 changed file  -> complete    -> code=true\n  docsonly     2 records for 2 changed files -> complete     -> code=false\n  metafail     metadata call fails           -> untrusted    -> code=true\n\nBefore this change renamemask produced code=false, which is the bug.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "e3f61b8cbd82c1d5c16bc9167222fad7aedfa12c",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/git/trees/e3f61b8cbd82c1d5c16bc9167222fad7aedfa12c"
+      },
+      "url": "https://api.github.com/repos/doc-detective/doc-detective/git/commits/c6385fcfb495067cb2b107ec7b9c4fe362546c31",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/c6385fcfb495067cb2b107ec7b9c4fe362546c31",
+    "html_url": "https://github.com/doc-detective/doc-detective/commit/c6385fcfb495067cb2b107ec7b9c4fe362546c31",
+    "comments_url": "https://api.github.com/repos/doc-detective/doc-detective/commits/c6385fcfb495067cb2b107ec7b9c4fe362546c31/comments",
+    "author": {
+      "login": "hawkeyexl",
+      "id": 5209367,
+      "node_id": "MDQ6VXNlcjUyMDkzNjc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5209367?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hawkeyexl",
+      "html_url": "https://github.com/hawkeyexl",
+      "followers_url": "https://api.github.com/users/hawkeyexl/followers",
+      "following_url": "https://api.github.com/users/hawkeyexl/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hawkeyexl/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hawkeyexl/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hawkeyexl/subscriptions",
+      "organizations_url": "https://api.github.com/users/hawkeyexl/orgs",
+      "repos_url": "https://api.github.com/users/hawkeyexl/repos",
+      "events_url": "https://api.github.com/users/hawkeyexl/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hawkeyexl/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hawkeyexl",
+      "id": 5209367,
+      "node_id": "MDQ6VXNlcjUyMDkzNjc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5209367?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hawkeyexl",
+      "html_url": "https://github.com/hawkeyexl",
+      "followers_url": "https://api.github.com/users/hawkeyexl/followers",
+      "following_url": "https://api.github.com/users/hawkeyexl/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hawkeyexl/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hawkeyexl/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hawkeyexl/subscriptions",
+      "organizations_url": "https://api.github.com/users/hawkeyexl/orgs",
+      "repos_url": "https://api.github.com/users/hawkeyexl/repos",
+      "events_url": "https://api.github.com/users/hawkeyexl/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hawkeyexl/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a49a1662ab0e7476055b54a51a3f97adf1742bd8",
+        "url": "https://api.github.com/repos/doc-detective/doc-detective/commits/a49a1662ab0e7476055b54a51a3f97adf1742bd8",
+        "html_url": "https://github.com/doc-detective/doc-detective/commit/a49a1662ab0e7476055b54a51a3f97adf1742bd8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://codekeeper.co",
+    "name": "Should you include an SBOM in your software escrow",
+    "snippet": "Jul 13, 2026 — Enterprise clients are asking for both escrow and an SBOM. Here's how to satisfy both with a single verified deposit so you can shorten ...",
+    "host_name": "codekeeper.co",
+    "rank": 0,
+    "date": "Jul 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://nflo.tech",
+    "name": "SBOM: software bill of materials for supply chain security - nFlo",
+    "snippet": "Sep 23, 2025 — How to require SBOM from software vendors ? Demanding SBOM from vendors requires incorporating this requirement at the contracting stage, but ... Read more",
+    "host_name": "nflo.tech",
+    "rank": 1,
+    "date": "Sep 23, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sonatype.com",
+    "name": "Software Assurance | 2026 Software Supply Chain Report",
+    "snippet": "Jan 23, 2026 — Global software regulations are reshaping software assurance and compliance . Learn how SBOMs and transparency impact the software supply ...",
+    "host_name": "www.sonatype.com",
+    "rank": 2,
+    "date": "Jan 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.encryptionconsulting.com",
+    "name": "What Is a SBOM? Software Supply Chain Security Explained",
+    "snippet": "Jul 3, 2026 — A SBOM is a machine-readable inventory of software components used to secure the supply chain. Learn what it is, the 2026 rules, formats, ...",
+    "host_name": "www.encryptionconsulting.com",
+    "rank": 3,
+    "date": "Jul 3, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.securitytoday.de",
+    "name": "CRA's 24-Hour Reporting: IT Security Must Prepare",
+    "snippet": "Apr 9, 2026 — Starting 11 September 2026 , the Cyber Resilience Act mandates reporting for actively exploited vulnerabilities: 24-hour early warning, ... Read more",
+    "host_name": "www.securitytoday.de",
+    "rank": 4,
+    "date": "Apr 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://labradorlabs.ai",
+    "name": "Securely sharing SBOMs under NIS2",
+    "snippet": "Jan 26, 2026 — Vendors were expected to share SBOMs with customers , but vendors themselves often had little visibility into their own upstream dependencies ... Read more",
+    "host_name": "labradorlabs.ai",
+    "rank": 5,
+    "date": "Jan 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.lineaje.com",
+    "name": "The Worldwide SBOM Movement: A New Era of Software",
+    "snippet": "Nov 21, 2024 — In response to these cybersecurity mandates, SBOMs are becoming essential for organizations aiming to secure their software . As part of SBOM ... Read more",
+    "host_name": "www.lineaje.com",
+    "rank": 6,
+    "date": "Nov 21, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.contrastsecurity.com",
+    "name": "It's SBOM time! | Software Bill of Materials for federal",
+    "snippet": "Oct 20, 2022 — We suggest that providers get ready to start publicizing their SBOMs — something that's in the works and due in coming months at Contrast ... Read more",
+    "host_name": "www.contrastsecurity.com",
+    "rank": 7,
+    "date": "Oct 20, 2022",
+    "favicon": ""
+  }
+]

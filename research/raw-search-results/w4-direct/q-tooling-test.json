@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov",
+    "name": "XGAP: a uniform and extensible data model and software",
+    "snippet": "by MA Swertz · 2010 · Cited by 29 — We present an extensible software model for the genotype and phenotype community, XGAP. Readers can download a standard XGAP (http://www.xgap.org) or ...",
+    "host_name": "pubmed.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov",
+    "name": "NHLBI TOPMed: San Antonio Family Heart Study (SAFHS)",
+    "snippet": "In doing so, this program aims to uncover factors that increase or decrease the risk of disease, to identify subtypes of disease, and to develop more targeted ... Read more",
+    "host_name": "www.ncbi.nlm.nih.gov",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.broadinstitute.org",
+    "name": "Why just increasing diversity in genome science is not",
+    "snippet": "Increasing diversity in large-scale studies of human genetic variation is important in understanding disease and identifying new potential drug targets.",
+    "host_name": "www.broadinstitute.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://spi-hub.app.vumc.org",
+    "name": "Data Repository General Information - SPI-Hub",
+    "snippet": "SPI-Hub™: Scholarly Publishing Information Hub Vanderbilt University Medical Center ; Data repository name: Database of Genotypes and Phenotypes (dbGaP). Read more",
+    "host_name": "spi-hub.app.vumc.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.eurekalert.org",
+    "name": "Researchers generate the first complete, gapless",
+    "snippet": "Scientists have published the first complete, gapless sequence of a human genome, two decades after the Human Genome Project produced the first draft human ...",
+    "host_name": "www.eurekalert.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

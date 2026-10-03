@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://nhimg.org",
+    "name": "AI agent prompt injection detection: are your controls",
+    "snippet": "Aug 20, 2026 — TL;DR: Prompt injection in production AI agents is an 8-stage attack chain, not a single event, and ARMO argues that reliable detection ... Read more",
+    "host_name": "nhimg.org",
+    "rank": 0,
+    "date": "Aug 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Model Context Protocol Threat Modeling and Analyzing",
+    "snippet": "Mar 23, 2026 — Azure Prompt Shields detect prompt-injection attempts in real time . We evaluated mechanisms for detecting prompt injection attempts in tool ...",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "Mar 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://flutteris.com",
+    "name": "AI Agents & Prompt Injection: The Security Crisis You",
+    "snippet": "Mar 8, 2026 — This article explains what AI agents are, why they represent a paradigm shift, and why prompt injection is the #1 security threat facing any ... Read more",
+    "host_name": "flutteris.com",
+    "rank": 2,
+    "date": "Mar 8, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.aws.amazon.com",
+    "name": "AGENTSEC09-BP02 Conduct context-aware penetration",
+    "snippet": "Learn best practices for establishing scoped, isolated testing environments for agentic AI security assessments using AWS Secrets Manager , CloudWatch, and IAM. Read more",
+    "host_name": "docs.aws.amazon.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dryrun.security",
+    "name": "Building Secure AI Applications",
+    "snippet": "Prompt injection happens when an attacker places instructions in a user prompt or in content your system later retrieves, and the model treats those ... Read more",
+    "host_name": "www.dryrun.security",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://co-r-e.com",
+    "name": "Is AI-Generated UI Safe? Inside AegisUI, an Anomaly",
+    "snippet": "Jul 3, 2026 — Security is ensured on both the input side ( prompt injection prevention) and the output side (payload anomaly detection ). Are session ... Read more",
+    "host_name": "co-r-e.com",
+    "rank": 5,
+    "date": "Jul 3, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://sanj.dev",
+    "name": "AI Agent Security: Critical Enterprise Risks and Mitigation",
+    "snippet": "Feb 6, 2025 — Comprehensive guide to AI agent security challenges, including prompt injection attacks , data leakage prevention, and enterprise deployment ...",
+    "host_name": "sanj.dev",
+    "rank": 6,
+    "date": "Feb 6, 2025",
+    "favicon": ""
+  }
+]

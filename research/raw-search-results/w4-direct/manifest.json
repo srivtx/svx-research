@@ -1,0 +1,19 @@
+[
+ {
+  "svxsearch-meta": true,
+  "file": "q-tooling-test.json",
+  "query": "SVX research gap registry",
+  "utc": "2026-10-03T23:35:41+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "5 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "5 empty-title rows (V4 quirk)"
+  ]
+ }
+]

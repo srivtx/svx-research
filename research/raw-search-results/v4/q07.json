@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://mydigitalpublication.com",
+    "name": "Issue 4 • Five Best Practices For Testing And Debugging",
+    "snippet": "Sep 22, 2017 — Enterprise Tech Journal - 2017: Issue 4. Five Best Practices For Testing And Debugging COBOL Programs You Plan To Migrate. Read more",
+    "host_name": "mydigitalpublication.com",
+    "rank": 0,
+    "date": "Sep 22, 2017",
+    "favicon": ""
+  },
+  {
+    "url": "https://lookupmainframesoftware.com",
+    "name": "Software in Categories:Testing+COBOL",
+    "snippet": "List of Mainframe software matching the categories: Categories: Testing + COBOL .",
+    "host_name": "lookupmainframesoftware.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blogs.bmc.com",
+    "name": "How to Properly Test and Debug COBOL Programs You're",
+    "snippet": "Automatically collect and keep test data with unit tests using tools like Compuware; Automatically generate unit tests and test assets. Automated unit testing ... Read more",
+    "host_name": "blogs.bmc.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://flexion.us",
+    "name": "AI-driven mainframe modernization - Flexion Inc.",
+    "snippet": "For decades, a large federal healthcare agency has relied on a large COBOL -based system to process national healthcare claims at scale. Read more",
+    "host_name": "flexion.us",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ibmmainframeforum.com",
+    "name": "How to set up mainframe to DEBUG a cobol batch program?",
+    "snippet": "HI Please help me. Currently in my mainframe system we compile a cobol program using batch jcl to submit. I would like to debug the program instead of using ... Read more",
+    "host_name": "www.ibmmainframeforum.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.testingmind.com",
+    "name": "Implementing Mainframe DevOps & Test Automation",
+    "snippet": "Dec 8, 2020 — But Testing COBOL Mainframes remains a challenge and lacks focus in the testing world. ... Only Testing Mainframe code via the front-end or ... Read more",
+    "host_name": "www.testingmind.com",
+    "rank": 5,
+    "date": "Dec 8, 2020",
+    "favicon": ""
+  }
+]

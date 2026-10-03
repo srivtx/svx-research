@@ -164,3 +164,21 @@ Stage Summary:
 - Registry is current with three verification passes; 34 raw evidence files added this wave (301 total corpus)
 - Necessity cases are quotable: row 13 = "70% fail / 80% miss deadlines; testing pays 33% on-platform while cross-system equivalence is unowned"; row 14 = "$700-1,000/mo human workaround, 75.5% churn regenerating exceptions forever, incumbent roadmap validating demand"
 - Open threads for wave 4: Imogen marketplace listing detail (row-13 gate), AlayaCare endpoint depth (row-14 gate), Doc Detective via GitHub-direct read, Ply via vendor-page read
+
+---
+Task ID: WAVE4
+Agent: main (Super Z) + verification agents V4/V5 + lens agents R14/R15
+Task: Per owner: "more research and enhance it and optimise it" — wave 4: clear the remaining follow-ups, open two new lenses, resolve the product build gates by direct reads, and harden the research process itself
+
+Work Log:
+- More research: launched V4 (AI-infra follow-ups, 13 calls, zero 429s — cleanest rate window yet), V5 (9 vertical stragglers, 15 calls, 9/9 verdicts), R14 (security/supply-chain lens, first ever — 15 calls), R15 (education-ops lens, first ever — 15 calls); all staggered, all delivered reports + immutable raw evidence
+- Direct-read gates (main agent, no search): AlayaCare developer portal read in full — 397 endpoints incl. EVV records, visit/task CRUD, and the write paths the approval loop needs; Imogen AWS Marketplace listing read via headless browser (private-offer SaaS, harness embedded, Thoughtworks/Perficient partner listings); Mechanical Orchard site read (free-PoC funnel, "your code never leaves an MO-controlled cloud instance"); Doc Detective GitHub API read (134 stars, v4.38.1, commits through Oct 2026, agent-tools offshoot); AlayaCare absorption check (press search: agentic AI / Form Assistant / Clinical Agent announced Mar-May 2026)
+- Enhance (products fed): svx-careops Goal 0 resolved — docs/gate-log.md with the full endpoint inventory; cross-platform adapter promoted to day-one design requirement; README/CHANGELOG updated; pushed @ 8812688. svx-parityrun Goal 0 resolved — docs/gate-log.md with the marketplace evidence; wedge re-framed to engine-agnostic/SI-owned/any-target; Goal 3 amended (V4 killed the standalone reconciliation slice — Arbutus/DataChecks); README/CHANGELOG updated; pushed @ 0add839. svx-evalgate Goal 6 evidence addendum (model-EOL cross-vendor slice); pushed @ 67af80b
+- Optimise (process): tools/svxsearch.py shipped (junk-artifact detection incl. the OSRS artifact, append-only query manifest — fixes R8's argv-loss class, 429 retry discipline, pacing, USABLE/THIN/JUNK grading; tested live) + tools/SEARCH-PLAYBOOK.md (degradation map with 7 documented patterns, direct-read recipes for API docs/GitHub/JS-walled marketplaces, the 3-strike phrasing-retirement rule, runtime discipline from the deadline deaths, retired-phrasings list)
+- Consolidation: registry rows 4/13/14 updated with gate outcomes; 8 new searched-and-closed rows with closers named; both new lens verticals recorded (security closed at generic layer + CRA watch-list; education near-closed + IEP thin survivor); follow-up list cut from 20 to 10 honest items; README badge/corpus counts updated (369 raw sets)
+
+Stage Summary:
+- All three product repos now have their Goal-0 gates RESOLVED with primary-source evidence — the system's research→gate→re-frame loop ran end to end: gates fired on both product rows and the work orders were amended the same session
+- Net research outcome this wave: 1 vertical closed (security/supply-chain), 1 near-closed (education), 6 candidates closed with closers, 2 rows narrowed-but-strengthened, gap #4 narrowed to the commercial layer — the kill-list discipline keeps producing negative knowledge at least as valuable as the rows
+- The research process itself is now tooled: future agents inherit svxsearch.py + the playbook instead of re-learning 6 waves of degradation lessons
+- Honest open items for wave 5: IEP overlay gates (direct reads), CRA 2-quarter re-check, WellSky API depth, EU AI Act Art. 50 guidance, model-migration war stories, plus 3 user-forum reads (margin overlay, warranty, Paperless Parts)

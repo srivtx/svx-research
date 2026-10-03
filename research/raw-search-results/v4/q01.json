@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://planetmainframe.com",
+    "name": "A Security-Centric Perspective, featuring Colin Knight",
+    "snippet": "Oct 14, 2025 — Avoid phantom data through automated reconciliation , clear rollback policies, and data lineage tracking that aligns governance across both  ...",
+    "host_name": "planetmainframe.com",
+    "rank": 0,
+    "date": "Oct 14, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://interrait.com",
+    "name": "From COBOL to Cloud-Native: Engineering Resilient",
+    "snippet": "May 14, 2025 — A lift-and-shift methodology to migrate existing mainframe workloads. InterraIT provides Parallel-run and phased deployments with zero downtime ...",
+    "host_name": "interrait.com",
+    "rank": 1,
+    "date": "May 14, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://virtualzcomputing.com",
+    "name": "AI-Ready Mainframe Data Access — August 2026",
+    "snippet": "Sep 16, 2026 — VirtualZ moves mainframe data faster for AI, cloud, backup, and analytics, million records in 18 minutes. Zafin opens decoded data up for  ...",
+    "host_name": "virtualzcomputing.com",
+    "rank": 2,
+    "date": "Sep 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://blogs.vmware.com",
+    "name": "6 Steps to Successful Mainframe Modernization - Tanzu",
+    "snippet": "Sep 10, 2020 — So, how do enterprises reconcile development velocity with the belief that mainframe modernization requires extended planning and execution? Read more",
+    "host_name": "blogs.vmware.com",
+    "rank": 3,
+    "date": "Sep 10, 2020",
+    "favicon": ""
+  },
+  {
+    "url": "https://twincore.net",
+    "name": "Top Legacy Software Modernization Companies in 2026",
+    "snippet": "5 days ago — Legacy modernization companies help enterprises turn aging systems into software that modern engineering teams can safely change, deploy, and ...",
+    "host_name": "twincore.net",
+    "rank": 4,
+    "date": "Sep 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://cdn2.hubspot.net",
+    "name": "MAINFRAMES SIMPLIFIED DECOMMISSIONING",
+    "snippet": "Decommissioning a mainframe is like an extreme data migration project, RECONCILE THE MIGRATION . Arbutus Software offers the best value for advanced data ... 11 pages",
+    "host_name": "cdn2.hubspot.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.in-com.com",
+    "name": "Top IT System Integration Companies for Mainframe and",
+    "snippet": "Feb 27, 2026 — Accenture delivers integration services across cloud migration , API orchestration, enterprise data platforms, and legacy modernization ...",
+    "host_name": "www.in-com.com",
+    "rank": 6,
+    "date": "Feb 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) The Roadmap to Mainframe Modernization",
+    "snippet": "Jun 29, 2026 — This comprehensive technical article presents a strategic framework for transitioning from legacy mainframe infrastructure to cloud-native ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 7,
+    "date": "Jun 29, 2026",
+    "favicon": ""
+  }
+]

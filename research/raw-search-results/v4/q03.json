@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.ibm.com",
+    "name": "Introduction to DB2 for z/OS",
+    "snippet": "represents an XML document can be transformed to an XML value by using the XMLPARSE function. Validation of an XML document against an XML schema, 489 pages",
+    "host_name": "www.ibm.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aidatacatalyst.com",
+    "name": "DB2 Stored Procedure & Logic Conversion to PostgreSQL PL",
+    "snippet": "AI Data Catalyst is designed to reduce manual rewriting by generating conversion candidates, procedure diffs, regression-test scaffolds, and review queues. Read more",
+    "host_name": "aidatacatalyst.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.segus.com",
+    "name": "With DB2 V8 IBM introduced a new feature called plan",
+    "snippet": "With DB2 V8 IBM introduced a new feature called plan stability. Since this feature doesn't do anything with plans, it is now called package stability. Read more",
+    "host_name": "www.segus.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mangoitsolutions.com",
+    "name": "Migrating sql server to azure sql database | Blog",
+    "snippet": "Jun 13, 2022 — To detect issues impeding migration or compromising feature parity , select Start assessment. Examine the assessment's reports—you can export ... Read more",
+    "host_name": "www.mangoitsolutions.com",
+    "rank": 3,
+    "date": "Jun 13, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datachecks.io",
+    "name": "AI-Powered SQL & ETL Conversion - Translation Agent",
+    "snippet": "The agent iterates automatically until output parity is achieved. report up to 80% reduction accelerating database or warehouse migration timelines from months ...",
+    "host_name": "www.datachecks.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nextpathway.com",
+    "name": "Azure Data Factory to Snowflake Migration Case Study",
+    "snippet": "Validation and functional parity . Every migrated workload must be validated against the legacy source to confirm data accuracy and functional equivalence ... Read more",
+    "host_name": "www.nextpathway.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://public.dhe.ibm.com",
+    "name": "pureXML Guide",
+    "snippet": "The pureXML® Guide describes how you work with XML data in DB2® databases . It tells you about the XML data type and XML storage, how you work with XML. Read more",
+    "host_name": "public.dhe.ibm.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aws.amazon.com",
+    "name": "AIHouse AI Agent for Data Warehouse Modernization - AWS",
+    "snippet": "Deliver predictable migrations with automated conversion, validation, and benchmarking that ensures data accuracy, performance parity, and controlled cutover to ... Read more",
+    "host_name": "aws.amazon.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

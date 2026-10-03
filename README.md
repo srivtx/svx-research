@@ -4,8 +4,8 @@
 
 ![SVX](https://img.shields.io/badge/SVX-Research-298959?style=flat-square)
 ![Report](https://img.shields.io/badge/report-27%20pages%20%2F%20PDF-456454?style=flat-square)
-![Tracks](https://img.shields.io/badge/tracks-R1%E2%80%93R13%20%2B%20V1%E2%80%93V3-4fbb85?style=flat-square)
-![Evidence](https://img.shields.io/badge/evidence-301%20raw%20search%20sets-77817c?style=flat-square)
+![Tracks](https://img.shields.io/badge/tracks-R1%E2%80%93R15%20%2B%20V1%E2%80%93V5-4fbb85?style=flat-square)
+![Evidence](https://img.shields.io/badge/evidence-369%20raw%20search%20sets-77817c?style=flat-square)
 
 ---
 
@@ -26,8 +26,8 @@ On **September 30, 2026**, the loop ran again: eight more agents (R6–R13) clea
 | Path | Contents |
 |------|----------|
 | [`report/`](report/) | The final deliverable: `SVX-Industry-Gap-Analysis-2025-2026.pdf` (27 pages, A4, Edition 2) + cover HTML source |
-| [`research/track-reports/`](research/track-reports/) | The fourteen full track reports (R1–R13, ~41,800 words total) |
-| [`research/raw-search-results/`](research/raw-search-results/) | The raw search-result corpus (301 JSON sets) — the auditable evidence base |
+| [`research/track-reports/`](research/track-reports/) | The full track reports (R1–R15 + verification passes V1–V5, ~55,000 words total) |
+| [`research/raw-search-results/`](research/raw-search-results/) | The raw search-result corpus (369 JSON sets) — the auditable evidence base |
 | [`build/`](build/) | Reproducible report build: ReportLab pipeline, chart generation, green cascade palette |
 | [`docs/research-worklog.md`](docs/research-worklog.md) | The multi-agent work log — who researched what, agent by agent |
 | [`AGENT-MISSION.md`](AGENT-MISSION.md) | The whole story + the continuous research loop — how agents feed this repo, how products spin out of it |
