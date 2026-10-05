@@ -1,0 +1,325 @@
+[
+ {
+  "svxsearch-meta": true,
+  "file": "q01.json",
+  "query": "percentage of consumers forgot subscription free trial charged survey statistics",
+  "utc": "2026-10-05T02:29:23+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "7 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "7 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q02.json",
+  "query": "consumers underestimate monthly subscription spending survey statistics how much",
+  "utc": "2026-10-05T02:29:25+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "4 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "4 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q03.json",
+  "query": "Rocket Money complaints subscription fee not worth it bank login required",
+  "utc": "2026-10-05T02:29:45+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "6 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "6 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q04.json",
+  "query": "reddit app to track free trials without linking bank account",
+  "utc": "2026-10-05T02:29:48+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "1 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "1 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q05.json",
+  "query": "unused gift cards billions unspent statistics United States",
+  "utc": "2026-10-05T02:29:49+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "8 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "8 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q06.json",
+  "query": "expired product warranties unclaimed money statistics warranty unused",
+  "utc": "2026-10-05T02:30:06+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "4 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "4 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q07.json",
+  "query": "deferred interest 0 percent APR trap backdated interest complaints CFPB",
+  "utc": "2026-10-05T02:30:08+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "7 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "7 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q08.json",
+  "query": "passport expired denied boarding six month validity rule travelers statistics",
+  "utc": "2026-10-05T02:30:10+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "5 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "5 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q07b.json",
+  "query": "store credit card deferred interest survey consumers charged retroactive interest",
+  "utc": "2026-10-05T02:30:30+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "10 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "10 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q09.json",
+  "query": "business lost domain name expired accidentally renewal horror statistics",
+  "utc": "2026-10-05T02:30:35+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "7 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "7 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q10.json",
+  "query": "food expiration date tracker pantry app popular users",
+  "utc": "2026-10-05T02:30:37+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "3 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "3 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q11.json",
+  "query": "subscription renewal reminder app without bank account privacy offline",
+  "utc": "2026-10-05T02:30:53+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "9 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "9 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q12.json",
+  "query": "warranty tracker app receipt reminder expiration date",
+  "utc": "2026-10-05T02:30:55+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "1 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "1 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q13.json",
+  "query": "gift card balance tracker expiration reminder app",
+  "utc": "2026-10-05T02:30:57+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "4 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "4 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q14.json",
+  "query": "ExpiryRadar app",
+  "utc": "2026-10-05T02:30:58+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "8 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "8 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q15.json",
+  "query": "Apple iOS automatic renewal notifications subscription alerts default settings",
+  "utc": "2026-10-05T02:32:43+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": false,
+    "detail": "no file; rc=1; Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!"
+   }
+  ],
+  "grade": "FAILED",
+  "reasons": [
+   "search failed"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q16.json",
+  "query": "Dueday app OR DueDay tracker",
+  "utc": "2026-10-05T02:32:49+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "5 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "5 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q15b.json",
+  "query": "Apple subscription renewal reminder notification iPhone App Store settings",
+  "utc": "2026-10-05T02:33:32+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "2 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "2 empty-title rows (V4 quirk)"
+  ]
+ },
+ {
+  "svxsearch-meta": true,
+  "file": "q17.json",
+  "query": "Pocket Veto app subscription tracker reminder",
+  "utc": "2026-10-05T02:35:10+00:00",
+  "attempts": [
+   {
+    "try": 1,
+    "ok": true,
+    "detail": "7 rows"
+   }
+  ],
+  "grade": "JUNK",
+  "reasons": [
+   "7 empty-title rows (V4 quirk)"
+  ]
+ }
+]
