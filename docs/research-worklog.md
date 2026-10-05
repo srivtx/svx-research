@@ -182,3 +182,18 @@ Stage Summary:
 - Net research outcome this wave: 1 vertical closed (security/supply-chain), 1 near-closed (education), 6 candidates closed with closers, 2 rows narrowed-but-strengthened, gap #4 narrowed to the commercial layer — the kill-list discipline keeps producing negative knowledge at least as valuable as the rows
 - The research process itself is now tooled: future agents inherit svxsearch.py + the playbook instead of re-learning 6 waves of degradation lessons
 - Honest open items for wave 5: IEP overlay gates (direct reads), CRA 2-quarter re-check, WellSky API depth, EU AI Act Art. 50 guidance, model-migration war stories, plus 3 user-forum reads (margin overlay, warranty, Paperless Parts)
+
+---
+Task ID: R16/WAVE5-PIVOT
+Agent: main (Super Z)
+Task: Consumer money-dates lens (owner pivot) + same-day productization
+
+Work Log:
+- 17 searches into research/raw-search-results/w5cp/ (manifest attached, empty-title quirk persistent; graded from snippets)
+- Verdict: BUILD candidate A (unified money-dates radar) — scoring 33/35; 6 alternatives killed; naming collisions killed ExpiryRadar/DueDay/Unlapse/NeverDue/Vigilo; PocketVeto clean
+- Registry: row 15 added + consumer lens recorded + kill-list entries + 2 follow-ups (competitive watch, notification-honesty audit)
+- Product: github.com/srivtx/pocketveto v1.0.0 (Next.js 16 local-first PWA, 26 tests, CI green, browser-verified end-to-end) shipped 2026-10-05
+
+Stage Summary:
+- Lens OPENED and CLOSED-INTO-PRODUCT same day; the research→registry→product loop ran in one session
+- Key evidence anchors for future re-checks: WalletHub 2026 deferred-interest study (80%); $21–23B gift-card pool; Rocket Money complaint record; SubTracker paywalled reminders; platform absorption bounded to platform-billed subs
